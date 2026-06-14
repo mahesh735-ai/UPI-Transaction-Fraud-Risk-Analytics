@@ -1,0 +1,501 @@
+merchant_id,merchant_name,category,city,registration_date,is_verified
+MER0001,Bhavsar PLC,E-Commerce,Mumbai,2025-06-21,True
+MER0002,"Gala, Talwar and Padmanabhan",Recharge & Bills,Bangalore,2025-07-18,True
+MER0003,Ganguly PLC,Entertainment,Kanpur,2022-11-03,True
+MER0004,Sunder LLC,Entertainment,Pune,2025-08-24,True
+MER0005,"Sur, Deep and Varty",Grocery,Delhi,2023-12-22,True
+MER0006,"Tandon, Karnik and Koshy",Travel,Ahmedabad,2024-12-10,True
+MER0007,"Chana, Ahluwalia and Patla",Entertainment,Lucknow,2023-11-07,True
+MER0008,Sachdeva Inc,Travel,Indore,2024-03-30,True
+MER0009,"Magar, Sangha and Mittal",Wallet Transfer,Bangalore,2025-02-11,True
+MER0010,Chatterjee and Sons,Healthcare,Surat,2024-04-13,False
+MER0011,"Seth, Divan and Chandran",E-Commerce,Bhopal,2025-09-25,True
+MER0012,Sundaram Ltd,Healthcare,Jaipur,2023-12-31,True
+MER0013,"Dugal, Bhardwaj and Badami",Recharge & Bills,Ahmedabad,2025-12-01,True
+MER0014,Cherian-Dutta,Fuel,Indore,2026-02-10,True
+MER0015,Bhardwaj-Raju,Entertainment,Ahmedabad,2026-03-05,True
+MER0016,Tiwari-Walia,Travel,Nagpur,2023-10-15,True
+MER0017,"Wali, Nayak and Vasa",Wallet Transfer,Kolkata,2023-03-08,True
+MER0018,Lad-Om,E-Commerce,Kanpur,2025-04-12,True
+MER0019,Sandal-Narayan,Entertainment,Kanpur,2023-06-22,True
+MER0020,Arora-Kibe,Healthcare,Nagpur,2023-10-26,True
+MER0021,"Bhargava, Narain and Sami",Grocery,Kolkata,2022-05-27,True
+MER0022,"Kuruvilla, Babu and Dhillon",Entertainment,Delhi,2024-04-17,False
+MER0023,Jani-Shenoy,Food & Dining,Jaipur,2024-10-19,True
+MER0024,Sandhu-Varkey,Healthcare,Ahmedabad,2023-09-27,True
+MER0025,Goel-Rao,Recharge & Bills,Surat,2024-08-04,False
+MER0026,Shetty-Bahl,Grocery,Indore,2026-01-04,True
+MER0027,Sen-Agrawal,Fuel,Jaipur,2022-10-28,True
+MER0028,"Palan, Wagle and Narasimhan",Education,Delhi,2024-03-17,True
+MER0029,Dua-Gala,Travel,Ahmedabad,2023-01-04,True
+MER0030,"Rege, Sastry and Doshi",Entertainment,Delhi,2022-09-15,False
+MER0031,Karan PLC,Fuel,Pune,2023-11-27,True
+MER0032,Chatterjee PLC,Grocery,Bangalore,2023-01-14,True
+MER0033,"Bahl, Johal and Contractor",Travel,Bhopal,2025-06-12,True
+MER0034,Chakraborty Group,Recharge & Bills,Jaipur,2023-08-06,True
+MER0035,Kothari-Mani,Entertainment,Pune,2024-05-10,False
+MER0036,"Nori, Jha and Srinivasan",Wallet Transfer,Mumbai,2024-08-23,True
+MER0037,Walia Inc,Education,Delhi,2024-11-28,True
+MER0038,Dutta Inc,Food & Dining,Jaipur,2025-06-16,True
+MER0039,Minhas-Parmer,E-Commerce,Jaipur,2023-05-19,True
+MER0040,Nagi and Sons,Entertainment,Kolkata,2024-07-07,True
+MER0041,Tara LLC,E-Commerce,Ahmedabad,2023-03-22,True
+MER0042,Chauhan-Gulati,Wallet Transfer,Bhopal,2024-10-24,True
+MER0043,"Gupta, Hegde and Kant",Travel,Chennai,2025-08-23,True
+MER0044,Mangal-Mammen,Travel,Nagpur,2025-03-15,False
+MER0045,"Shere, Mukherjee and Tak",E-Commerce,Kanpur,2023-10-12,True
+MER0046,Chopra-Bala,Education,Mumbai,2026-01-24,True
+MER0047,Kohli and Sons,E-Commerce,Lucknow,2024-07-13,True
+MER0048,"Pal, Sampath and Varughese",Fuel,Bangalore,2024-03-19,True
+MER0049,Bobal-Sinha,Grocery,Bhopal,2025-01-02,True
+MER0050,Palla and Sons,Entertainment,Mumbai,2024-05-06,True
+MER0051,"Kunda, Mahal and Chahal",E-Commerce,Kolkata,2023-06-30,True
+MER0052,Kant LLC,Travel,Chennai,2023-10-26,True
+MER0053,Jaggi-Dara,Wallet Transfer,Lucknow,2024-10-31,True
+MER0054,Gaba Group,Fuel,Kanpur,2026-03-17,False
+MER0055,Pai-Varty,Fuel,Nagpur,2025-01-06,True
+MER0056,D’Alia-Nanda,Travel,Chennai,2025-08-18,True
+MER0057,"Chada, Ghosh and Hans",Grocery,Hyderabad,2023-03-13,True
+MER0058,Mukhopadhyay LLC,Grocery,Delhi,2023-10-15,True
+MER0059,Karan Ltd,Wallet Transfer,Pune,2024-05-30,True
+MER0060,"Sharma, Sankaran and Bose",E-Commerce,Kolkata,2024-12-07,True
+MER0061,"Sabharwal, Kunda and Om",Education,Mumbai,2022-05-19,True
+MER0062,"Prakash, Kannan and Rau",Food & Dining,Kolkata,2024-06-08,True
+MER0063,Choudhary Group,E-Commerce,Mumbai,2024-06-18,True
+MER0064,Saraf Group,Grocery,Surat,2024-10-12,False
+MER0065,Dhingra Inc,Fuel,Ahmedabad,2025-08-03,False
+MER0066,Suri and Sons,Entertainment,Bhopal,2026-01-10,True
+MER0067,More Inc,Wallet Transfer,Lucknow,2024-12-23,True
+MER0068,Thaman PLC,Fuel,Pune,2025-10-07,False
+MER0069,"Banerjee, Sharma and Anand",Wallet Transfer,Bhopal,2024-03-20,False
+MER0070,"Yohannan, Viswanathan and Ganesh",Wallet Transfer,Chennai,2025-12-03,True
+MER0071,Varughese Inc,Entertainment,Kanpur,2024-11-21,True
+MER0072,Sengupta PLC,Travel,Delhi,2025-03-01,False
+MER0073,Wason LLC,Grocery,Bangalore,2022-09-06,False
+MER0074,"Ganesh, Shukla and Singh",Food & Dining,Hyderabad,2023-03-03,True
+MER0075,"Balasubramanian, Hans and Patil",E-Commerce,Bhopal,2025-07-30,False
+MER0076,"Brar, Mammen and Saraf",Food & Dining,Lucknow,2025-06-20,False
+MER0077,Subramanian PLC,Recharge & Bills,Bhopal,2024-10-01,False
+MER0078,"Gera, Edwin and Anand",Food & Dining,Hyderabad,2025-06-22,True
+MER0079,Batra LLC,Fuel,Surat,2025-12-09,True
+MER0080,"Sen, Deshmukh and Sharma",Grocery,Surat,2023-07-25,True
+MER0081,Chadha PLC,Recharge & Bills,Kolkata,2026-04-07,True
+MER0082,Kannan-Saraf,Education,Hyderabad,2025-05-30,True
+MER0083,Mander Ltd,E-Commerce,Pune,2022-12-17,True
+MER0084,"Borra, Dube and Ravi",Fuel,Bangalore,2026-02-13,True
+MER0085,"Memon, Manne and Ganesh",Fuel,Kolkata,2024-02-08,True
+MER0086,"Raju, Sura and Natt",Food & Dining,Delhi,2023-10-02,True
+MER0087,"Prabhu, Patla and Kamdar",Grocery,Indore,2024-04-29,True
+MER0088,"Edwin, Chand and Muni",Grocery,Lucknow,2025-10-03,True
+MER0089,Ray-Mukherjee,Fuel,Ahmedabad,2022-07-25,True
+MER0090,"Dubey, Dutt and Lall",Fuel,Mumbai,2023-12-12,False
+MER0091,Sankaran Ltd,Fuel,Nagpur,2025-09-15,True
+MER0092,Bava Ltd,Recharge & Bills,Hyderabad,2025-09-06,False
+MER0093,"Chaudhary, Yohannan and Tak",Travel,Nagpur,2022-10-20,True
+MER0094,"Magar, Loyal and Kothari",Entertainment,Mumbai,2024-01-20,True
+MER0095,Singh LLC,Healthcare,Mumbai,2024-11-17,True
+MER0096,"Sandhu, Karan and Balan",E-Commerce,Surat,2023-10-05,True
+MER0097,Bumb-Deshpande,Entertainment,Kolkata,2024-09-02,True
+MER0098,"Balay, Sastry and Thaman",Fuel,Lucknow,2024-04-05,True
+MER0099,Malhotra-Arya,Wallet Transfer,Nagpur,2023-07-06,True
+MER0100,Mani LLC,Education,Pune,2022-12-08,True
+MER0101,"Khanna, Buch and Pau",Food & Dining,Ahmedabad,2024-10-19,True
+MER0102,Gill LLC,Entertainment,Ahmedabad,2024-12-09,False
+MER0103,"Nazareth, Singh and Lal",Education,Nagpur,2024-05-01,True
+MER0104,"Buch, Trivedi and Subramanian",Wallet Transfer,Indore,2025-02-23,True
+MER0105,Bobal Group,Fuel,Hyderabad,2026-03-17,True
+MER0106,"Bhargava, Maharaj and Rajagopal",Food & Dining,Jaipur,2025-11-04,True
+MER0107,"Nanda, Mohan and Chacko",Food & Dining,Kolkata,2026-02-13,True
+MER0108,"Basak, Naidu and Sura",Wallet Transfer,Chennai,2023-04-16,True
+MER0109,"Ravel, Pant and Singhal",Education,Delhi,2025-01-04,True
+MER0110,Virk-Dada,Travel,Indore,2022-11-17,False
+MER0111,"Narang, Srivastava and Parmer",Entertainment,Indore,2024-10-29,True
+MER0112,Nazareth-Sanghvi,Fuel,Delhi,2026-01-23,True
+MER0113,Chakraborty Ltd,Fuel,Nagpur,2023-10-05,False
+MER0114,"Choudhry, Rama and Chahal",Healthcare,Ahmedabad,2025-01-21,True
+MER0115,"Aggarwal, Magar and Swaminathan",Entertainment,Mumbai,2023-03-04,False
+MER0116,"Choudhury, Sekhon and Seth",Grocery,Pune,2024-11-23,True
+MER0117,Majumdar Group,Recharge & Bills,Ahmedabad,2025-08-29,True
+MER0118,Nori Ltd,Healthcare,Ahmedabad,2023-05-22,True
+MER0119,Andra-Ganesan,Recharge & Bills,Jaipur,2023-11-06,True
+MER0120,Jaggi and Sons,Recharge & Bills,Nagpur,2024-08-28,True
+MER0121,"Oommen, Gera and Rau",Healthcare,Indore,2023-05-25,False
+MER0122,"Sandal, Kata and Rout",Wallet Transfer,Bhopal,2022-08-11,True
+MER0123,Mallick Group,Fuel,Bangalore,2026-04-14,True
+MER0124,Kurian Group,Travel,Lucknow,2023-02-10,True
+MER0125,Shroff-Minhas,Entertainment,Kolkata,2026-01-19,True
+MER0126,"Raj, Mohanty and Murthy",Healthcare,Kanpur,2022-08-06,True
+MER0127,Narasimhan-Chahal,Fuel,Kanpur,2025-10-22,True
+MER0128,Rattan Inc,Grocery,Nagpur,2023-07-23,True
+MER0129,Chand-Bala,Recharge & Bills,Pune,2024-09-14,True
+MER0130,"Bajwa, Cheema and Bhat",E-Commerce,Surat,2026-02-25,True
+MER0131,Bawa-Sodhi,Fuel,Bangalore,2022-07-21,True
+MER0132,Nori PLC,Grocery,Hyderabad,2022-07-07,True
+MER0133,Sami-Bhat,Grocery,Nagpur,2023-09-29,True
+MER0134,Ganguly LLC,Fuel,Delhi,2025-05-31,True
+MER0135,Chawla-Walia,Entertainment,Ahmedabad,2024-05-17,True
+MER0136,Grewal Ltd,Travel,Hyderabad,2023-12-20,True
+MER0137,Baral-Kala,Recharge & Bills,Jaipur,2026-03-04,True
+MER0138,"Modi, Sharma and Gera",Food & Dining,Mumbai,2024-11-02,True
+MER0139,"Jayaraman, Krishna and Kapur",Healthcare,Indore,2025-06-27,False
+MER0140,Choudhry-Mohanty,Travel,Chennai,2026-01-08,True
+MER0141,Babu PLC,Grocery,Bangalore,2022-08-04,True
+MER0142,Mittal Group,Education,Mumbai,2023-04-19,True
+MER0143,"Mander, Suri and Gaba",E-Commerce,Chennai,2023-04-10,True
+MER0144,Hora Ltd,Entertainment,Delhi,2022-11-17,False
+MER0145,"Tank, Dua and Chad",Wallet Transfer,Hyderabad,2025-05-19,True
+MER0146,"Dhillon, Kohli and Andra",E-Commerce,Jaipur,2024-03-05,True
+MER0147,Agrawal Inc,Recharge & Bills,Ahmedabad,2025-08-04,True
+MER0148,Sani LLC,Travel,Chennai,2024-01-16,True
+MER0149,Mander PLC,Healthcare,Kanpur,2025-05-18,True
+MER0150,Dyal Ltd,Food & Dining,Kanpur,2024-03-29,True
+MER0151,Madan and Sons,Education,Pune,2025-01-15,False
+MER0152,Choudhry Inc,Grocery,Bhopal,2025-06-06,True
+MER0153,Gade Ltd,Education,Nagpur,2024-01-02,True
+MER0154,Karnik and Sons,E-Commerce,Lucknow,2024-01-18,True
+MER0155,Jaggi Inc,Food & Dining,Indore,2024-11-03,True
+MER0156,Badal-Dey,Fuel,Kanpur,2026-03-04,True
+MER0157,Nagar Inc,Fuel,Bhopal,2025-07-11,True
+MER0158,Rama-Grewal,E-Commerce,Delhi,2026-02-08,True
+MER0159,Vasa LLC,Wallet Transfer,Nagpur,2023-06-30,True
+MER0160,Chad-Prashad,E-Commerce,Bhopal,2025-03-02,True
+MER0161,Barman and Sons,Education,Mumbai,2022-05-15,True
+MER0162,Boase-Date,Education,Delhi,2024-07-03,False
+MER0163,"Yohannan, Doshi and Bains",Grocery,Surat,2025-05-26,True
+MER0164,"Arora, Munshi and Subramanian",E-Commerce,Bhopal,2023-07-28,True
+MER0165,"Chhabra, Bajwa and Choudhury",Recharge & Bills,Indore,2024-07-19,False
+MER0166,Rana Ltd,Healthcare,Bangalore,2023-04-26,True
+MER0167,Mannan and Sons,Travel,Lucknow,2022-07-07,True
+MER0168,"Mohanty, Sabharwal and Sani",Fuel,Kanpur,2025-07-31,True
+MER0169,"Buch, Soni and Behl",Education,Ahmedabad,2025-01-24,True
+MER0170,Kaur Group,E-Commerce,Bangalore,2023-06-26,True
+MER0171,Mammen and Sons,Healthcare,Chennai,2025-01-27,True
+MER0172,"Dass, Kota and Goswami",Grocery,Delhi,2025-07-24,True
+MER0173,"Chacko, Bhagat and Patel",Recharge & Bills,Ahmedabad,2022-05-11,True
+MER0174,"Rege, Deshmukh and Bhavsar",Entertainment,Kanpur,2023-07-18,True
+MER0175,Rama-Ravel,Food & Dining,Hyderabad,2025-06-12,True
+MER0176,"Gandhi, Tak and Sathe",Fuel,Chennai,2025-06-01,False
+MER0177,Nayak-Mistry,Travel,Jaipur,2022-06-13,True
+MER0178,Dora Ltd,Grocery,Delhi,2022-12-21,True
+MER0179,Ramesh-Kakar,Travel,Chennai,2023-03-29,True
+MER0180,"Chaudhari, Kaur and Date",Entertainment,Chennai,2023-06-29,True
+MER0181,Pathak Ltd,Recharge & Bills,Bangalore,2024-07-19,False
+MER0182,Chanda Ltd,Education,Kolkata,2022-06-15,True
+MER0183,"Iyengar, Ranganathan and Barman",Recharge & Bills,Bangalore,2023-03-19,True
+MER0184,Anand Ltd,Entertainment,Kolkata,2024-09-10,True
+MER0185,"Rastogi, Khatri and Karnik",Entertainment,Indore,2024-02-21,True
+MER0186,"Dyal, Taneja and Dyal",Fuel,Bhopal,2026-03-27,True
+MER0187,Goda Ltd,Education,Kanpur,2023-03-23,True
+MER0188,Zacharia Ltd,Healthcare,Mumbai,2025-10-22,True
+MER0189,"Misra, Dass and Issac",Fuel,Bangalore,2026-02-20,True
+MER0190,Walla LLC,Food & Dining,Lucknow,2022-05-19,True
+MER0191,"Shetty, Patla and Rajagopal",Education,Delhi,2025-05-01,True
+MER0192,"Ramesh, Bhattacharyya and Saran",E-Commerce,Chennai,2024-09-12,True
+MER0193,Divan Group,Healthcare,Kolkata,2025-07-07,True
+MER0194,"Bhat, Dixit and Aggarwal",Grocery,Kolkata,2024-01-13,True
+MER0195,Master-Vasa,Food & Dining,Kolkata,2023-09-05,True
+MER0196,"Kale, Kari and Pant",Food & Dining,Surat,2023-06-18,True
+MER0197,Dhar-Doshi,Grocery,Indore,2024-12-10,True
+MER0198,Bajwa Inc,Wallet Transfer,Mumbai,2025-08-09,True
+MER0199,Sethi LLC,Education,Pune,2023-03-25,False
+MER0200,Chahal Inc,Entertainment,Kolkata,2024-01-12,False
+MER0201,"Wason, Bhatnagar and Iyengar",Education,Bhopal,2024-07-22,True
+MER0202,Patel-Hans,Travel,Lucknow,2022-10-16,True
+MER0203,Sen LLC,Healthcare,Indore,2023-11-05,True
+MER0204,"Choudhary, Thaman and Tripathi",Healthcare,Mumbai,2022-08-14,True
+MER0205,Palla Ltd,Travel,Indore,2022-08-24,True
+MER0206,Seth-Vaidya,Education,Nagpur,2024-03-23,True
+MER0207,Loyal-Gala,Grocery,Lucknow,2024-05-03,True
+MER0208,"Chandra, Nori and Munshi",Entertainment,Ahmedabad,2022-05-06,True
+MER0209,"Basu, Goel and Khosla",Recharge & Bills,Indore,2024-12-21,True
+MER0210,Balay and Sons,Education,Nagpur,2026-03-28,True
+MER0211,Sehgal Ltd,Wallet Transfer,Surat,2025-09-25,True
+MER0212,Bandi-Malhotra,Fuel,Lucknow,2022-06-25,True
+MER0213,Date Inc,Healthcare,Indore,2025-05-31,True
+MER0214,D’Alia Ltd,Entertainment,Kanpur,2025-07-23,True
+MER0215,"Ahuja, Loyal and Pathak",Recharge & Bills,Indore,2024-03-01,True
+MER0216,Ghose-Kannan,Travel,Delhi,2025-02-26,True
+MER0217,"Majumdar, Char and Aggarwal",Food & Dining,Jaipur,2025-03-10,True
+MER0218,Kade LLC,Healthcare,Kolkata,2025-07-07,True
+MER0219,"Mutti, Sagar and Khatri",Grocery,Jaipur,2022-06-13,False
+MER0220,Bakshi Group,Education,Pune,2025-06-21,False
+MER0221,Jayaraman LLC,Recharge & Bills,Delhi,2024-11-22,True
+MER0222,"Deol, Madan and Bail",Education,Jaipur,2024-03-01,True
+MER0223,"Palan, Som and Ramachandran",Travel,Jaipur,2025-07-18,True
+MER0224,"Chander, Bhasin and Kakar",Healthcare,Kanpur,2024-04-06,True
+MER0225,Khalsa PLC,Grocery,Mumbai,2026-02-15,True
+MER0226,Tella LLC,Food & Dining,Indore,2026-01-19,True
+MER0227,Loke-Bhagat,Education,Nagpur,2022-12-28,True
+MER0228,"Koshy, Nath and Deshpande",Travel,Hyderabad,2025-11-17,True
+MER0229,Savant-Prabhu,Travel,Lucknow,2024-03-11,True
+MER0230,Sankar PLC,Entertainment,Jaipur,2024-03-10,True
+MER0231,Loyal-Sachar,E-Commerce,Lucknow,2022-08-21,True
+MER0232,"Aurora, Chand and Anne",Food & Dining,Bhopal,2023-04-18,True
+MER0233,"More, Mane and Brar",Healthcare,Pune,2023-04-01,True
+MER0234,"Butala, Nair and Edwin",Education,Chennai,2024-08-30,True
+MER0235,Ghose-Agate,E-Commerce,Mumbai,2022-12-24,True
+MER0236,Rattan-Narang,E-Commerce,Ahmedabad,2023-10-19,True
+MER0237,Sawhney-Kibe,Travel,Nagpur,2025-03-12,True
+MER0238,"Dube, Kala and Chaudry",Food & Dining,Ahmedabad,2022-09-06,True
+MER0239,Baria PLC,Healthcare,Hyderabad,2024-02-02,True
+MER0240,"Sood, Bansal and Raju",Wallet Transfer,Nagpur,2022-05-10,False
+MER0241,Agrawal-Chopra,Education,Bhopal,2023-11-07,True
+MER0242,Rege LLC,Wallet Transfer,Hyderabad,2023-08-29,False
+MER0243,"Aggarwal, Ahuja and Cherian",Healthcare,Pune,2025-07-16,False
+MER0244,Shere-Dhar,Travel,Surat,2024-11-11,True
+MER0245,"Toor, Sachdev and Varkey",Wallet Transfer,Surat,2024-09-24,True
+MER0246,Chopra Ltd,Grocery,Lucknow,2024-07-02,True
+MER0247,"Bera, Kala and Char",Entertainment,Jaipur,2024-08-03,True
+MER0248,Natarajan-Majumdar,Recharge & Bills,Delhi,2024-09-06,True
+MER0249,"Dixit, Bassi and Balay",Healthcare,Jaipur,2023-10-12,True
+MER0250,"Raj, Arya and Sankaran",Wallet Transfer,Hyderabad,2022-11-05,True
+MER0251,"Dugar, Narain and Grewal",Healthcare,Ahmedabad,2022-12-26,True
+MER0252,Bhakta Ltd,E-Commerce,Bangalore,2023-05-28,True
+MER0253,Varughese PLC,Entertainment,Bhopal,2023-12-26,True
+MER0254,Chadha-Murthy,Entertainment,Delhi,2025-05-20,True
+MER0255,Bedi-Sachar,E-Commerce,Mumbai,2026-01-10,True
+MER0256,Arya PLC,Entertainment,Indore,2025-04-27,True
+MER0257,"Patla, Bail and Thakur",Grocery,Ahmedabad,2023-08-05,False
+MER0258,Shan PLC,Recharge & Bills,Ahmedabad,2023-06-07,True
+MER0259,"Vyas, Barad and Dhar",E-Commerce,Chennai,2024-07-28,True
+MER0260,"Mandal, Srinivas and Varma",Education,Kolkata,2024-04-29,False
+MER0261,Kale PLC,Wallet Transfer,Jaipur,2025-08-03,True
+MER0262,Karan Ltd,Education,Kanpur,2024-06-08,True
+MER0263,"Parsa, Sathe and Hegde",Entertainment,Bhopal,2023-04-18,True
+MER0264,Doctor Group,Travel,Nagpur,2025-11-26,True
+MER0265,"Mittal, Hans and Doshi",Fuel,Surat,2024-06-04,True
+MER0266,Dalal Inc,Entertainment,Ahmedabad,2022-12-30,True
+MER0267,Radhakrishnan-Mann,Fuel,Lucknow,2025-11-29,True
+MER0268,"Tara, Mutti and Sarraf",Entertainment,Bhopal,2025-05-08,True
+MER0269,"Prabhu, Mann and Kakar",Grocery,Bangalore,2023-08-17,True
+MER0270,Naidu-Bhardwaj,Education,Bangalore,2024-06-22,True
+MER0271,Nayak Group,Fuel,Lucknow,2025-02-24,True
+MER0272,Bali PLC,Fuel,Bangalore,2025-05-07,True
+MER0273,Murthy-More,Education,Bhopal,2024-07-01,False
+MER0274,Dasgupta-Mander,Education,Delhi,2025-05-27,True
+MER0275,Srinivas and Sons,Recharge & Bills,Ahmedabad,2025-06-08,True
+MER0276,"Pandit, Kothari and Doctor",Fuel,Mumbai,2024-09-22,False
+MER0277,"Behl, Mangat and Subramaniam",Grocery,Jaipur,2025-05-03,True
+MER0278,Wagle LLC,Healthcare,Indore,2025-03-29,True
+MER0279,"Raj, Gour and Konda",E-Commerce,Nagpur,2024-11-10,True
+MER0280,"Rajagopal, Pillay and Garg",Entertainment,Delhi,2023-03-24,True
+MER0281,Pillai-Sanghvi,E-Commerce,Chennai,2022-07-25,True
+MER0282,Pandey-Saran,Wallet Transfer,Pune,2026-03-06,True
+MER0283,Mani-Mand,Food & Dining,Jaipur,2024-09-18,True
+MER0284,Suri-Kalla,Grocery,Delhi,2024-09-11,True
+MER0285,Ramachandran-Magar,Healthcare,Pune,2025-10-27,True
+MER0286,"Nath, Din and Ratti",Healthcare,Pune,2024-11-20,True
+MER0287,Ramakrishnan Group,Travel,Ahmedabad,2023-08-05,True
+MER0288,Nadig Inc,Food & Dining,Kanpur,2025-05-09,True
+MER0289,Narula-Borde,Grocery,Bangalore,2024-08-04,True
+MER0290,"Nazareth, Khurana and Goda",Wallet Transfer,Kolkata,2024-04-14,True
+MER0291,"Dave, Sant and Chaudry",Food & Dining,Indore,2024-04-15,False
+MER0292,"Srinivas, Sarin and Dhar",Travel,Indore,2023-05-26,True
+MER0293,Acharya Inc,Travel,Hyderabad,2025-12-28,False
+MER0294,Saran PLC,Grocery,Bhopal,2025-02-21,True
+MER0295,"Varty, Lal and Kuruvilla",Fuel,Mumbai,2022-05-24,False
+MER0296,Halder Ltd,E-Commerce,Jaipur,2023-03-02,False
+MER0297,Ranganathan-Sarraf,Healthcare,Delhi,2025-08-02,True
+MER0298,Kari-Bajaj,Food & Dining,Kolkata,2023-02-18,True
+MER0299,"Varty, Swamy and Ahluwalia",Fuel,Nagpur,2025-08-23,False
+MER0300,Khosla and Sons,Travel,Nagpur,2025-11-09,True
+MER0301,Dyal and Sons,Fuel,Indore,2023-12-10,False
+MER0302,Ahuja and Sons,Healthcare,Kanpur,2023-06-02,True
+MER0303,Pillay-Sankar,Entertainment,Ahmedabad,2023-09-10,True
+MER0304,"Bir, Bhakta and Lalla",Wallet Transfer,Bangalore,2025-02-18,True
+MER0305,Setty-Batta,Grocery,Jaipur,2024-12-19,True
+MER0306,Yogi-Sachar,Fuel,Kanpur,2023-09-21,True
+MER0307,"Kaur, Arya and Sabharwal",Fuel,Surat,2025-03-13,True
+MER0308,"Nazareth, Sinha and Parekh",Fuel,Bangalore,2022-11-17,True
+MER0309,Mitter PLC,Healthcare,Delhi,2024-02-07,True
+MER0310,"Nanda, Tara and Yogi",Wallet Transfer,Surat,2025-01-04,True
+MER0311,Rao PLC,Wallet Transfer,Kolkata,2025-11-08,True
+MER0312,Chada Inc,Entertainment,Hyderabad,2024-07-03,True
+MER0313,"Zacharia, Bhatt and Chowdhury",Entertainment,Chennai,2025-08-31,True
+MER0314,"Boase, Vohra and Brar",Education,Mumbai,2025-08-15,True
+MER0315,Mall-Venkatesh,Fuel,Lucknow,2023-05-12,True
+MER0316,"Iyer, Gopal and Goda",Travel,Surat,2024-07-02,True
+MER0317,Mane PLC,E-Commerce,Bhopal,2026-01-13,True
+MER0318,Samra-Dayal,Grocery,Lucknow,2022-12-16,True
+MER0319,Purohit-Bose,Food & Dining,Nagpur,2022-06-27,True
+MER0320,"Behl, Bhavsar and Padmanabhan",Travel,Jaipur,2023-02-11,True
+MER0321,Parmar-Gera,E-Commerce,Surat,2025-07-09,False
+MER0322,Sen and Sons,Education,Delhi,2024-04-05,True
+MER0323,Singhal Inc,Recharge & Bills,Nagpur,2023-03-06,True
+MER0324,"Narasimhan, Halder and Basak",Education,Nagpur,2023-11-27,True
+MER0325,Bhandari-Kar,Food & Dining,Nagpur,2025-09-06,False
+MER0326,"Nigam, Parsa and Badal",Education,Hyderabad,2022-08-05,True
+MER0327,Nigam-Khanna,Fuel,Jaipur,2023-01-07,True
+MER0328,"Chaudhry, Banik and Gill",Food & Dining,Delhi,2025-03-30,True
+MER0329,Wagle-Bhavsar,Education,Bangalore,2024-04-02,True
+MER0330,Ramaswamy Inc,Food & Dining,Pune,2022-05-31,True
+MER0331,Swaminathan-Trivedi,Recharge & Bills,Hyderabad,2024-11-01,True
+MER0332,"Mitra, Char and Prabhakar",Wallet Transfer,Ahmedabad,2022-06-06,True
+MER0333,Anand Group,E-Commerce,Kanpur,2025-06-19,True
+MER0334,Patil-Hegde,Education,Nagpur,2024-04-18,True
+MER0335,Amble-Varghese,Healthcare,Kolkata,2024-08-21,True
+MER0336,Gopal-Balay,Wallet Transfer,Mumbai,2022-10-17,True
+MER0337,D’Alia Group,Fuel,Bhopal,2023-11-22,True
+MER0338,Datta-Nagar,Food & Dining,Chennai,2025-12-05,True
+MER0339,"Doctor, Nagi and Shah",Entertainment,Bangalore,2024-08-15,False
+MER0340,Barad-Ganguly,Entertainment,Mumbai,2024-07-19,True
+MER0341,Gupta Ltd,Education,Chennai,2024-06-04,True
+MER0342,Wali Ltd,Entertainment,Pune,2026-04-10,True
+MER0343,"Merchant, Lall and Bobal",E-Commerce,Delhi,2025-09-19,True
+MER0344,Chakrabarti-Bahl,E-Commerce,Jaipur,2026-04-04,True
+MER0345,Sarin and Sons,Grocery,Pune,2022-05-13,False
+MER0346,Srivastava-Khosla,Grocery,Bangalore,2024-10-22,True
+MER0347,Grewal PLC,Travel,Kanpur,2025-03-24,True
+MER0348,Borra-Kala,E-Commerce,Bangalore,2025-09-20,True
+MER0349,Buch and Sons,Travel,Kolkata,2024-10-05,True
+MER0350,"Sane, Sahota and Sood",Grocery,Mumbai,2024-02-12,True
+MER0351,"Ganesan, Sem and Bail",Wallet Transfer,Chennai,2023-05-13,True
+MER0352,Ganesh and Sons,Grocery,Mumbai,2023-09-16,False
+MER0353,Naik LLC,Food & Dining,Pune,2025-10-21,True
+MER0354,Borde Inc,Entertainment,Delhi,2024-08-31,True
+MER0355,Bhatt PLC,Healthcare,Bangalore,2023-12-11,True
+MER0356,"Amble, Keer and Sharaf",Entertainment,Indore,2022-10-26,True
+MER0357,Srinivas Inc,Healthcare,Pune,2025-01-30,True
+MER0358,Khatri and Sons,Entertainment,Bhopal,2024-05-18,True
+MER0359,"Prashad, Sidhu and Kannan",E-Commerce,Mumbai,2026-01-17,False
+MER0360,"Varma, Patil and Nayar",Recharge & Bills,Hyderabad,2023-06-18,True
+MER0361,Rastogi-Dayal,Wallet Transfer,Nagpur,2024-10-10,True
+MER0362,Oommen Ltd,Recharge & Bills,Ahmedabad,2024-11-28,True
+MER0363,"Kothari, Char and Handa",Education,Kanpur,2025-08-13,True
+MER0364,Chahal PLC,Education,Kolkata,2025-08-27,True
+MER0365,Vala-Iyengar,E-Commerce,Pune,2023-01-02,True
+MER0366,Dugar-Bobal,Food & Dining,Chennai,2022-06-01,True
+MER0367,Sama Inc,Fuel,Jaipur,2025-06-19,True
+MER0368,Om-Dhar,Entertainment,Delhi,2026-04-03,True
+MER0369,Dey-Swamy,Fuel,Mumbai,2025-08-26,True
+MER0370,"Gour, Rao and Mall",Entertainment,Surat,2024-04-15,True
+MER0371,Amble-Chowdhury,Recharge & Bills,Indore,2023-07-02,True
+MER0372,Ramanathan Ltd,Food & Dining,Pune,2025-06-16,True
+MER0373,"Gola, Edwin and Chaudry",Education,Nagpur,2024-01-23,True
+MER0374,"Char, Dani and Rama",E-Commerce,Hyderabad,2026-03-22,False
+MER0375,Sarraf-Majumdar,Education,Surat,2024-11-06,True
+MER0376,Nayak-Roy,Grocery,Pune,2022-08-03,True
+MER0377,"Bhargava, Sura and Shukla",Wallet Transfer,Kolkata,2024-12-12,True
+MER0378,Dass-Kala,Fuel,Delhi,2023-01-13,True
+MER0379,Kar-Jaggi,Education,Hyderabad,2023-07-20,False
+MER0380,Date PLC,Grocery,Chennai,2024-03-19,False
+MER0381,Bawa Group,Education,Bangalore,2025-11-11,True
+MER0382,Thakkar Group,Recharge & Bills,Jaipur,2024-06-10,False
+MER0383,"Gera, Mahal and Parsa",Entertainment,Indore,2022-09-22,True
+MER0384,Sandhu LLC,Education,Ahmedabad,2025-07-30,True
+MER0385,"Nayak, Narula and Sachdeva",Food & Dining,Mumbai,2023-03-23,True
+MER0386,Murty-Batra,Fuel,Bhopal,2023-08-19,True
+MER0387,Yogi-Bala,Wallet Transfer,Pune,2025-10-10,True
+MER0388,Bajaj-Dar,Grocery,Mumbai,2024-02-20,True
+MER0389,Lad Inc,Food & Dining,Indore,2022-05-16,False
+MER0390,Nair-Sachar,Fuel,Pune,2022-07-24,True
+MER0391,"Chopra, Pandey and Radhakrishnan",Wallet Transfer,Pune,2022-12-30,True
+MER0392,Bajaj LLC,Entertainment,Chennai,2023-01-07,True
+MER0393,"Varty, Tripathi and Sachdev",Recharge & Bills,Nagpur,2022-11-02,True
+MER0394,Kaul-Soni,Education,Pune,2026-02-17,True
+MER0395,Deep-Mangal,Food & Dining,Bangalore,2023-03-19,True
+MER0396,"Bobal, Doctor and Om",Education,Nagpur,2025-05-25,True
+MER0397,Virk and Sons,E-Commerce,Pune,2023-12-23,True
+MER0398,Ahuja-Bansal,E-Commerce,Kolkata,2024-10-13,True
+MER0399,"Mangat, Chana and Bhatt",E-Commerce,Bhopal,2026-03-20,True
+MER0400,Solanki Group,Grocery,Lucknow,2023-06-18,True
+MER0401,Agarwal-Ghosh,Education,Pune,2024-10-29,True
+MER0402,Bose-Kurian,Entertainment,Hyderabad,2023-06-01,False
+MER0403,Wable LLC,Wallet Transfer,Jaipur,2023-09-13,True
+MER0404,Bal Group,Healthcare,Indore,2025-06-26,True
+MER0405,Koshy PLC,Healthcare,Surat,2025-02-08,True
+MER0406,"Lanka, Chaudhuri and Oak",Travel,Kanpur,2025-03-13,False
+MER0407,Tella Inc,Fuel,Pune,2024-08-27,True
+MER0408,Sagar-Koshy,Recharge & Bills,Surat,2023-12-02,True
+MER0409,"De, Ramaswamy and Sagar",Healthcare,Chennai,2024-05-06,True
+MER0410,Saxena-Banik,Recharge & Bills,Ahmedabad,2023-03-30,True
+MER0411,"Wable, Kadakia and Desai",Wallet Transfer,Chennai,2023-06-19,True
+MER0412,Khosla-Patla,Food & Dining,Indore,2023-08-13,True
+MER0413,Bumb-Narayanan,Grocery,Surat,2023-09-16,True
+MER0414,"Hans, Sibal and Soni",Food & Dining,Nagpur,2022-11-17,True
+MER0415,Bhat Inc,Fuel,Mumbai,2023-02-03,False
+MER0416,"Basu, Jaggi and Issac",Food & Dining,Surat,2025-04-17,True
+MER0417,Karan Inc,Grocery,Kolkata,2022-09-22,True
+MER0418,Ratta-Bose,Education,Indore,2025-06-21,True
+MER0419,Wable-Dada,Fuel,Kanpur,2025-08-24,True
+MER0420,Palla Group,Entertainment,Jaipur,2026-03-19,True
+MER0421,Dani LLC,E-Commerce,Kanpur,2024-08-06,True
+MER0422,"Chaudhary, Wason and Sridhar",E-Commerce,Jaipur,2025-05-31,False
+MER0423,Solanki Inc,Food & Dining,Indore,2023-02-26,True
+MER0424,"Munshi, Lall and Pant",Fuel,Surat,2023-05-14,True
+MER0425,Narasimhan PLC,E-Commerce,Chennai,2022-10-09,False
+MER0426,"Khosla, Sura and Kanda",Entertainment,Bhopal,2023-08-18,True
+MER0427,"Halder, Chhabra and Desai",Wallet Transfer,Chennai,2024-04-13,True
+MER0428,"Nagi, Sama and Kibe",Entertainment,Bangalore,2023-07-30,True
+MER0429,"Kaul, Saraf and Ram",Food & Dining,Delhi,2024-11-17,True
+MER0430,"Batta, Issac and Korpal",Fuel,Chennai,2025-08-16,True
+MER0431,"Bahl, Peri and Bahl",Recharge & Bills,Ahmedabad,2022-08-31,True
+MER0432,"Garde, Sekhon and Goel",Food & Dining,Hyderabad,2024-08-03,True
+MER0433,"Hari, Nagarajan and Mane",Food & Dining,Kanpur,2025-09-15,True
+MER0434,"Tandon, Manne and Sunder",Travel,Surat,2024-08-29,True
+MER0435,"Prakash, Varma and Deol",Healthcare,Hyderabad,2022-08-01,True
+MER0436,"Kade, Deol and Dhawan",E-Commerce,Bhopal,2024-10-01,True
+MER0437,"Bains, Gupta and Bose",Wallet Transfer,Surat,2022-08-19,False
+MER0438,Sagar-Agarwal,Travel,Kanpur,2023-03-13,True
+MER0439,"Goda, Aggarwal and Choudhry",Recharge & Bills,Hyderabad,2026-03-31,True
+MER0440,"Bhardwaj, Gupta and Goda",Fuel,Chennai,2024-04-22,True
+MER0441,Mutti-Ramaswamy,Food & Dining,Pune,2024-08-09,True
+MER0442,Dutt-Luthra,Fuel,Indore,2023-05-12,True
+MER0443,Dave-Bajwa,Wallet Transfer,Hyderabad,2025-05-19,True
+MER0444,"Prabhu, Kothari and Mangal",Food & Dining,Hyderabad,2022-05-21,True
+MER0445,"Bhardwaj, Rattan and Dube",Entertainment,Delhi,2025-03-24,True
+MER0446,"Hans, Chanda and Dhillon",Travel,Nagpur,2022-05-07,True
+MER0447,"Kara, Rattan and Hans",Education,Ahmedabad,2023-05-27,True
+MER0448,Mangat-Dani,Grocery,Jaipur,2022-11-21,True
+MER0449,"Srinivasan, Iyengar and Raman",Recharge & Bills,Surat,2025-03-12,True
+MER0450,Garde LLC,Wallet Transfer,Surat,2024-05-19,True
+MER0451,"Khare, Pandey and Cherian",Wallet Transfer,Nagpur,2024-06-24,True
+MER0452,"Kumar, Sodhi and Barad",Grocery,Delhi,2024-08-24,False
+MER0453,Bhatt-Bahri,Wallet Transfer,Bangalore,2024-07-13,True
+MER0454,Krishnan-Chad,E-Commerce,Bangalore,2023-01-30,True
+MER0455,"Chanda, Sane and Edwin",Travel,Indore,2024-12-15,False
+MER0456,Din and Sons,Wallet Transfer,Bhopal,2026-03-19,True
+MER0457,"Parmar, Sarin and Ben",Recharge & Bills,Indore,2024-05-29,True
+MER0458,Kala Ltd,Education,Lucknow,2025-03-26,True
+MER0459,"Chaudhuri, Krishnamurthy and Kulkarni",Travel,Hyderabad,2025-09-07,True
+MER0460,"Choudhury, Ranganathan and Yohannan",Food & Dining,Lucknow,2024-09-28,True
+MER0461,Sampath LLC,Education,Nagpur,2026-01-09,True
+MER0462,Cheema Ltd,Travel,Surat,2024-01-08,True
+MER0463,"Lall, Saran and Kota",Education,Indore,2023-08-21,True
+MER0464,"Patla, Goyal and Patil",Fuel,Mumbai,2025-12-25,True
+MER0465,Vyas Inc,Entertainment,Surat,2025-02-22,True
+MER0466,"Vora, Kar and Sangha",Food & Dining,Bhopal,2022-11-01,True
+MER0467,Mall-Thakur,Healthcare,Kolkata,2024-08-04,True
+MER0468,Sahni PLC,Entertainment,Pune,2023-12-16,True
+MER0469,"Barman, Saran and Iyer",E-Commerce,Surat,2024-06-29,False
+MER0470,Bali Ltd,Education,Ahmedabad,2026-01-15,True
+MER0471,Bal-Randhawa,Fuel,Chennai,2022-07-28,True
+MER0472,"Master, Sidhu and Bath",Education,Kanpur,2025-12-04,True
+MER0473,"Khare, De and Verma",Food & Dining,Indore,2026-01-07,True
+MER0474,Chander Group,Recharge & Bills,Mumbai,2023-06-25,True
+MER0475,"Ramesh, Varughese and Srinivasan",Travel,Indore,2024-07-02,True
+MER0476,"Kar, Dash and Kashyap",Entertainment,Jaipur,2026-03-02,True
+MER0477,Kaul-Zachariah,Fuel,Chennai,2023-05-13,True
+MER0478,"Naik, Mukhopadhyay and Ghose",Food & Dining,Kolkata,2025-11-04,True
+MER0479,Balan Ltd,Recharge & Bills,Chennai,2025-12-04,True
+MER0480,Jha-Borra,E-Commerce,Indore,2024-12-27,True
+MER0481,Bhandari Ltd,Wallet Transfer,Kanpur,2023-03-09,True
+MER0482,"Chaudhry, Ramakrishnan and Karan",Food & Dining,Lucknow,2025-07-14,True
+MER0483,Ranganathan Inc,Recharge & Bills,Lucknow,2025-08-15,True
+MER0484,Bajwa-Sabharwal,Entertainment,Delhi,2024-11-09,True
+MER0485,"Aggarwal, Ramanathan and Kamdar",Recharge & Bills,Hyderabad,2024-02-22,True
+MER0486,Walla-Subramanian,Grocery,Chennai,2025-09-17,True
+MER0487,Sahni-Padmanabhan,Travel,Delhi,2026-03-20,True
+MER0488,Kibe LLC,E-Commerce,Mumbai,2022-08-19,True
+MER0489,Manne and Sons,Fuel,Kolkata,2023-02-11,True
+MER0490,Mani Ltd,Food & Dining,Nagpur,2023-01-21,True
+MER0491,Raman PLC,Healthcare,Bhopal,2025-11-19,True
+MER0492,Jani Ltd,Travel,Hyderabad,2026-03-26,False
+MER0493,"Contractor, Oommen and D’Alia",E-Commerce,Ahmedabad,2023-10-21,False
+MER0494,Tella LLC,Recharge & Bills,Chennai,2025-03-10,True
+MER0495,Comar PLC,Food & Dining,Bhopal,2026-03-18,True
+MER0496,"Pau, Sandal and Patil",Healthcare,Jaipur,2023-08-07,True
+MER0497,"Kuruvilla, Solanki and Kaur",Recharge & Bills,Delhi,2024-10-11,True
+MER0498,Sandhu-Bera,Wallet Transfer,Nagpur,2022-08-30,True
+MER0499,"Sabharwal, Maharaj and Chanda",Fuel,Kanpur,2025-04-27,True
+MER0500,"Khurana, Shah and Shere",E-Commerce,Surat,2023-07-01,True

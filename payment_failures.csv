@@ -1,0 +1,3518 @@
+txn_id,failure_reason,retry_count,resolved
+TXN0000002,Bank server timeout,1,False
+TXN0000004,Invalid VPA,0,False
+TXN0000015,Account blocked,1,False
+TXN0000058,Invalid VPA,2,True
+TXN0000067,Insufficient balance,0,False
+TXN0000078,Insufficient balance,2,True
+TXN0000098,Account blocked,0,False
+TXN0000107,Network error,0,True
+TXN0000133,Insufficient balance,1,False
+TXN0000162,Account blocked,3,False
+TXN0000183,Bank server timeout,3,True
+TXN0000188,Network error,1,False
+TXN0000200,Network error,1,False
+TXN0000202,Daily limit exceeded,1,False
+TXN0000206,Daily limit exceeded,1,False
+TXN0000219,Daily limit exceeded,1,False
+TXN0000222,Invalid VPA,2,False
+TXN0000260,Invalid VPA,3,False
+TXN0000295,Daily limit exceeded,3,True
+TXN0000305,Account blocked,2,True
+TXN0000311,Account blocked,0,False
+TXN0000327,Network error,2,False
+TXN0000335,Bank server timeout,1,True
+TXN0000348,Network error,2,True
+TXN0000356,Account blocked,0,False
+TXN0000360,Network error,0,True
+TXN0000380,Daily limit exceeded,0,True
+TXN0000417,Account blocked,0,False
+TXN0000420,Bank server timeout,2,False
+TXN0000428,Bank server timeout,1,True
+TXN0000437,Insufficient balance,1,False
+TXN0000445,Network error,0,True
+TXN0000458,Network error,2,False
+TXN0000460,Account blocked,1,False
+TXN0000480,Bank server timeout,1,False
+TXN0000498,Bank server timeout,2,True
+TXN0000503,Invalid VPA,2,False
+TXN0000571,Bank server timeout,3,False
+TXN0000610,Bank server timeout,2,True
+TXN0000617,Account blocked,3,True
+TXN0000653,Network error,0,False
+TXN0000657,Daily limit exceeded,2,False
+TXN0000674,Insufficient balance,2,True
+TXN0000676,Insufficient balance,1,False
+TXN0000682,Account blocked,3,False
+TXN0000691,Insufficient balance,2,True
+TXN0000706,Network error,3,False
+TXN0000709,Network error,0,True
+TXN0000711,Network error,2,False
+TXN0000722,Daily limit exceeded,0,False
+TXN0000723,Network error,3,False
+TXN0000750,Invalid VPA,2,False
+TXN0000752,Network error,2,True
+TXN0000763,Bank server timeout,0,True
+TXN0000768,Bank server timeout,1,False
+TXN0000776,Daily limit exceeded,0,False
+TXN0000796,Bank server timeout,1,True
+TXN0000798,Network error,0,True
+TXN0000803,Account blocked,0,False
+TXN0000804,Network error,3,False
+TXN0000814,Account blocked,0,False
+TXN0000845,Network error,3,False
+TXN0000849,Network error,0,True
+TXN0000861,Account blocked,2,False
+TXN0000884,Network error,2,False
+TXN0000900,Bank server timeout,2,False
+TXN0000947,Insufficient balance,3,True
+TXN0000948,Network error,0,False
+TXN0000952,Account blocked,0,False
+TXN0000959,Bank server timeout,1,False
+TXN0000960,Daily limit exceeded,0,False
+TXN0000971,Daily limit exceeded,0,True
+TXN0000977,Invalid VPA,2,False
+TXN0000998,Network error,2,False
+TXN0001009,Insufficient balance,1,False
+TXN0001024,Bank server timeout,3,False
+TXN0001036,Daily limit exceeded,0,False
+TXN0001047,Daily limit exceeded,3,False
+TXN0001061,Account blocked,1,True
+TXN0001062,Network error,3,False
+TXN0001078,Network error,2,False
+TXN0001079,Insufficient balance,3,True
+TXN0001083,Network error,0,True
+TXN0001088,Invalid VPA,2,False
+TXN0001111,Network error,1,True
+TXN0001175,Daily limit exceeded,3,True
+TXN0001177,Network error,3,False
+TXN0001189,Invalid VPA,1,False
+TXN0001200,Account blocked,1,False
+TXN0001204,Bank server timeout,0,False
+TXN0001206,Insufficient balance,0,False
+TXN0001254,Account blocked,0,False
+TXN0001259,Account blocked,0,True
+TXN0001261,Invalid VPA,3,False
+TXN0001266,Network error,0,False
+TXN0001273,Bank server timeout,0,False
+TXN0001317,Insufficient balance,0,True
+TXN0001323,Bank server timeout,0,False
+TXN0001353,Daily limit exceeded,2,True
+TXN0001354,Account blocked,1,False
+TXN0001403,Insufficient balance,3,False
+TXN0001404,Bank server timeout,2,True
+TXN0001413,Bank server timeout,0,False
+TXN0001428,Bank server timeout,1,False
+TXN0001435,Account blocked,0,False
+TXN0001437,Daily limit exceeded,0,False
+TXN0001478,Insufficient balance,2,False
+TXN0001480,Bank server timeout,2,False
+TXN0001489,Invalid VPA,1,True
+TXN0001507,Insufficient balance,0,False
+TXN0001511,Insufficient balance,2,True
+TXN0001524,Bank server timeout,0,True
+TXN0001528,Insufficient balance,1,False
+TXN0001529,Daily limit exceeded,2,True
+TXN0001550,Daily limit exceeded,0,True
+TXN0001553,Insufficient balance,0,False
+TXN0001554,Account blocked,0,False
+TXN0001564,Daily limit exceeded,3,True
+TXN0001569,Insufficient balance,0,False
+TXN0001583,Network error,3,False
+TXN0001590,Account blocked,0,False
+TXN0001606,Account blocked,1,False
+TXN0001614,Insufficient balance,0,True
+TXN0001615,Daily limit exceeded,0,False
+TXN0001619,Network error,3,False
+TXN0001637,Account blocked,1,True
+TXN0001647,Daily limit exceeded,2,False
+TXN0001665,Daily limit exceeded,3,True
+TXN0001726,Insufficient balance,0,False
+TXN0001730,Account blocked,3,True
+TXN0001734,Network error,1,True
+TXN0001739,Account blocked,0,False
+TXN0001748,Invalid VPA,0,False
+TXN0001772,Account blocked,1,True
+TXN0001777,Account blocked,2,True
+TXN0001779,Daily limit exceeded,0,False
+TXN0001784,Network error,0,False
+TXN0001785,Daily limit exceeded,2,True
+TXN0001790,Insufficient balance,2,True
+TXN0001802,Invalid VPA,1,False
+TXN0001804,Network error,3,True
+TXN0001811,Invalid VPA,2,False
+TXN0001828,Invalid VPA,0,True
+TXN0001844,Invalid VPA,3,False
+TXN0001855,Insufficient balance,1,False
+TXN0001873,Invalid VPA,2,True
+TXN0001874,Account blocked,2,False
+TXN0001898,Invalid VPA,1,True
+TXN0001899,Invalid VPA,3,False
+TXN0001906,Insufficient balance,3,True
+TXN0001918,Insufficient balance,1,False
+TXN0001927,Daily limit exceeded,1,True
+TXN0001935,Daily limit exceeded,2,False
+TXN0001942,Invalid VPA,0,True
+TXN0001953,Daily limit exceeded,1,False
+TXN0001959,Account blocked,3,True
+TXN0001964,Network error,0,False
+TXN0001970,Invalid VPA,1,True
+TXN0001983,Network error,3,True
+TXN0001984,Account blocked,1,False
+TXN0001985,Daily limit exceeded,1,False
+TXN0002036,Network error,2,True
+TXN0002045,Account blocked,3,True
+TXN0002055,Account blocked,0,False
+TXN0002075,Daily limit exceeded,0,False
+TXN0002094,Account blocked,1,True
+TXN0002121,Network error,1,True
+TXN0002158,Bank server timeout,2,False
+TXN0002172,Network error,2,False
+TXN0002202,Daily limit exceeded,3,True
+TXN0002214,Account blocked,2,False
+TXN0002227,Daily limit exceeded,0,False
+TXN0002256,Bank server timeout,3,False
+TXN0002264,Account blocked,3,False
+TXN0002270,Daily limit exceeded,2,False
+TXN0002290,Account blocked,0,False
+TXN0002297,Network error,2,True
+TXN0002316,Account blocked,1,False
+TXN0002344,Daily limit exceeded,2,False
+TXN0002358,Invalid VPA,0,True
+TXN0002365,Daily limit exceeded,1,False
+TXN0002366,Invalid VPA,2,True
+TXN0002377,Bank server timeout,2,False
+TXN0002382,Network error,2,True
+TXN0002396,Insufficient balance,1,False
+TXN0002416,Daily limit exceeded,1,True
+TXN0002434,Insufficient balance,3,True
+TXN0002438,Network error,3,False
+TXN0002474,Account blocked,0,False
+TXN0002480,Account blocked,0,False
+TXN0002500,Invalid VPA,3,False
+TXN0002509,Insufficient balance,1,False
+TXN0002520,Invalid VPA,1,False
+TXN0002523,Daily limit exceeded,0,True
+TXN0002530,Daily limit exceeded,1,False
+TXN0002532,Daily limit exceeded,0,False
+TXN0002564,Invalid VPA,3,False
+TXN0002577,Daily limit exceeded,3,False
+TXN0002580,Daily limit exceeded,3,True
+TXN0002589,Insufficient balance,1,False
+TXN0002595,Account blocked,3,False
+TXN0002598,Daily limit exceeded,1,True
+TXN0002628,Insufficient balance,3,True
+TXN0002641,Invalid VPA,2,False
+TXN0002644,Insufficient balance,2,True
+TXN0002652,Bank server timeout,2,True
+TXN0002666,Bank server timeout,3,True
+TXN0002673,Invalid VPA,3,False
+TXN0002677,Account blocked,2,False
+TXN0002688,Invalid VPA,2,False
+TXN0002722,Daily limit exceeded,2,True
+TXN0002759,Daily limit exceeded,1,False
+TXN0002778,Invalid VPA,0,False
+TXN0002784,Daily limit exceeded,2,False
+TXN0002810,Network error,1,False
+TXN0002812,Bank server timeout,3,False
+TXN0002818,Invalid VPA,3,False
+TXN0002829,Invalid VPA,3,False
+TXN0002831,Bank server timeout,2,False
+TXN0002849,Account blocked,2,False
+TXN0002855,Network error,1,False
+TXN0002881,Daily limit exceeded,2,True
+TXN0002889,Invalid VPA,1,False
+TXN0002947,Bank server timeout,1,False
+TXN0002957,Network error,0,False
+TXN0002960,Account blocked,2,False
+TXN0002961,Daily limit exceeded,0,False
+TXN0002968,Account blocked,2,True
+TXN0002970,Daily limit exceeded,3,True
+TXN0002982,Invalid VPA,0,True
+TXN0002986,Daily limit exceeded,1,True
+TXN0003004,Bank server timeout,2,False
+TXN0003015,Bank server timeout,2,False
+TXN0003023,Daily limit exceeded,1,False
+TXN0003038,Invalid VPA,3,False
+TXN0003039,Bank server timeout,0,True
+TXN0003052,Invalid VPA,2,False
+TXN0003062,Bank server timeout,3,True
+TXN0003078,Invalid VPA,2,True
+TXN0003085,Daily limit exceeded,0,False
+TXN0003094,Insufficient balance,1,True
+TXN0003097,Network error,0,False
+TXN0003120,Bank server timeout,0,False
+TXN0003127,Daily limit exceeded,2,False
+TXN0003156,Network error,3,False
+TXN0003163,Account blocked,0,True
+TXN0003195,Insufficient balance,3,True
+TXN0003203,Network error,3,False
+TXN0003206,Invalid VPA,3,False
+TXN0003213,Insufficient balance,2,False
+TXN0003231,Network error,0,True
+TXN0003237,Insufficient balance,0,False
+TXN0003239,Bank server timeout,3,True
+TXN0003261,Invalid VPA,2,False
+TXN0003267,Daily limit exceeded,3,True
+TXN0003276,Bank server timeout,3,False
+TXN0003284,Invalid VPA,2,False
+TXN0003292,Network error,2,False
+TXN0003306,Bank server timeout,3,True
+TXN0003311,Insufficient balance,0,True
+TXN0003317,Invalid VPA,1,False
+TXN0003321,Network error,0,False
+TXN0003329,Network error,3,True
+TXN0003331,Daily limit exceeded,0,True
+TXN0003342,Insufficient balance,0,False
+TXN0003348,Network error,3,True
+TXN0003391,Invalid VPA,2,False
+TXN0003413,Bank server timeout,3,False
+TXN0003443,Network error,1,False
+TXN0003449,Invalid VPA,3,True
+TXN0003483,Account blocked,0,False
+TXN0003496,Account blocked,3,False
+TXN0003516,Bank server timeout,3,False
+TXN0003521,Insufficient balance,3,False
+TXN0003539,Daily limit exceeded,1,True
+TXN0003545,Account blocked,3,False
+TXN0003551,Insufficient balance,2,False
+TXN0003580,Insufficient balance,0,False
+TXN0003581,Insufficient balance,3,True
+TXN0003649,Bank server timeout,0,False
+TXN0003662,Bank server timeout,2,False
+TXN0003667,Account blocked,1,True
+TXN0003671,Insufficient balance,1,True
+TXN0003673,Invalid VPA,0,False
+TXN0003683,Account blocked,0,False
+TXN0003699,Insufficient balance,2,False
+TXN0003730,Insufficient balance,2,True
+TXN0003735,Daily limit exceeded,3,True
+TXN0003744,Daily limit exceeded,0,True
+TXN0003746,Account blocked,3,True
+TXN0003763,Invalid VPA,1,False
+TXN0003776,Invalid VPA,0,False
+TXN0003781,Network error,1,False
+TXN0003791,Account blocked,0,True
+TXN0003829,Insufficient balance,1,False
+TXN0003837,Insufficient balance,0,True
+TXN0003860,Daily limit exceeded,2,True
+TXN0003862,Account blocked,3,False
+TXN0003864,Insufficient balance,0,True
+TXN0003868,Daily limit exceeded,0,False
+TXN0003872,Bank server timeout,2,True
+TXN0003881,Insufficient balance,0,True
+TXN0003882,Bank server timeout,0,True
+TXN0003891,Account blocked,1,True
+TXN0003902,Bank server timeout,2,False
+TXN0003951,Daily limit exceeded,3,True
+TXN0003966,Network error,0,True
+TXN0003968,Network error,2,False
+TXN0003993,Invalid VPA,3,True
+TXN0004005,Account blocked,1,False
+TXN0004013,Daily limit exceeded,0,False
+TXN0004034,Insufficient balance,3,True
+TXN0004036,Bank server timeout,3,False
+TXN0004052,Invalid VPA,0,True
+TXN0004102,Invalid VPA,1,False
+TXN0004113,Insufficient balance,0,True
+TXN0004159,Bank server timeout,3,False
+TXN0004174,Network error,1,False
+TXN0004187,Account blocked,2,False
+TXN0004200,Account blocked,2,False
+TXN0004204,Network error,2,False
+TXN0004248,Invalid VPA,2,False
+TXN0004250,Bank server timeout,3,False
+TXN0004253,Insufficient balance,3,False
+TXN0004295,Daily limit exceeded,2,False
+TXN0004300,Network error,1,False
+TXN0004304,Account blocked,2,False
+TXN0004306,Insufficient balance,2,False
+TXN0004315,Bank server timeout,2,True
+TXN0004322,Daily limit exceeded,0,False
+TXN0004333,Network error,2,True
+TXN0004335,Invalid VPA,1,False
+TXN0004341,Bank server timeout,0,False
+TXN0004348,Bank server timeout,0,True
+TXN0004352,Invalid VPA,0,True
+TXN0004383,Daily limit exceeded,2,False
+TXN0004388,Insufficient balance,0,False
+TXN0004426,Invalid VPA,2,False
+TXN0004447,Insufficient balance,0,False
+TXN0004460,Account blocked,0,False
+TXN0004461,Account blocked,3,True
+TXN0004470,Insufficient balance,1,True
+TXN0004483,Invalid VPA,2,True
+TXN0004536,Network error,3,False
+TXN0004567,Daily limit exceeded,2,False
+TXN0004568,Account blocked,0,False
+TXN0004603,Bank server timeout,3,True
+TXN0004613,Bank server timeout,0,True
+TXN0004630,Insufficient balance,0,True
+TXN0004675,Network error,1,True
+TXN0004680,Account blocked,2,False
+TXN0004697,Bank server timeout,2,False
+TXN0004705,Daily limit exceeded,0,True
+TXN0004735,Network error,0,False
+TXN0004747,Bank server timeout,1,True
+TXN0004776,Account blocked,3,False
+TXN0004811,Insufficient balance,3,False
+TXN0004820,Daily limit exceeded,3,True
+TXN0004828,Insufficient balance,3,True
+TXN0004844,Invalid VPA,1,False
+TXN0004851,Account blocked,1,False
+TXN0004873,Insufficient balance,2,False
+TXN0004880,Insufficient balance,0,False
+TXN0004895,Network error,3,False
+TXN0004940,Insufficient balance,3,True
+TXN0004947,Daily limit exceeded,2,True
+TXN0004950,Network error,3,False
+TXN0004954,Invalid VPA,2,False
+TXN0004970,Insufficient balance,2,False
+TXN0004973,Network error,1,False
+TXN0004990,Account blocked,1,False
+TXN0005040,Invalid VPA,0,True
+TXN0005045,Network error,0,True
+TXN0005058,Account blocked,1,True
+TXN0005074,Insufficient balance,2,False
+TXN0005098,Network error,1,False
+TXN0005120,Network error,2,False
+TXN0005131,Network error,3,True
+TXN0005161,Bank server timeout,3,False
+TXN0005190,Network error,3,False
+TXN0005195,Network error,2,False
+TXN0005200,Bank server timeout,1,False
+TXN0005214,Bank server timeout,2,True
+TXN0005219,Insufficient balance,2,False
+TXN0005223,Bank server timeout,1,False
+TXN0005235,Bank server timeout,1,False
+TXN0005236,Daily limit exceeded,1,True
+TXN0005266,Account blocked,3,True
+TXN0005307,Daily limit exceeded,2,False
+TXN0005318,Bank server timeout,0,False
+TXN0005322,Insufficient balance,2,True
+TXN0005329,Insufficient balance,1,True
+TXN0005332,Invalid VPA,2,False
+TXN0005366,Bank server timeout,0,False
+TXN0005379,Network error,1,False
+TXN0005392,Insufficient balance,2,True
+TXN0005425,Network error,3,False
+TXN0005432,Insufficient balance,1,True
+TXN0005452,Daily limit exceeded,3,False
+TXN0005481,Daily limit exceeded,1,True
+TXN0005485,Network error,1,True
+TXN0005489,Bank server timeout,1,False
+TXN0005490,Invalid VPA,0,True
+TXN0005498,Network error,1,False
+TXN0005506,Account blocked,3,False
+TXN0005539,Network error,3,True
+TXN0005545,Account blocked,2,False
+TXN0005559,Network error,1,True
+TXN0005563,Invalid VPA,3,True
+TXN0005585,Network error,1,False
+TXN0005588,Account blocked,3,True
+TXN0005590,Invalid VPA,2,False
+TXN0005598,Invalid VPA,0,True
+TXN0005610,Insufficient balance,0,True
+TXN0005629,Account blocked,1,False
+TXN0005648,Account blocked,2,True
+TXN0005679,Insufficient balance,2,True
+TXN0005680,Daily limit exceeded,0,False
+TXN0005682,Insufficient balance,0,False
+TXN0005696,Invalid VPA,3,True
+TXN0005701,Bank server timeout,3,False
+TXN0005715,Invalid VPA,1,False
+TXN0005735,Insufficient balance,1,False
+TXN0005754,Insufficient balance,1,True
+TXN0005761,Invalid VPA,1,False
+TXN0005780,Insufficient balance,1,True
+TXN0005790,Invalid VPA,3,True
+TXN0005806,Daily limit exceeded,2,False
+TXN0005814,Network error,0,False
+TXN0005815,Invalid VPA,1,False
+TXN0005860,Invalid VPA,0,False
+TXN0005863,Network error,0,True
+TXN0005866,Insufficient balance,3,False
+TXN0005874,Insufficient balance,2,False
+TXN0005884,Daily limit exceeded,3,False
+TXN0005903,Network error,1,True
+TXN0005921,Invalid VPA,3,False
+TXN0005923,Insufficient balance,2,True
+TXN0005924,Account blocked,3,True
+TXN0005943,Network error,0,False
+TXN0005944,Bank server timeout,1,True
+TXN0005948,Insufficient balance,1,False
+TXN0005971,Daily limit exceeded,0,True
+TXN0006019,Account blocked,1,False
+TXN0006022,Daily limit exceeded,3,False
+TXN0006030,Insufficient balance,1,False
+TXN0006032,Daily limit exceeded,1,True
+TXN0006041,Invalid VPA,2,False
+TXN0006047,Bank server timeout,1,False
+TXN0006081,Daily limit exceeded,2,False
+TXN0006083,Daily limit exceeded,2,False
+TXN0006086,Network error,2,True
+TXN0006088,Network error,3,False
+TXN0006089,Daily limit exceeded,3,False
+TXN0006098,Bank server timeout,1,False
+TXN0006099,Insufficient balance,3,True
+TXN0006100,Insufficient balance,1,False
+TXN0006109,Account blocked,0,True
+TXN0006122,Insufficient balance,0,False
+TXN0006132,Insufficient balance,2,False
+TXN0006136,Bank server timeout,0,False
+TXN0006138,Daily limit exceeded,3,False
+TXN0006153,Daily limit exceeded,1,True
+TXN0006212,Account blocked,2,False
+TXN0006236,Network error,1,False
+TXN0006255,Insufficient balance,0,True
+TXN0006256,Bank server timeout,3,True
+TXN0006266,Daily limit exceeded,0,True
+TXN0006299,Invalid VPA,2,False
+TXN0006302,Network error,0,False
+TXN0006329,Daily limit exceeded,1,False
+TXN0006338,Invalid VPA,2,True
+TXN0006342,Invalid VPA,0,True
+TXN0006347,Account blocked,2,False
+TXN0006349,Insufficient balance,3,True
+TXN0006357,Account blocked,0,False
+TXN0006388,Daily limit exceeded,2,True
+TXN0006394,Daily limit exceeded,2,False
+TXN0006427,Bank server timeout,1,True
+TXN0006435,Daily limit exceeded,3,False
+TXN0006436,Invalid VPA,2,False
+TXN0006440,Daily limit exceeded,3,False
+TXN0006455,Insufficient balance,0,True
+TXN0006464,Network error,2,False
+TXN0006481,Network error,0,True
+TXN0006490,Account blocked,0,True
+TXN0006508,Bank server timeout,1,False
+TXN0006509,Account blocked,2,True
+TXN0006513,Invalid VPA,1,False
+TXN0006530,Invalid VPA,2,False
+TXN0006532,Network error,3,False
+TXN0006535,Daily limit exceeded,2,False
+TXN0006542,Bank server timeout,2,False
+TXN0006550,Daily limit exceeded,3,True
+TXN0006556,Daily limit exceeded,0,True
+TXN0006558,Daily limit exceeded,2,False
+TXN0006562,Account blocked,3,False
+TXN0006580,Account blocked,1,True
+TXN0006618,Daily limit exceeded,1,False
+TXN0006651,Bank server timeout,0,True
+TXN0006659,Account blocked,0,False
+TXN0006660,Insufficient balance,0,True
+TXN0006674,Insufficient balance,1,False
+TXN0006683,Bank server timeout,2,True
+TXN0006686,Insufficient balance,1,True
+TXN0006692,Invalid VPA,3,True
+TXN0006694,Network error,2,False
+TXN0006699,Network error,1,True
+TXN0006718,Invalid VPA,0,True
+TXN0006719,Daily limit exceeded,1,True
+TXN0006722,Daily limit exceeded,2,True
+TXN0006729,Invalid VPA,3,False
+TXN0006765,Bank server timeout,2,False
+TXN0006780,Network error,0,True
+TXN0006797,Insufficient balance,0,True
+TXN0006800,Invalid VPA,1,True
+TXN0006817,Daily limit exceeded,1,False
+TXN0006844,Network error,2,True
+TXN0006856,Invalid VPA,3,True
+TXN0006859,Network error,0,False
+TXN0006914,Daily limit exceeded,3,True
+TXN0006938,Insufficient balance,1,True
+TXN0006947,Bank server timeout,0,False
+TXN0006958,Bank server timeout,0,False
+TXN0006978,Invalid VPA,2,True
+TXN0006990,Bank server timeout,3,True
+TXN0007013,Daily limit exceeded,3,False
+TXN0007038,Invalid VPA,1,False
+TXN0007043,Network error,2,False
+TXN0007045,Network error,2,False
+TXN0007049,Invalid VPA,3,True
+TXN0007080,Network error,1,False
+TXN0007089,Account blocked,0,True
+TXN0007094,Daily limit exceeded,1,True
+TXN0007132,Network error,1,True
+TXN0007142,Daily limit exceeded,3,True
+TXN0007148,Network error,1,False
+TXN0007174,Account blocked,3,False
+TXN0007176,Network error,1,False
+TXN0007195,Daily limit exceeded,2,False
+TXN0007197,Invalid VPA,3,False
+TXN0007229,Daily limit exceeded,2,False
+TXN0007238,Daily limit exceeded,2,False
+TXN0007243,Account blocked,2,True
+TXN0007245,Bank server timeout,3,True
+TXN0007256,Daily limit exceeded,2,False
+TXN0007267,Bank server timeout,3,False
+TXN0007347,Daily limit exceeded,1,True
+TXN0007379,Invalid VPA,2,True
+TXN0007391,Insufficient balance,2,False
+TXN0007406,Invalid VPA,0,False
+TXN0007413,Insufficient balance,1,False
+TXN0007421,Bank server timeout,3,False
+TXN0007428,Invalid VPA,2,True
+TXN0007432,Daily limit exceeded,1,False
+TXN0007451,Daily limit exceeded,2,False
+TXN0007479,Daily limit exceeded,2,False
+TXN0007492,Network error,1,False
+TXN0007529,Invalid VPA,2,False
+TXN0007535,Bank server timeout,3,False
+TXN0007542,Invalid VPA,2,True
+TXN0007547,Account blocked,0,False
+TXN0007566,Account blocked,1,True
+TXN0007571,Bank server timeout,3,False
+TXN0007578,Account blocked,1,False
+TXN0007582,Account blocked,2,False
+TXN0007603,Account blocked,2,True
+TXN0007604,Insufficient balance,1,False
+TXN0007609,Network error,1,True
+TXN0007614,Bank server timeout,0,True
+TXN0007617,Invalid VPA,3,True
+TXN0007645,Network error,3,True
+TXN0007664,Network error,2,False
+TXN0007694,Invalid VPA,0,False
+TXN0007715,Insufficient balance,0,False
+TXN0007727,Invalid VPA,2,False
+TXN0007728,Bank server timeout,3,False
+TXN0007741,Daily limit exceeded,2,True
+TXN0007746,Account blocked,3,True
+TXN0007761,Network error,1,False
+TXN0007784,Account blocked,2,True
+TXN0007809,Invalid VPA,1,True
+TXN0007811,Bank server timeout,2,True
+TXN0007823,Insufficient balance,0,False
+TXN0007828,Daily limit exceeded,3,False
+TXN0007844,Daily limit exceeded,0,True
+TXN0007847,Insufficient balance,1,True
+TXN0007925,Invalid VPA,2,True
+TXN0007928,Account blocked,0,True
+TXN0007941,Daily limit exceeded,3,False
+TXN0007954,Account blocked,2,False
+TXN0007976,Network error,2,True
+TXN0007991,Bank server timeout,0,True
+TXN0008022,Daily limit exceeded,2,False
+TXN0008031,Bank server timeout,1,True
+TXN0008034,Daily limit exceeded,1,False
+TXN0008035,Daily limit exceeded,0,False
+TXN0008064,Invalid VPA,2,True
+TXN0008066,Network error,3,False
+TXN0008076,Invalid VPA,3,False
+TXN0008108,Network error,1,False
+TXN0008113,Invalid VPA,0,True
+TXN0008129,Network error,0,False
+TXN0008130,Bank server timeout,2,False
+TXN0008139,Daily limit exceeded,3,False
+TXN0008152,Bank server timeout,2,False
+TXN0008170,Network error,0,False
+TXN0008172,Insufficient balance,0,False
+TXN0008195,Account blocked,3,False
+TXN0008204,Bank server timeout,2,False
+TXN0008222,Network error,3,False
+TXN0008246,Invalid VPA,2,False
+TXN0008254,Bank server timeout,2,True
+TXN0008255,Invalid VPA,1,False
+TXN0008256,Account blocked,1,True
+TXN0008267,Network error,0,False
+TXN0008269,Insufficient balance,2,False
+TXN0008277,Network error,1,True
+TXN0008284,Invalid VPA,1,False
+TXN0008288,Invalid VPA,1,True
+TXN0008293,Bank server timeout,2,False
+TXN0008324,Daily limit exceeded,0,False
+TXN0008333,Network error,0,False
+TXN0008352,Insufficient balance,2,False
+TXN0008361,Insufficient balance,2,True
+TXN0008366,Invalid VPA,1,False
+TXN0008423,Bank server timeout,0,True
+TXN0008464,Network error,1,True
+TXN0008519,Bank server timeout,3,False
+TXN0008555,Account blocked,3,True
+TXN0008564,Daily limit exceeded,1,True
+TXN0008591,Bank server timeout,3,False
+TXN0008617,Invalid VPA,2,False
+TXN0008641,Invalid VPA,2,False
+TXN0008648,Bank server timeout,0,False
+TXN0008662,Network error,2,False
+TXN0008674,Account blocked,1,True
+TXN0008677,Insufficient balance,2,False
+TXN0008690,Daily limit exceeded,0,False
+TXN0008703,Insufficient balance,2,False
+TXN0008748,Daily limit exceeded,2,False
+TXN0008757,Account blocked,3,True
+TXN0008763,Daily limit exceeded,0,True
+TXN0008796,Network error,1,False
+TXN0008807,Network error,0,True
+TXN0008833,Network error,2,False
+TXN0008836,Bank server timeout,0,True
+TXN0008862,Invalid VPA,1,False
+TXN0008863,Account blocked,0,False
+TXN0008865,Bank server timeout,1,False
+TXN0008876,Daily limit exceeded,0,False
+TXN0008911,Bank server timeout,0,True
+TXN0008943,Invalid VPA,1,False
+TXN0008944,Insufficient balance,2,True
+TXN0008975,Insufficient balance,3,False
+TXN0009023,Account blocked,2,True
+TXN0009063,Invalid VPA,0,False
+TXN0009074,Invalid VPA,2,False
+TXN0009131,Insufficient balance,0,True
+TXN0009136,Invalid VPA,3,False
+TXN0009146,Insufficient balance,1,False
+TXN0009150,Account blocked,1,True
+TXN0009160,Insufficient balance,2,True
+TXN0009189,Bank server timeout,1,False
+TXN0009191,Insufficient balance,3,False
+TXN0009205,Account blocked,2,True
+TXN0009214,Bank server timeout,3,False
+TXN0009219,Insufficient balance,0,True
+TXN0009224,Account blocked,2,False
+TXN0009225,Insufficient balance,1,False
+TXN0009227,Bank server timeout,2,False
+TXN0009236,Account blocked,3,False
+TXN0009243,Network error,0,False
+TXN0009268,Insufficient balance,2,False
+TXN0009273,Invalid VPA,3,False
+TXN0009294,Invalid VPA,1,False
+TXN0009297,Daily limit exceeded,0,False
+TXN0009314,Invalid VPA,2,False
+TXN0009319,Invalid VPA,1,False
+TXN0009325,Bank server timeout,0,False
+TXN0009332,Bank server timeout,1,True
+TXN0009335,Daily limit exceeded,3,False
+TXN0009342,Account blocked,0,False
+TXN0009396,Invalid VPA,1,False
+TXN0009398,Daily limit exceeded,1,True
+TXN0009418,Invalid VPA,3,False
+TXN0009449,Daily limit exceeded,0,False
+TXN0009478,Network error,1,False
+TXN0009484,Network error,0,True
+TXN0009498,Invalid VPA,1,True
+TXN0009500,Daily limit exceeded,1,False
+TXN0009512,Invalid VPA,0,True
+TXN0009517,Account blocked,0,False
+TXN0009533,Daily limit exceeded,2,True
+TXN0009558,Invalid VPA,3,True
+TXN0009580,Account blocked,0,False
+TXN0009591,Invalid VPA,2,True
+TXN0009647,Network error,1,False
+TXN0009656,Insufficient balance,1,True
+TXN0009670,Insufficient balance,3,True
+TXN0009687,Account blocked,0,True
+TXN0009689,Invalid VPA,0,True
+TXN0009703,Bank server timeout,0,True
+TXN0009713,Network error,2,False
+TXN0009716,Account blocked,0,True
+TXN0009752,Daily limit exceeded,3,False
+TXN0009753,Bank server timeout,1,False
+TXN0009767,Daily limit exceeded,0,False
+TXN0009770,Daily limit exceeded,2,True
+TXN0009824,Bank server timeout,1,False
+TXN0009825,Daily limit exceeded,0,True
+TXN0009841,Account blocked,1,False
+TXN0009849,Daily limit exceeded,0,False
+TXN0009867,Invalid VPA,3,False
+TXN0009873,Account blocked,0,True
+TXN0009876,Daily limit exceeded,0,False
+TXN0009877,Bank server timeout,3,True
+TXN0009887,Network error,2,False
+TXN0009935,Invalid VPA,1,False
+TXN0009950,Bank server timeout,0,False
+TXN0009952,Daily limit exceeded,1,False
+TXN0009974,Account blocked,1,True
+TXN0009978,Invalid VPA,0,False
+TXN0009979,Insufficient balance,0,False
+TXN0009984,Account blocked,2,True
+TXN0009985,Network error,3,True
+TXN0009998,Daily limit exceeded,2,True
+TXN0010003,Network error,2,False
+TXN0010017,Insufficient balance,1,False
+TXN0010033,Account blocked,0,False
+TXN0010035,Insufficient balance,0,True
+TXN0010036,Account blocked,2,False
+TXN0010055,Bank server timeout,0,False
+TXN0010142,Daily limit exceeded,3,True
+TXN0010143,Bank server timeout,3,True
+TXN0010190,Daily limit exceeded,2,True
+TXN0010218,Invalid VPA,0,False
+TXN0010224,Invalid VPA,1,True
+TXN0010247,Bank server timeout,3,False
+TXN0010258,Invalid VPA,2,False
+TXN0010262,Invalid VPA,2,False
+TXN0010321,Bank server timeout,1,False
+TXN0010360,Account blocked,1,False
+TXN0010362,Daily limit exceeded,2,True
+TXN0010378,Bank server timeout,2,False
+TXN0010419,Daily limit exceeded,3,False
+TXN0010445,Daily limit exceeded,3,True
+TXN0010464,Account blocked,0,False
+TXN0010473,Network error,3,False
+TXN0010479,Account blocked,1,False
+TXN0010493,Invalid VPA,2,True
+TXN0010495,Account blocked,1,False
+TXN0010516,Account blocked,1,False
+TXN0010565,Bank server timeout,2,True
+TXN0010630,Bank server timeout,2,True
+TXN0010647,Network error,0,True
+TXN0010675,Daily limit exceeded,1,False
+TXN0010683,Bank server timeout,1,False
+TXN0010709,Daily limit exceeded,0,True
+TXN0010725,Insufficient balance,0,False
+TXN0010739,Account blocked,0,True
+TXN0010746,Invalid VPA,0,True
+TXN0010749,Daily limit exceeded,1,False
+TXN0010757,Account blocked,1,False
+TXN0010775,Daily limit exceeded,0,True
+TXN0010781,Account blocked,1,False
+TXN0010830,Insufficient balance,1,False
+TXN0010854,Invalid VPA,2,True
+TXN0010855,Daily limit exceeded,2,False
+TXN0010866,Bank server timeout,0,False
+TXN0010877,Daily limit exceeded,3,True
+TXN0010886,Insufficient balance,0,False
+TXN0010890,Daily limit exceeded,0,True
+TXN0010896,Network error,0,True
+TXN0010916,Network error,0,True
+TXN0010931,Bank server timeout,2,True
+TXN0010935,Insufficient balance,3,True
+TXN0010968,Invalid VPA,1,False
+TXN0010984,Insufficient balance,0,False
+TXN0010988,Daily limit exceeded,1,True
+TXN0010999,Insufficient balance,3,False
+TXN0011004,Account blocked,0,True
+TXN0011014,Bank server timeout,1,True
+TXN0011017,Insufficient balance,0,False
+TXN0011033,Account blocked,2,False
+TXN0011034,Insufficient balance,1,False
+TXN0011061,Account blocked,3,False
+TXN0011109,Account blocked,2,False
+TXN0011139,Bank server timeout,3,False
+TXN0011150,Invalid VPA,3,False
+TXN0011159,Bank server timeout,2,False
+TXN0011188,Daily limit exceeded,2,False
+TXN0011190,Daily limit exceeded,2,True
+TXN0011195,Daily limit exceeded,2,False
+TXN0011199,Account blocked,3,True
+TXN0011209,Network error,1,True
+TXN0011216,Insufficient balance,1,False
+TXN0011235,Insufficient balance,0,False
+TXN0011236,Daily limit exceeded,0,False
+TXN0011248,Bank server timeout,2,False
+TXN0011264,Network error,3,True
+TXN0011272,Daily limit exceeded,2,False
+TXN0011295,Insufficient balance,0,False
+TXN0011304,Network error,3,False
+TXN0011310,Network error,0,True
+TXN0011323,Network error,2,False
+TXN0011330,Bank server timeout,0,False
+TXN0011342,Bank server timeout,3,False
+TXN0011372,Account blocked,2,False
+TXN0011375,Network error,1,False
+TXN0011384,Bank server timeout,0,True
+TXN0011398,Account blocked,0,False
+TXN0011437,Insufficient balance,2,False
+TXN0011449,Account blocked,2,True
+TXN0011480,Insufficient balance,1,True
+TXN0011482,Account blocked,2,False
+TXN0011485,Insufficient balance,0,False
+TXN0011488,Invalid VPA,0,True
+TXN0011497,Daily limit exceeded,0,True
+TXN0011499,Insufficient balance,1,True
+TXN0011568,Account blocked,3,True
+TXN0011584,Network error,0,False
+TXN0011617,Account blocked,1,False
+TXN0011652,Insufficient balance,1,False
+TXN0011677,Invalid VPA,1,True
+TXN0011689,Network error,2,False
+TXN0011691,Network error,3,False
+TXN0011698,Insufficient balance,2,True
+TXN0011720,Invalid VPA,0,True
+TXN0011753,Bank server timeout,1,True
+TXN0011758,Network error,3,True
+TXN0011762,Daily limit exceeded,0,False
+TXN0011765,Daily limit exceeded,1,True
+TXN0011772,Invalid VPA,1,False
+TXN0011788,Bank server timeout,1,False
+TXN0011791,Daily limit exceeded,1,True
+TXN0011809,Network error,1,True
+TXN0011814,Daily limit exceeded,2,False
+TXN0011834,Invalid VPA,1,False
+TXN0011872,Network error,0,True
+TXN0011874,Bank server timeout,1,False
+TXN0011875,Insufficient balance,3,False
+TXN0011895,Invalid VPA,3,True
+TXN0011911,Network error,2,True
+TXN0011925,Bank server timeout,1,True
+TXN0011928,Bank server timeout,0,True
+TXN0011950,Account blocked,3,True
+TXN0011970,Account blocked,1,False
+TXN0011997,Invalid VPA,1,True
+TXN0012001,Daily limit exceeded,0,False
+TXN0012030,Bank server timeout,3,False
+TXN0012045,Insufficient balance,3,True
+TXN0012048,Daily limit exceeded,3,True
+TXN0012057,Insufficient balance,2,False
+TXN0012111,Insufficient balance,0,False
+TXN0012174,Account blocked,2,True
+TXN0012176,Insufficient balance,2,True
+TXN0012179,Bank server timeout,2,True
+TXN0012207,Insufficient balance,1,True
+TXN0012230,Insufficient balance,0,True
+TXN0012234,Account blocked,3,False
+TXN0012267,Network error,2,True
+TXN0012303,Insufficient balance,3,False
+TXN0012321,Bank server timeout,3,True
+TXN0012326,Invalid VPA,3,True
+TXN0012331,Invalid VPA,0,True
+TXN0012332,Network error,3,False
+TXN0012356,Account blocked,3,False
+TXN0012363,Bank server timeout,0,True
+TXN0012371,Network error,2,True
+TXN0012397,Bank server timeout,0,False
+TXN0012409,Network error,1,False
+TXN0012429,Daily limit exceeded,0,False
+TXN0012433,Network error,3,True
+TXN0012447,Bank server timeout,0,False
+TXN0012459,Insufficient balance,1,False
+TXN0012471,Network error,2,True
+TXN0012479,Insufficient balance,0,True
+TXN0012497,Account blocked,1,True
+TXN0012499,Daily limit exceeded,0,True
+TXN0012509,Invalid VPA,1,True
+TXN0012534,Bank server timeout,0,False
+TXN0012544,Invalid VPA,1,False
+TXN0012546,Account blocked,1,True
+TXN0012563,Account blocked,1,True
+TXN0012568,Bank server timeout,2,True
+TXN0012575,Account blocked,3,True
+TXN0012577,Invalid VPA,0,True
+TXN0012601,Bank server timeout,0,False
+TXN0012626,Daily limit exceeded,2,False
+TXN0012641,Daily limit exceeded,0,False
+TXN0012657,Invalid VPA,1,True
+TXN0012661,Daily limit exceeded,1,False
+TXN0012691,Bank server timeout,2,True
+TXN0012695,Network error,1,False
+TXN0012753,Daily limit exceeded,3,False
+TXN0012767,Invalid VPA,0,False
+TXN0012781,Invalid VPA,1,True
+TXN0012822,Insufficient balance,2,False
+TXN0012838,Daily limit exceeded,3,True
+TXN0012848,Account blocked,2,True
+TXN0012859,Bank server timeout,1,True
+TXN0012861,Invalid VPA,0,False
+TXN0012874,Daily limit exceeded,2,True
+TXN0012881,Bank server timeout,1,False
+TXN0012887,Invalid VPA,2,True
+TXN0012920,Invalid VPA,3,False
+TXN0012922,Invalid VPA,0,False
+TXN0012947,Invalid VPA,1,False
+TXN0012949,Daily limit exceeded,1,False
+TXN0012977,Invalid VPA,1,True
+TXN0012993,Insufficient balance,0,False
+TXN0013028,Invalid VPA,1,False
+TXN0013087,Daily limit exceeded,3,False
+TXN0013090,Account blocked,2,False
+TXN0013114,Bank server timeout,1,False
+TXN0013132,Account blocked,1,False
+TXN0013136,Account blocked,3,False
+TXN0013172,Account blocked,2,True
+TXN0013199,Daily limit exceeded,3,False
+TXN0013257,Invalid VPA,3,False
+TXN0013267,Account blocked,0,False
+TXN0013290,Invalid VPA,3,True
+TXN0013304,Network error,1,True
+TXN0013314,Bank server timeout,1,False
+TXN0013322,Bank server timeout,2,False
+TXN0013326,Network error,2,False
+TXN0013352,Invalid VPA,0,False
+TXN0013416,Invalid VPA,3,True
+TXN0013440,Network error,2,False
+TXN0013458,Network error,1,False
+TXN0013508,Insufficient balance,1,False
+TXN0013510,Bank server timeout,0,False
+TXN0013527,Invalid VPA,2,False
+TXN0013536,Daily limit exceeded,2,True
+TXN0013569,Daily limit exceeded,0,False
+TXN0013576,Account blocked,0,True
+TXN0013578,Insufficient balance,1,True
+TXN0013594,Insufficient balance,1,True
+TXN0013618,Account blocked,0,True
+TXN0013622,Network error,1,False
+TXN0013632,Account blocked,2,False
+TXN0013635,Bank server timeout,3,False
+TXN0013641,Daily limit exceeded,0,True
+TXN0013647,Network error,2,False
+TXN0013652,Insufficient balance,2,False
+TXN0013661,Account blocked,0,False
+TXN0013707,Network error,2,True
+TXN0013734,Daily limit exceeded,1,False
+TXN0013742,Invalid VPA,3,True
+TXN0013753,Network error,0,True
+TXN0013837,Insufficient balance,2,False
+TXN0013839,Bank server timeout,0,False
+TXN0013845,Network error,3,True
+TXN0013869,Invalid VPA,3,False
+TXN0013882,Account blocked,2,False
+TXN0013888,Daily limit exceeded,1,True
+TXN0013889,Daily limit exceeded,2,True
+TXN0013897,Insufficient balance,2,True
+TXN0013936,Daily limit exceeded,1,False
+TXN0013970,Invalid VPA,0,False
+TXN0013973,Insufficient balance,1,False
+TXN0013995,Account blocked,0,False
+TXN0013996,Invalid VPA,2,False
+TXN0013998,Account blocked,1,False
+TXN0014004,Network error,0,False
+TXN0014010,Account blocked,2,True
+TXN0014011,Network error,3,False
+TXN0014014,Invalid VPA,3,True
+TXN0014016,Network error,1,False
+TXN0014026,Account blocked,1,False
+TXN0014037,Invalid VPA,1,False
+TXN0014066,Insufficient balance,1,False
+TXN0014084,Account blocked,2,True
+TXN0014097,Insufficient balance,1,True
+TXN0014106,Invalid VPA,2,True
+TXN0014109,Network error,1,True
+TXN0014121,Invalid VPA,0,False
+TXN0014129,Bank server timeout,1,False
+TXN0014132,Daily limit exceeded,3,False
+TXN0014139,Bank server timeout,0,False
+TXN0014144,Network error,3,False
+TXN0014148,Insufficient balance,1,False
+TXN0014169,Account blocked,2,True
+TXN0014175,Bank server timeout,2,True
+TXN0014186,Network error,2,True
+TXN0014191,Network error,2,False
+TXN0014202,Invalid VPA,1,True
+TXN0014206,Bank server timeout,2,False
+TXN0014227,Account blocked,0,False
+TXN0014243,Bank server timeout,3,True
+TXN0014254,Network error,0,True
+TXN0014259,Invalid VPA,3,False
+TXN0014262,Invalid VPA,0,True
+TXN0014267,Invalid VPA,2,False
+TXN0014269,Bank server timeout,3,True
+TXN0014295,Insufficient balance,3,True
+TXN0014297,Insufficient balance,0,False
+TXN0014299,Daily limit exceeded,2,False
+TXN0014306,Invalid VPA,1,True
+TXN0014326,Invalid VPA,1,False
+TXN0014329,Daily limit exceeded,1,True
+TXN0014333,Account blocked,0,False
+TXN0014336,Insufficient balance,1,True
+TXN0014365,Network error,0,False
+TXN0014433,Daily limit exceeded,2,False
+TXN0014449,Bank server timeout,1,False
+TXN0014458,Daily limit exceeded,1,True
+TXN0014460,Bank server timeout,0,True
+TXN0014478,Bank server timeout,1,False
+TXN0014493,Account blocked,0,True
+TXN0014495,Network error,3,True
+TXN0014522,Insufficient balance,3,True
+TXN0014527,Network error,2,True
+TXN0014530,Bank server timeout,1,False
+TXN0014538,Daily limit exceeded,2,False
+TXN0014546,Invalid VPA,0,False
+TXN0014589,Daily limit exceeded,2,False
+TXN0014598,Account blocked,3,False
+TXN0014605,Invalid VPA,3,False
+TXN0014621,Bank server timeout,2,True
+TXN0014627,Invalid VPA,0,False
+TXN0014629,Bank server timeout,1,False
+TXN0014640,Network error,3,True
+TXN0014657,Insufficient balance,2,False
+TXN0014670,Bank server timeout,0,False
+TXN0014699,Invalid VPA,2,False
+TXN0014702,Insufficient balance,1,False
+TXN0014731,Insufficient balance,1,True
+TXN0014752,Insufficient balance,3,False
+TXN0014781,Insufficient balance,3,True
+TXN0014816,Daily limit exceeded,1,False
+TXN0014820,Insufficient balance,2,False
+TXN0014823,Invalid VPA,0,True
+TXN0014832,Account blocked,2,True
+TXN0014872,Daily limit exceeded,1,True
+TXN0014889,Bank server timeout,3,False
+TXN0014913,Account blocked,1,True
+TXN0014925,Bank server timeout,1,False
+TXN0014935,Daily limit exceeded,0,True
+TXN0014961,Network error,1,False
+TXN0014965,Daily limit exceeded,3,True
+TXN0014978,Insufficient balance,1,False
+TXN0014981,Account blocked,0,False
+TXN0014982,Account blocked,1,False
+TXN0015004,Bank server timeout,0,True
+TXN0015033,Daily limit exceeded,2,False
+TXN0015036,Daily limit exceeded,3,False
+TXN0015064,Invalid VPA,2,False
+TXN0015075,Account blocked,2,True
+TXN0015082,Account blocked,2,True
+TXN0015093,Account blocked,2,False
+TXN0015123,Daily limit exceeded,1,False
+TXN0015124,Invalid VPA,0,False
+TXN0015133,Bank server timeout,2,False
+TXN0015134,Bank server timeout,0,False
+TXN0015159,Bank server timeout,3,False
+TXN0015166,Insufficient balance,1,True
+TXN0015193,Bank server timeout,2,True
+TXN0015198,Account blocked,2,True
+TXN0015205,Account blocked,3,True
+TXN0015218,Account blocked,0,False
+TXN0015224,Bank server timeout,2,False
+TXN0015226,Daily limit exceeded,0,True
+TXN0015280,Daily limit exceeded,0,False
+TXN0015310,Invalid VPA,3,True
+TXN0015316,Daily limit exceeded,1,True
+TXN0015334,Network error,0,False
+TXN0015388,Account blocked,0,True
+TXN0015392,Network error,2,False
+TXN0015412,Network error,3,False
+TXN0015422,Daily limit exceeded,0,False
+TXN0015452,Bank server timeout,3,True
+TXN0015465,Insufficient balance,2,True
+TXN0015503,Daily limit exceeded,3,True
+TXN0015511,Bank server timeout,3,False
+TXN0015515,Daily limit exceeded,0,False
+TXN0015530,Account blocked,0,True
+TXN0015536,Insufficient balance,3,False
+TXN0015570,Invalid VPA,2,True
+TXN0015571,Insufficient balance,0,False
+TXN0015573,Insufficient balance,2,False
+TXN0015594,Bank server timeout,1,False
+TXN0015629,Daily limit exceeded,3,False
+TXN0015642,Account blocked,1,True
+TXN0015644,Invalid VPA,0,True
+TXN0015656,Insufficient balance,2,False
+TXN0015674,Insufficient balance,2,False
+TXN0015675,Network error,3,True
+TXN0015676,Invalid VPA,0,True
+TXN0015684,Daily limit exceeded,3,False
+TXN0015734,Daily limit exceeded,1,True
+TXN0015739,Network error,1,False
+TXN0015749,Network error,2,True
+TXN0015762,Account blocked,0,True
+TXN0015768,Invalid VPA,3,True
+TXN0015797,Invalid VPA,3,False
+TXN0015800,Daily limit exceeded,3,True
+TXN0015802,Bank server timeout,0,True
+TXN0015807,Insufficient balance,1,False
+TXN0015811,Bank server timeout,1,True
+TXN0015823,Invalid VPA,0,True
+TXN0015850,Insufficient balance,0,False
+TXN0015854,Account blocked,3,False
+TXN0015856,Insufficient balance,2,False
+TXN0015881,Bank server timeout,0,False
+TXN0015897,Bank server timeout,3,True
+TXN0015898,Bank server timeout,0,False
+TXN0015947,Daily limit exceeded,0,True
+TXN0015965,Invalid VPA,3,False
+TXN0015970,Bank server timeout,2,False
+TXN0015977,Insufficient balance,3,False
+TXN0015980,Network error,2,True
+TXN0016067,Daily limit exceeded,2,True
+TXN0016081,Network error,2,False
+TXN0016139,Bank server timeout,3,True
+TXN0016169,Invalid VPA,3,False
+TXN0016182,Insufficient balance,3,False
+TXN0016185,Network error,1,False
+TXN0016213,Daily limit exceeded,2,True
+TXN0016229,Invalid VPA,1,True
+TXN0016270,Account blocked,1,False
+TXN0016278,Daily limit exceeded,0,False
+TXN0016296,Daily limit exceeded,0,False
+TXN0016310,Invalid VPA,2,False
+TXN0016319,Daily limit exceeded,3,False
+TXN0016333,Daily limit exceeded,2,False
+TXN0016335,Bank server timeout,0,False
+TXN0016337,Network error,0,False
+TXN0016370,Insufficient balance,2,True
+TXN0016381,Insufficient balance,2,True
+TXN0016415,Daily limit exceeded,0,False
+TXN0016466,Insufficient balance,3,True
+TXN0016517,Bank server timeout,3,False
+TXN0016528,Invalid VPA,3,True
+TXN0016553,Insufficient balance,1,False
+TXN0016568,Network error,1,False
+TXN0016573,Account blocked,2,False
+TXN0016585,Insufficient balance,3,False
+TXN0016607,Network error,2,False
+TXN0016610,Insufficient balance,3,False
+TXN0016612,Account blocked,1,True
+TXN0016626,Account blocked,3,True
+TXN0016628,Account blocked,0,True
+TXN0016629,Account blocked,0,False
+TXN0016647,Account blocked,3,False
+TXN0016652,Daily limit exceeded,2,True
+TXN0016659,Network error,2,True
+TXN0016676,Daily limit exceeded,0,True
+TXN0016683,Account blocked,0,True
+TXN0016707,Account blocked,3,False
+TXN0016709,Network error,1,False
+TXN0016740,Network error,2,True
+TXN0016741,Account blocked,1,True
+TXN0016745,Insufficient balance,1,False
+TXN0016750,Account blocked,3,True
+TXN0016751,Daily limit exceeded,2,False
+TXN0016776,Bank server timeout,1,True
+TXN0016798,Network error,0,False
+TXN0016799,Invalid VPA,2,False
+TXN0016810,Bank server timeout,0,True
+TXN0016812,Insufficient balance,1,True
+TXN0016818,Bank server timeout,0,True
+TXN0016826,Account blocked,3,False
+TXN0016845,Network error,2,True
+TXN0016856,Daily limit exceeded,3,True
+TXN0016873,Bank server timeout,3,False
+TXN0016874,Insufficient balance,2,False
+TXN0016877,Daily limit exceeded,3,False
+TXN0016888,Daily limit exceeded,2,False
+TXN0016928,Daily limit exceeded,3,False
+TXN0016931,Insufficient balance,3,False
+TXN0016942,Invalid VPA,0,True
+TXN0016948,Network error,1,True
+TXN0016951,Insufficient balance,1,False
+TXN0016957,Network error,1,False
+TXN0016962,Insufficient balance,3,True
+TXN0016964,Account blocked,2,True
+TXN0016977,Bank server timeout,0,False
+TXN0016984,Network error,2,False
+TXN0016988,Insufficient balance,3,False
+TXN0017044,Insufficient balance,1,True
+TXN0017055,Insufficient balance,1,True
+TXN0017071,Insufficient balance,3,True
+TXN0017088,Account blocked,0,True
+TXN0017116,Bank server timeout,3,True
+TXN0017117,Network error,0,False
+TXN0017158,Account blocked,3,False
+TXN0017211,Bank server timeout,3,False
+TXN0017226,Account blocked,2,True
+TXN0017265,Invalid VPA,3,False
+TXN0017269,Network error,2,True
+TXN0017288,Invalid VPA,2,False
+TXN0017291,Bank server timeout,2,False
+TXN0017293,Bank server timeout,3,False
+TXN0017296,Network error,3,True
+TXN0017303,Account blocked,2,False
+TXN0017322,Account blocked,1,True
+TXN0017333,Daily limit exceeded,1,False
+TXN0017335,Daily limit exceeded,3,False
+TXN0017345,Insufficient balance,2,False
+TXN0017348,Invalid VPA,3,True
+TXN0017354,Bank server timeout,0,True
+TXN0017376,Invalid VPA,2,False
+TXN0017389,Invalid VPA,2,True
+TXN0017401,Daily limit exceeded,1,False
+TXN0017450,Insufficient balance,1,False
+TXN0017464,Network error,2,True
+TXN0017512,Account blocked,3,False
+TXN0017515,Daily limit exceeded,1,False
+TXN0017525,Daily limit exceeded,2,False
+TXN0017554,Daily limit exceeded,0,False
+TXN0017574,Insufficient balance,0,False
+TXN0017583,Account blocked,0,False
+TXN0017589,Account blocked,0,False
+TXN0017598,Daily limit exceeded,2,False
+TXN0017599,Account blocked,0,False
+TXN0017656,Insufficient balance,2,False
+TXN0017662,Insufficient balance,1,True
+TXN0017663,Network error,3,True
+TXN0017695,Insufficient balance,2,False
+TXN0017709,Insufficient balance,3,False
+TXN0017733,Daily limit exceeded,2,True
+TXN0017786,Bank server timeout,3,True
+TXN0017875,Daily limit exceeded,0,True
+TXN0017882,Network error,3,True
+TXN0017903,Account blocked,0,False
+TXN0017909,Account blocked,1,True
+TXN0017914,Daily limit exceeded,2,True
+TXN0017920,Invalid VPA,1,True
+TXN0017961,Account blocked,2,True
+TXN0017970,Insufficient balance,1,False
+TXN0017973,Bank server timeout,2,False
+TXN0018003,Invalid VPA,3,True
+TXN0018007,Invalid VPA,2,False
+TXN0018019,Network error,0,True
+TXN0018020,Account blocked,1,True
+TXN0018024,Daily limit exceeded,0,False
+TXN0018031,Network error,1,False
+TXN0018037,Account blocked,0,True
+TXN0018048,Account blocked,3,False
+TXN0018061,Account blocked,3,False
+TXN0018070,Bank server timeout,2,False
+TXN0018098,Account blocked,3,True
+TXN0018100,Daily limit exceeded,3,False
+TXN0018116,Bank server timeout,1,False
+TXN0018130,Account blocked,0,True
+TXN0018134,Daily limit exceeded,2,False
+TXN0018143,Account blocked,0,False
+TXN0018152,Invalid VPA,0,False
+TXN0018156,Daily limit exceeded,3,False
+TXN0018157,Bank server timeout,3,False
+TXN0018168,Bank server timeout,1,True
+TXN0018169,Account blocked,3,False
+TXN0018178,Bank server timeout,0,False
+TXN0018184,Account blocked,2,True
+TXN0018187,Account blocked,2,False
+TXN0018195,Insufficient balance,3,False
+TXN0018205,Invalid VPA,0,False
+TXN0018206,Account blocked,1,False
+TXN0018224,Account blocked,1,True
+TXN0018237,Insufficient balance,0,True
+TXN0018247,Bank server timeout,0,False
+TXN0018250,Insufficient balance,3,True
+TXN0018261,Network error,2,False
+TXN0018278,Insufficient balance,0,False
+TXN0018305,Invalid VPA,2,True
+TXN0018310,Account blocked,0,False
+TXN0018315,Bank server timeout,1,False
+TXN0018343,Network error,0,False
+TXN0018345,Bank server timeout,0,True
+TXN0018351,Invalid VPA,2,True
+TXN0018358,Bank server timeout,0,False
+TXN0018375,Account blocked,0,False
+TXN0018390,Network error,1,False
+TXN0018420,Account blocked,3,True
+TXN0018444,Account blocked,3,False
+TXN0018455,Insufficient balance,1,True
+TXN0018456,Insufficient balance,2,False
+TXN0018482,Account blocked,0,True
+TXN0018484,Network error,3,False
+TXN0018531,Invalid VPA,2,False
+TXN0018552,Invalid VPA,1,False
+TXN0018566,Insufficient balance,1,True
+TXN0018593,Bank server timeout,2,False
+TXN0018595,Network error,3,False
+TXN0018599,Account blocked,2,False
+TXN0018607,Network error,0,True
+TXN0018614,Invalid VPA,2,False
+TXN0018615,Daily limit exceeded,1,True
+TXN0018622,Bank server timeout,3,True
+TXN0018660,Insufficient balance,0,False
+TXN0018694,Daily limit exceeded,0,False
+TXN0018715,Bank server timeout,3,False
+TXN0018737,Insufficient balance,1,False
+TXN0018771,Invalid VPA,1,True
+TXN0018785,Network error,0,True
+TXN0018801,Bank server timeout,3,False
+TXN0018828,Invalid VPA,1,True
+TXN0018833,Insufficient balance,2,True
+TXN0018838,Network error,2,False
+TXN0018863,Daily limit exceeded,0,False
+TXN0018869,Invalid VPA,0,False
+TXN0018888,Invalid VPA,3,True
+TXN0018916,Invalid VPA,3,True
+TXN0018918,Network error,2,True
+TXN0018923,Daily limit exceeded,1,True
+TXN0018946,Bank server timeout,1,False
+TXN0018949,Daily limit exceeded,3,False
+TXN0018980,Account blocked,1,False
+TXN0018988,Network error,0,False
+TXN0019010,Account blocked,1,False
+TXN0019012,Bank server timeout,2,True
+TXN0019026,Invalid VPA,3,True
+TXN0019031,Network error,0,False
+TXN0019036,Invalid VPA,0,False
+TXN0019037,Invalid VPA,2,True
+TXN0019072,Bank server timeout,2,False
+TXN0019087,Daily limit exceeded,2,False
+TXN0019106,Daily limit exceeded,3,True
+TXN0019117,Account blocked,0,False
+TXN0019119,Account blocked,1,False
+TXN0019133,Account blocked,2,True
+TXN0019136,Invalid VPA,1,True
+TXN0019149,Invalid VPA,2,True
+TXN0019151,Bank server timeout,3,False
+TXN0019160,Network error,0,True
+TXN0019168,Account blocked,3,False
+TXN0019174,Bank server timeout,1,False
+TXN0019181,Bank server timeout,0,True
+TXN0019198,Invalid VPA,2,False
+TXN0019204,Bank server timeout,2,True
+TXN0019210,Bank server timeout,1,False
+TXN0019213,Invalid VPA,3,False
+TXN0019240,Bank server timeout,3,True
+TXN0019244,Bank server timeout,0,False
+TXN0019248,Insufficient balance,2,True
+TXN0019253,Invalid VPA,3,True
+TXN0019258,Insufficient balance,2,True
+TXN0019279,Daily limit exceeded,0,False
+TXN0019291,Account blocked,2,True
+TXN0019295,Account blocked,2,True
+TXN0019312,Insufficient balance,2,True
+TXN0019319,Insufficient balance,2,False
+TXN0019340,Invalid VPA,2,True
+TXN0019349,Network error,1,True
+TXN0019353,Bank server timeout,3,True
+TXN0019357,Invalid VPA,1,True
+TXN0019385,Account blocked,2,False
+TXN0019415,Insufficient balance,3,True
+TXN0019421,Invalid VPA,3,False
+TXN0019426,Bank server timeout,3,False
+TXN0019431,Network error,1,False
+TXN0019446,Account blocked,0,True
+TXN0019449,Invalid VPA,0,False
+TXN0019459,Daily limit exceeded,1,False
+TXN0019461,Account blocked,1,False
+TXN0019502,Account blocked,2,False
+TXN0019505,Account blocked,1,False
+TXN0019529,Bank server timeout,3,True
+TXN0019559,Account blocked,0,False
+TXN0019569,Account blocked,2,True
+TXN0019573,Daily limit exceeded,2,True
+TXN0019608,Account blocked,2,False
+TXN0019647,Network error,3,False
+TXN0019649,Invalid VPA,1,True
+TXN0019654,Invalid VPA,2,False
+TXN0019661,Daily limit exceeded,0,True
+TXN0019672,Account blocked,3,False
+TXN0019674,Network error,3,False
+TXN0019678,Daily limit exceeded,3,True
+TXN0019679,Invalid VPA,1,True
+TXN0019689,Bank server timeout,1,False
+TXN0019694,Network error,0,False
+TXN0019705,Account blocked,0,False
+TXN0019708,Network error,2,False
+TXN0019710,Account blocked,2,True
+TXN0019715,Insufficient balance,1,False
+TXN0019726,Insufficient balance,2,False
+TXN0019729,Network error,0,False
+TXN0019746,Invalid VPA,3,False
+TXN0019757,Account blocked,1,True
+TXN0019783,Insufficient balance,2,True
+TXN0019813,Bank server timeout,1,False
+TXN0019820,Daily limit exceeded,2,False
+TXN0019824,Bank server timeout,0,True
+TXN0019825,Account blocked,2,True
+TXN0019840,Bank server timeout,1,True
+TXN0019843,Network error,3,False
+TXN0019863,Bank server timeout,1,True
+TXN0019866,Account blocked,3,False
+TXN0019870,Insufficient balance,0,True
+TXN0019882,Insufficient balance,2,False
+TXN0019889,Network error,3,False
+TXN0019890,Daily limit exceeded,0,False
+TXN0019891,Bank server timeout,0,False
+TXN0019895,Insufficient balance,2,False
+TXN0019903,Bank server timeout,2,False
+TXN0019916,Daily limit exceeded,2,True
+TXN0019920,Account blocked,2,False
+TXN0019927,Daily limit exceeded,0,False
+TXN0019930,Insufficient balance,0,True
+TXN0019934,Network error,1,False
+TXN0019971,Bank server timeout,0,False
+TXN0019986,Insufficient balance,0,True
+TXN0019989,Bank server timeout,1,True
+TXN0019991,Account blocked,2,True
+TXN0019997,Network error,2,False
+TXN0020048,Network error,1,True
+TXN0020049,Account blocked,0,False
+TXN0020128,Insufficient balance,2,False
+TXN0020148,Daily limit exceeded,3,True
+TXN0020182,Daily limit exceeded,0,False
+TXN0020187,Bank server timeout,2,False
+TXN0020196,Invalid VPA,1,False
+TXN0020201,Bank server timeout,2,True
+TXN0020213,Invalid VPA,3,False
+TXN0020216,Network error,0,False
+TXN0020221,Network error,2,True
+TXN0020222,Network error,0,True
+TXN0020238,Insufficient balance,3,False
+TXN0020255,Account blocked,2,False
+TXN0020271,Insufficient balance,3,True
+TXN0020291,Network error,2,False
+TXN0020299,Invalid VPA,2,False
+TXN0020304,Network error,2,True
+TXN0020365,Invalid VPA,1,False
+TXN0020367,Account blocked,0,True
+TXN0020374,Daily limit exceeded,3,True
+TXN0020378,Invalid VPA,3,False
+TXN0020398,Insufficient balance,3,True
+TXN0020404,Account blocked,1,False
+TXN0020440,Daily limit exceeded,1,False
+TXN0020443,Network error,1,True
+TXN0020448,Invalid VPA,0,False
+TXN0020464,Bank server timeout,0,False
+TXN0020518,Insufficient balance,3,False
+TXN0020520,Account blocked,1,True
+TXN0020523,Network error,2,False
+TXN0020564,Bank server timeout,1,True
+TXN0020575,Invalid VPA,2,False
+TXN0020580,Account blocked,1,True
+TXN0020605,Network error,2,False
+TXN0020609,Insufficient balance,1,True
+TXN0020612,Network error,0,True
+TXN0020634,Account blocked,2,False
+TXN0020637,Bank server timeout,2,True
+TXN0020639,Bank server timeout,2,False
+TXN0020647,Bank server timeout,1,False
+TXN0020665,Daily limit exceeded,1,False
+TXN0020674,Network error,3,True
+TXN0020699,Account blocked,0,False
+TXN0020701,Account blocked,0,False
+TXN0020718,Insufficient balance,3,False
+TXN0020720,Account blocked,0,True
+TXN0020737,Invalid VPA,2,False
+TXN0020772,Account blocked,1,False
+TXN0020778,Invalid VPA,0,True
+TXN0020784,Insufficient balance,3,True
+TXN0020790,Invalid VPA,0,False
+TXN0020799,Daily limit exceeded,0,False
+TXN0020805,Insufficient balance,0,False
+TXN0020817,Daily limit exceeded,3,True
+TXN0020822,Account blocked,1,True
+TXN0020828,Daily limit exceeded,1,False
+TXN0020831,Invalid VPA,1,False
+TXN0020843,Bank server timeout,2,False
+TXN0020857,Bank server timeout,0,False
+TXN0020863,Invalid VPA,1,False
+TXN0020894,Network error,0,True
+TXN0020910,Account blocked,0,False
+TXN0020918,Network error,2,False
+TXN0020952,Account blocked,2,False
+TXN0020980,Network error,2,True
+TXN0021014,Network error,1,True
+TXN0021045,Network error,2,False
+TXN0021056,Bank server timeout,2,False
+TXN0021058,Bank server timeout,1,True
+TXN0021063,Bank server timeout,1,True
+TXN0021067,Network error,0,True
+TXN0021071,Invalid VPA,0,False
+TXN0021090,Account blocked,2,False
+TXN0021094,Daily limit exceeded,1,False
+TXN0021118,Daily limit exceeded,3,False
+TXN0021120,Network error,3,True
+TXN0021182,Daily limit exceeded,1,False
+TXN0021202,Invalid VPA,0,False
+TXN0021206,Invalid VPA,1,True
+TXN0021217,Bank server timeout,2,True
+TXN0021252,Insufficient balance,0,True
+TXN0021274,Invalid VPA,1,True
+TXN0021288,Insufficient balance,2,True
+TXN0021291,Account blocked,1,False
+TXN0021308,Insufficient balance,3,False
+TXN0021375,Account blocked,1,False
+TXN0021389,Invalid VPA,1,True
+TXN0021405,Network error,2,True
+TXN0021408,Account blocked,2,False
+TXN0021412,Account blocked,2,False
+TXN0021435,Daily limit exceeded,1,False
+TXN0021441,Daily limit exceeded,0,False
+TXN0021479,Daily limit exceeded,3,False
+TXN0021483,Daily limit exceeded,2,True
+TXN0021489,Daily limit exceeded,1,False
+TXN0021501,Network error,1,False
+TXN0021527,Daily limit exceeded,3,False
+TXN0021546,Invalid VPA,1,True
+TXN0021569,Insufficient balance,1,False
+TXN0021594,Bank server timeout,2,False
+TXN0021643,Daily limit exceeded,2,False
+TXN0021646,Daily limit exceeded,0,False
+TXN0021665,Daily limit exceeded,1,False
+TXN0021670,Bank server timeout,2,False
+TXN0021730,Daily limit exceeded,1,False
+TXN0021754,Network error,0,True
+TXN0021756,Account blocked,0,True
+TXN0021759,Bank server timeout,0,False
+TXN0021770,Account blocked,0,False
+TXN0021778,Bank server timeout,0,True
+TXN0021784,Network error,0,True
+TXN0021809,Bank server timeout,1,False
+TXN0021817,Daily limit exceeded,0,False
+TXN0021833,Bank server timeout,0,True
+TXN0021843,Invalid VPA,2,False
+TXN0021852,Insufficient balance,3,True
+TXN0021877,Network error,3,False
+TXN0021896,Network error,2,True
+TXN0021897,Daily limit exceeded,3,False
+TXN0021926,Invalid VPA,3,False
+TXN0021948,Network error,1,False
+TXN0021982,Network error,3,False
+TXN0022002,Invalid VPA,3,True
+TXN0022013,Account blocked,1,False
+TXN0022023,Daily limit exceeded,1,True
+TXN0022031,Network error,3,False
+TXN0022065,Daily limit exceeded,1,False
+TXN0022069,Bank server timeout,1,True
+TXN0022073,Daily limit exceeded,3,True
+TXN0022076,Daily limit exceeded,0,True
+TXN0022084,Account blocked,1,False
+TXN0022120,Insufficient balance,1,True
+TXN0022134,Account blocked,0,False
+TXN0022160,Bank server timeout,3,False
+TXN0022177,Bank server timeout,1,False
+TXN0022191,Account blocked,3,False
+TXN0022200,Account blocked,3,True
+TXN0022227,Invalid VPA,0,False
+TXN0022235,Invalid VPA,3,False
+TXN0022236,Bank server timeout,1,False
+TXN0022242,Account blocked,3,False
+TXN0022250,Insufficient balance,3,True
+TXN0022252,Account blocked,0,False
+TXN0022258,Account blocked,2,False
+TXN0022265,Account blocked,0,False
+TXN0022268,Bank server timeout,2,False
+TXN0022279,Daily limit exceeded,2,False
+TXN0022293,Account blocked,0,False
+TXN0022321,Daily limit exceeded,3,False
+TXN0022328,Account blocked,0,True
+TXN0022333,Network error,2,False
+TXN0022380,Invalid VPA,0,False
+TXN0022382,Invalid VPA,2,True
+TXN0022417,Invalid VPA,3,False
+TXN0022422,Network error,2,False
+TXN0022431,Invalid VPA,2,False
+TXN0022449,Insufficient balance,2,True
+TXN0022452,Account blocked,0,False
+TXN0022454,Bank server timeout,1,False
+TXN0022476,Bank server timeout,3,True
+TXN0022507,Bank server timeout,2,False
+TXN0022567,Insufficient balance,1,False
+TXN0022586,Network error,0,True
+TXN0022623,Daily limit exceeded,2,True
+TXN0022632,Bank server timeout,2,False
+TXN0022662,Daily limit exceeded,2,False
+TXN0022665,Insufficient balance,1,False
+TXN0022689,Invalid VPA,3,False
+TXN0022713,Insufficient balance,3,False
+TXN0022716,Network error,1,True
+TXN0022732,Invalid VPA,0,False
+TXN0022734,Invalid VPA,3,False
+TXN0022756,Account blocked,1,True
+TXN0022766,Network error,2,False
+TXN0022780,Bank server timeout,3,True
+TXN0022794,Network error,2,True
+TXN0022810,Insufficient balance,1,False
+TXN0022818,Insufficient balance,3,True
+TXN0022831,Invalid VPA,3,False
+TXN0022834,Bank server timeout,1,False
+TXN0022863,Network error,0,True
+TXN0022870,Invalid VPA,2,True
+TXN0022880,Daily limit exceeded,0,False
+TXN0022887,Bank server timeout,3,True
+TXN0022903,Account blocked,2,False
+TXN0022990,Bank server timeout,2,False
+TXN0023022,Network error,1,False
+TXN0023032,Invalid VPA,1,False
+TXN0023053,Bank server timeout,2,False
+TXN0023060,Network error,1,False
+TXN0023079,Daily limit exceeded,0,False
+TXN0023094,Network error,0,True
+TXN0023100,Network error,0,False
+TXN0023111,Bank server timeout,1,False
+TXN0023118,Account blocked,0,False
+TXN0023133,Bank server timeout,1,True
+TXN0023134,Bank server timeout,3,True
+TXN0023175,Account blocked,0,False
+TXN0023181,Daily limit exceeded,0,True
+TXN0023182,Bank server timeout,3,True
+TXN0023189,Account blocked,0,False
+TXN0023191,Account blocked,2,True
+TXN0023217,Invalid VPA,2,True
+TXN0023227,Account blocked,0,False
+TXN0023237,Invalid VPA,2,True
+TXN0023238,Bank server timeout,2,False
+TXN0023294,Invalid VPA,3,True
+TXN0023299,Account blocked,2,False
+TXN0023316,Network error,1,True
+TXN0023323,Invalid VPA,1,False
+TXN0023329,Account blocked,3,True
+TXN0023334,Invalid VPA,2,True
+TXN0023342,Insufficient balance,2,False
+TXN0023351,Bank server timeout,3,False
+TXN0023352,Invalid VPA,2,True
+TXN0023359,Bank server timeout,1,True
+TXN0023365,Account blocked,2,False
+TXN0023372,Daily limit exceeded,1,False
+TXN0023391,Daily limit exceeded,1,False
+TXN0023399,Invalid VPA,0,True
+TXN0023422,Network error,1,False
+TXN0023440,Insufficient balance,0,False
+TXN0023441,Invalid VPA,3,True
+TXN0023448,Daily limit exceeded,3,False
+TXN0023453,Daily limit exceeded,0,False
+TXN0023455,Invalid VPA,1,False
+TXN0023456,Insufficient balance,2,True
+TXN0023494,Insufficient balance,2,False
+TXN0023503,Account blocked,1,True
+TXN0023520,Insufficient balance,2,True
+TXN0023523,Network error,0,True
+TXN0023527,Invalid VPA,2,True
+TXN0023538,Daily limit exceeded,2,False
+TXN0023543,Account blocked,3,True
+TXN0023544,Daily limit exceeded,1,True
+TXN0023552,Insufficient balance,0,False
+TXN0023559,Invalid VPA,0,False
+TXN0023573,Network error,3,False
+TXN0023589,Bank server timeout,1,True
+TXN0023627,Invalid VPA,1,True
+TXN0023645,Network error,0,True
+TXN0023649,Invalid VPA,1,False
+TXN0023662,Network error,0,False
+TXN0023664,Network error,3,False
+TXN0023667,Insufficient balance,0,False
+TXN0023685,Network error,0,True
+TXN0023687,Network error,3,True
+TXN0023709,Invalid VPA,0,True
+TXN0023725,Bank server timeout,3,True
+TXN0023728,Account blocked,1,False
+TXN0023763,Account blocked,0,False
+TXN0023783,Daily limit exceeded,2,False
+TXN0023806,Bank server timeout,2,False
+TXN0023840,Account blocked,2,False
+TXN0023855,Bank server timeout,0,False
+TXN0023864,Invalid VPA,0,True
+TXN0023867,Daily limit exceeded,2,True
+TXN0023899,Daily limit exceeded,2,True
+TXN0023904,Daily limit exceeded,1,True
+TXN0023910,Account blocked,2,False
+TXN0023911,Invalid VPA,3,False
+TXN0023921,Insufficient balance,1,True
+TXN0023935,Bank server timeout,0,False
+TXN0023945,Network error,1,False
+TXN0023959,Network error,0,False
+TXN0023961,Daily limit exceeded,0,True
+TXN0023962,Insufficient balance,3,False
+TXN0023969,Invalid VPA,2,True
+TXN0024014,Insufficient balance,2,False
+TXN0024020,Network error,0,False
+TXN0024054,Network error,3,True
+TXN0024074,Network error,2,True
+TXN0024107,Network error,2,False
+TXN0024119,Daily limit exceeded,1,False
+TXN0024146,Account blocked,2,True
+TXN0024153,Network error,1,False
+TXN0024181,Insufficient balance,0,True
+TXN0024193,Daily limit exceeded,2,True
+TXN0024215,Bank server timeout,0,False
+TXN0024221,Invalid VPA,3,True
+TXN0024242,Account blocked,3,True
+TXN0024249,Daily limit exceeded,2,False
+TXN0024251,Bank server timeout,3,True
+TXN0024302,Bank server timeout,0,False
+TXN0024307,Bank server timeout,0,False
+TXN0024326,Network error,0,False
+TXN0024348,Account blocked,3,True
+TXN0024362,Account blocked,0,False
+TXN0024364,Account blocked,2,True
+TXN0024399,Network error,3,True
+TXN0024407,Daily limit exceeded,1,False
+TXN0024422,Insufficient balance,2,True
+TXN0024430,Invalid VPA,0,False
+TXN0024432,Insufficient balance,2,True
+TXN0024436,Daily limit exceeded,0,True
+TXN0024453,Insufficient balance,3,True
+TXN0024463,Insufficient balance,2,True
+TXN0024510,Network error,0,False
+TXN0024516,Bank server timeout,1,True
+TXN0024528,Account blocked,0,False
+TXN0024535,Network error,3,True
+TXN0024544,Account blocked,1,False
+TXN0024576,Bank server timeout,2,False
+TXN0024587,Insufficient balance,3,False
+TXN0024600,Daily limit exceeded,2,True
+TXN0024602,Daily limit exceeded,0,False
+TXN0024607,Daily limit exceeded,1,True
+TXN0024608,Network error,0,False
+TXN0024610,Daily limit exceeded,0,False
+TXN0024620,Account blocked,1,False
+TXN0024622,Invalid VPA,0,False
+TXN0024626,Daily limit exceeded,1,False
+TXN0024666,Invalid VPA,0,False
+TXN0024690,Network error,2,False
+TXN0024694,Invalid VPA,1,True
+TXN0024696,Network error,0,True
+TXN0024708,Daily limit exceeded,2,False
+TXN0024709,Network error,3,False
+TXN0024716,Account blocked,2,True
+TXN0024736,Bank server timeout,0,False
+TXN0024754,Account blocked,1,True
+TXN0024755,Daily limit exceeded,0,False
+TXN0024763,Insufficient balance,1,True
+TXN0024788,Daily limit exceeded,2,False
+TXN0024789,Bank server timeout,1,False
+TXN0024822,Invalid VPA,1,False
+TXN0024825,Daily limit exceeded,1,True
+TXN0024827,Network error,2,False
+TXN0024861,Network error,1,False
+TXN0024868,Daily limit exceeded,3,True
+TXN0024883,Insufficient balance,0,False
+TXN0024896,Daily limit exceeded,3,True
+TXN0024928,Network error,1,True
+TXN0024986,Invalid VPA,2,True
+TXN0024988,Insufficient balance,1,False
+TXN0024990,Invalid VPA,1,False
+TXN0024999,Insufficient balance,1,False
+TXN0025005,Invalid VPA,2,False
+TXN0025022,Bank server timeout,1,False
+TXN0025023,Daily limit exceeded,3,True
+TXN0025041,Invalid VPA,2,True
+TXN0025054,Network error,0,False
+TXN0025075,Account blocked,0,True
+TXN0025108,Insufficient balance,1,True
+TXN0025133,Invalid VPA,0,True
+TXN0025158,Account blocked,0,True
+TXN0025165,Insufficient balance,0,False
+TXN0025167,Daily limit exceeded,1,True
+TXN0025173,Account blocked,0,False
+TXN0025174,Network error,1,False
+TXN0025183,Insufficient balance,2,True
+TXN0025194,Invalid VPA,1,True
+TXN0025197,Invalid VPA,0,False
+TXN0025206,Bank server timeout,0,False
+TXN0025208,Invalid VPA,0,False
+TXN0025234,Network error,0,False
+TXN0025238,Insufficient balance,1,True
+TXN0025263,Account blocked,0,True
+TXN0025322,Network error,1,False
+TXN0025324,Account blocked,2,False
+TXN0025327,Daily limit exceeded,1,False
+TXN0025331,Insufficient balance,3,False
+TXN0025335,Invalid VPA,0,False
+TXN0025341,Account blocked,0,False
+TXN0025345,Daily limit exceeded,3,False
+TXN0025362,Daily limit exceeded,3,False
+TXN0025385,Network error,2,False
+TXN0025387,Network error,1,False
+TXN0025425,Daily limit exceeded,3,False
+TXN0025451,Account blocked,2,True
+TXN0025481,Bank server timeout,0,True
+TXN0025494,Account blocked,2,False
+TXN0025500,Account blocked,1,False
+TXN0025530,Daily limit exceeded,0,False
+TXN0025532,Insufficient balance,1,False
+TXN0025546,Bank server timeout,2,True
+TXN0025566,Insufficient balance,0,True
+TXN0025635,Bank server timeout,3,False
+TXN0025637,Daily limit exceeded,3,False
+TXN0025642,Insufficient balance,3,False
+TXN0025647,Insufficient balance,1,False
+TXN0025662,Account blocked,0,False
+TXN0025697,Insufficient balance,2,False
+TXN0025701,Insufficient balance,2,False
+TXN0025722,Daily limit exceeded,3,True
+TXN0025728,Invalid VPA,2,True
+TXN0025767,Daily limit exceeded,2,False
+TXN0025770,Network error,0,False
+TXN0025779,Bank server timeout,0,False
+TXN0025799,Invalid VPA,2,False
+TXN0025810,Bank server timeout,3,True
+TXN0025818,Daily limit exceeded,3,True
+TXN0025821,Invalid VPA,0,False
+TXN0025827,Insufficient balance,3,False
+TXN0025829,Bank server timeout,0,False
+TXN0025888,Invalid VPA,2,False
+TXN0025897,Account blocked,3,True
+TXN0025917,Account blocked,3,False
+TXN0025944,Daily limit exceeded,1,False
+TXN0025945,Insufficient balance,1,True
+TXN0025953,Bank server timeout,0,False
+TXN0025972,Insufficient balance,0,False
+TXN0026012,Account blocked,3,False
+TXN0026030,Invalid VPA,3,False
+TXN0026075,Account blocked,3,False
+TXN0026088,Network error,2,False
+TXN0026096,Network error,2,False
+TXN0026108,Bank server timeout,2,True
+TXN0026150,Daily limit exceeded,0,True
+TXN0026153,Account blocked,2,False
+TXN0026155,Bank server timeout,2,False
+TXN0026190,Invalid VPA,1,False
+TXN0026195,Daily limit exceeded,0,True
+TXN0026199,Invalid VPA,0,False
+TXN0026200,Network error,1,False
+TXN0026227,Network error,3,True
+TXN0026228,Daily limit exceeded,1,True
+TXN0026229,Invalid VPA,3,False
+TXN0026243,Insufficient balance,1,False
+TXN0026264,Bank server timeout,3,False
+TXN0026265,Bank server timeout,3,False
+TXN0026271,Insufficient balance,1,False
+TXN0026288,Daily limit exceeded,1,True
+TXN0026299,Invalid VPA,2,False
+TXN0026303,Bank server timeout,0,True
+TXN0026318,Bank server timeout,2,True
+TXN0026332,Daily limit exceeded,2,True
+TXN0026340,Bank server timeout,2,True
+TXN0026396,Insufficient balance,0,True
+TXN0026445,Account blocked,1,False
+TXN0026477,Invalid VPA,3,False
+TXN0026480,Daily limit exceeded,1,False
+TXN0026496,Account blocked,2,False
+TXN0026555,Invalid VPA,0,True
+TXN0026578,Invalid VPA,3,False
+TXN0026580,Insufficient balance,2,False
+TXN0026628,Bank server timeout,2,True
+TXN0026640,Account blocked,3,True
+TXN0026643,Account blocked,2,False
+TXN0026653,Daily limit exceeded,3,False
+TXN0026661,Insufficient balance,1,False
+TXN0026674,Bank server timeout,1,False
+TXN0026704,Insufficient balance,1,False
+TXN0026706,Invalid VPA,2,False
+TXN0026711,Network error,0,False
+TXN0026724,Bank server timeout,1,True
+TXN0026744,Network error,3,True
+TXN0026746,Bank server timeout,3,True
+TXN0026777,Bank server timeout,3,False
+TXN0026785,Account blocked,3,True
+TXN0026789,Network error,3,False
+TXN0026795,Network error,3,True
+TXN0026805,Account blocked,2,True
+TXN0026824,Insufficient balance,3,False
+TXN0026838,Network error,0,False
+TXN0026839,Bank server timeout,1,False
+TXN0026841,Network error,3,False
+TXN0026849,Insufficient balance,0,False
+TXN0026885,Insufficient balance,0,False
+TXN0026899,Invalid VPA,1,True
+TXN0026934,Account blocked,1,False
+TXN0026948,Invalid VPA,3,False
+TXN0026964,Insufficient balance,0,False
+TXN0026966,Bank server timeout,0,True
+TXN0026967,Bank server timeout,3,False
+TXN0026970,Network error,1,True
+TXN0027011,Invalid VPA,2,False
+TXN0027038,Account blocked,3,False
+TXN0027045,Network error,2,True
+TXN0027046,Account blocked,3,False
+TXN0027058,Network error,2,False
+TXN0027066,Insufficient balance,1,True
+TXN0027069,Insufficient balance,0,False
+TXN0027077,Invalid VPA,2,False
+TXN0027078,Daily limit exceeded,1,False
+TXN0027087,Network error,1,True
+TXN0027089,Bank server timeout,1,True
+TXN0027130,Network error,0,False
+TXN0027134,Invalid VPA,0,True
+TXN0027168,Network error,2,True
+TXN0027202,Daily limit exceeded,1,True
+TXN0027219,Insufficient balance,1,True
+TXN0027223,Bank server timeout,2,False
+TXN0027228,Insufficient balance,1,False
+TXN0027262,Account blocked,0,True
+TXN0027269,Daily limit exceeded,1,False
+TXN0027271,Bank server timeout,2,False
+TXN0027281,Bank server timeout,3,False
+TXN0027291,Bank server timeout,2,False
+TXN0027293,Network error,0,True
+TXN0027308,Insufficient balance,2,False
+TXN0027314,Daily limit exceeded,3,False
+TXN0027343,Invalid VPA,1,False
+TXN0027375,Insufficient balance,3,False
+TXN0027394,Daily limit exceeded,2,True
+TXN0027408,Invalid VPA,3,True
+TXN0027446,Daily limit exceeded,0,True
+TXN0027460,Invalid VPA,2,False
+TXN0027464,Daily limit exceeded,0,True
+TXN0027466,Insufficient balance,0,False
+TXN0027469,Daily limit exceeded,1,True
+TXN0027476,Daily limit exceeded,3,False
+TXN0027483,Bank server timeout,1,False
+TXN0027488,Bank server timeout,1,False
+TXN0027492,Bank server timeout,3,True
+TXN0027522,Daily limit exceeded,3,False
+TXN0027532,Network error,2,False
+TXN0027533,Insufficient balance,2,False
+TXN0027545,Network error,1,False
+TXN0027548,Invalid VPA,2,True
+TXN0027572,Invalid VPA,2,True
+TXN0027590,Account blocked,1,False
+TXN0027599,Invalid VPA,2,True
+TXN0027633,Insufficient balance,0,False
+TXN0027641,Insufficient balance,3,False
+TXN0027645,Bank server timeout,1,True
+TXN0027660,Network error,2,False
+TXN0027676,Network error,0,False
+TXN0027685,Insufficient balance,3,False
+TXN0027701,Bank server timeout,1,True
+TXN0027710,Bank server timeout,0,False
+TXN0027727,Bank server timeout,2,True
+TXN0027737,Bank server timeout,1,False
+TXN0027748,Account blocked,2,True
+TXN0027751,Invalid VPA,0,False
+TXN0027758,Account blocked,0,False
+TXN0027775,Network error,1,False
+TXN0027787,Bank server timeout,0,False
+TXN0027791,Network error,0,False
+TXN0027803,Daily limit exceeded,1,False
+TXN0027815,Account blocked,0,False
+TXN0027836,Network error,2,False
+TXN0027856,Account blocked,1,False
+TXN0027865,Network error,2,False
+TXN0027882,Insufficient balance,1,False
+TXN0027905,Account blocked,3,False
+TXN0027907,Insufficient balance,3,True
+TXN0027936,Insufficient balance,3,True
+TXN0027942,Invalid VPA,0,True
+TXN0027973,Invalid VPA,2,False
+TXN0028027,Insufficient balance,3,False
+TXN0028081,Account blocked,3,True
+TXN0028091,Bank server timeout,3,True
+TXN0028109,Invalid VPA,2,False
+TXN0028115,Insufficient balance,0,False
+TXN0028145,Account blocked,1,True
+TXN0028171,Account blocked,2,False
+TXN0028190,Insufficient balance,3,False
+TXN0028192,Daily limit exceeded,3,True
+TXN0028193,Insufficient balance,3,True
+TXN0028211,Invalid VPA,0,False
+TXN0028217,Daily limit exceeded,2,False
+TXN0028219,Daily limit exceeded,0,False
+TXN0028228,Account blocked,1,False
+TXN0028247,Invalid VPA,0,False
+TXN0028251,Insufficient balance,3,True
+TXN0028273,Daily limit exceeded,1,True
+TXN0028297,Bank server timeout,1,False
+TXN0028301,Invalid VPA,1,True
+TXN0028313,Account blocked,0,False
+TXN0028323,Bank server timeout,0,True
+TXN0028351,Daily limit exceeded,0,False
+TXN0028353,Bank server timeout,1,False
+TXN0028354,Invalid VPA,3,False
+TXN0028357,Daily limit exceeded,3,True
+TXN0028366,Network error,3,False
+TXN0028367,Network error,1,True
+TXN0028371,Bank server timeout,1,False
+TXN0028383,Insufficient balance,2,True
+TXN0028388,Insufficient balance,3,False
+TXN0028390,Insufficient balance,0,False
+TXN0028394,Account blocked,0,True
+TXN0028403,Invalid VPA,0,False
+TXN0028419,Invalid VPA,1,True
+TXN0028443,Network error,0,False
+TXN0028446,Insufficient balance,3,True
+TXN0028447,Bank server timeout,3,True
+TXN0028477,Network error,2,False
+TXN0028481,Network error,0,True
+TXN0028528,Invalid VPA,2,True
+TXN0028539,Account blocked,0,False
+TXN0028545,Insufficient balance,2,False
+TXN0028547,Bank server timeout,0,True
+TXN0028576,Account blocked,2,True
+TXN0028591,Insufficient balance,1,False
+TXN0028601,Account blocked,0,False
+TXN0028615,Account blocked,2,False
+TXN0028625,Invalid VPA,2,False
+TXN0028642,Daily limit exceeded,3,False
+TXN0028648,Daily limit exceeded,1,False
+TXN0028686,Bank server timeout,0,False
+TXN0028697,Daily limit exceeded,3,False
+TXN0028698,Bank server timeout,3,False
+TXN0028704,Network error,2,False
+TXN0028707,Daily limit exceeded,3,True
+TXN0028739,Insufficient balance,3,True
+TXN0028742,Daily limit exceeded,3,False
+TXN0028753,Insufficient balance,2,True
+TXN0028757,Network error,3,True
+TXN0028769,Account blocked,0,False
+TXN0028777,Bank server timeout,3,False
+TXN0028798,Insufficient balance,0,True
+TXN0028799,Network error,1,False
+TXN0028800,Invalid VPA,0,False
+TXN0028817,Insufficient balance,0,False
+TXN0028844,Daily limit exceeded,2,False
+TXN0028862,Network error,0,False
+TXN0028864,Daily limit exceeded,3,False
+TXN0028865,Invalid VPA,3,True
+TXN0028880,Insufficient balance,2,False
+TXN0028891,Daily limit exceeded,1,False
+TXN0028904,Invalid VPA,0,True
+TXN0028905,Insufficient balance,3,True
+TXN0028906,Network error,0,False
+TXN0028921,Bank server timeout,1,False
+TXN0028948,Bank server timeout,1,True
+TXN0028949,Daily limit exceeded,0,False
+TXN0028950,Daily limit exceeded,1,False
+TXN0028951,Account blocked,0,True
+TXN0028968,Network error,3,True
+TXN0028972,Network error,0,True
+TXN0028976,Daily limit exceeded,2,False
+TXN0028987,Bank server timeout,0,False
+TXN0028997,Network error,0,True
+TXN0029026,Daily limit exceeded,3,False
+TXN0029047,Network error,3,False
+TXN0029052,Invalid VPA,0,False
+TXN0029056,Bank server timeout,3,True
+TXN0029064,Invalid VPA,3,False
+TXN0029082,Insufficient balance,0,True
+TXN0029112,Insufficient balance,1,True
+TXN0029136,Bank server timeout,2,True
+TXN0029167,Network error,3,True
+TXN0029204,Network error,3,True
+TXN0029213,Insufficient balance,2,False
+TXN0029247,Account blocked,0,False
+TXN0029262,Insufficient balance,0,False
+TXN0029272,Network error,0,True
+TXN0029274,Daily limit exceeded,0,False
+TXN0029305,Bank server timeout,2,False
+TXN0029309,Invalid VPA,2,False
+TXN0029314,Invalid VPA,1,False
+TXN0029333,Insufficient balance,3,True
+TXN0029348,Invalid VPA,0,False
+TXN0029430,Bank server timeout,1,True
+TXN0029445,Network error,0,False
+TXN0029451,Daily limit exceeded,1,False
+TXN0029462,Bank server timeout,0,False
+TXN0029470,Account blocked,0,False
+TXN0029483,Insufficient balance,2,True
+TXN0029485,Daily limit exceeded,2,True
+TXN0029487,Network error,0,False
+TXN0029490,Account blocked,2,False
+TXN0029525,Bank server timeout,1,True
+TXN0029530,Daily limit exceeded,1,True
+TXN0029597,Bank server timeout,1,False
+TXN0029619,Daily limit exceeded,3,True
+TXN0029633,Network error,2,True
+TXN0029635,Insufficient balance,0,False
+TXN0029641,Invalid VPA,1,False
+TXN0029659,Invalid VPA,1,True
+TXN0029692,Daily limit exceeded,1,True
+TXN0029729,Bank server timeout,3,False
+TXN0029779,Network error,0,True
+TXN0029780,Insufficient balance,3,False
+TXN0029782,Insufficient balance,0,True
+TXN0029806,Network error,3,True
+TXN0029816,Insufficient balance,3,False
+TXN0029838,Invalid VPA,0,False
+TXN0029845,Account blocked,2,False
+TXN0029861,Bank server timeout,1,True
+TXN0029867,Account blocked,2,False
+TXN0029869,Insufficient balance,2,True
+TXN0029871,Insufficient balance,0,True
+TXN0029878,Account blocked,0,True
+TXN0029879,Account blocked,0,False
+TXN0029885,Insufficient balance,0,False
+TXN0029888,Network error,0,True
+TXN0029889,Network error,2,False
+TXN0029890,Daily limit exceeded,1,True
+TXN0029903,Daily limit exceeded,3,False
+TXN0029917,Insufficient balance,2,False
+TXN0029922,Daily limit exceeded,0,True
+TXN0029927,Invalid VPA,0,False
+TXN0029957,Daily limit exceeded,3,True
+TXN0030003,Network error,0,False
+TXN0030013,Insufficient balance,2,True
+TXN0030016,Account blocked,0,False
+TXN0030026,Account blocked,1,False
+TXN0030029,Invalid VPA,3,True
+TXN0030043,Insufficient balance,0,False
+TXN0030060,Network error,0,False
+TXN0030062,Bank server timeout,0,False
+TXN0030068,Network error,1,True
+TXN0030070,Daily limit exceeded,3,False
+TXN0030090,Insufficient balance,3,True
+TXN0030105,Insufficient balance,2,False
+TXN0030121,Invalid VPA,2,True
+TXN0030129,Account blocked,1,True
+TXN0030142,Network error,2,False
+TXN0030151,Network error,3,True
+TXN0030153,Insufficient balance,0,False
+TXN0030171,Bank server timeout,0,True
+TXN0030187,Account blocked,1,False
+TXN0030246,Insufficient balance,1,True
+TXN0030253,Bank server timeout,2,False
+TXN0030264,Invalid VPA,1,False
+TXN0030323,Insufficient balance,2,True
+TXN0030338,Insufficient balance,1,False
+TXN0030347,Account blocked,1,False
+TXN0030350,Invalid VPA,1,False
+TXN0030367,Insufficient balance,0,True
+TXN0030384,Invalid VPA,2,True
+TXN0030387,Account blocked,2,False
+TXN0030397,Account blocked,1,False
+TXN0030409,Insufficient balance,1,False
+TXN0030420,Account blocked,0,True
+TXN0030425,Invalid VPA,0,True
+TXN0030430,Daily limit exceeded,1,False
+TXN0030443,Daily limit exceeded,0,False
+TXN0030450,Account blocked,2,False
+TXN0030451,Daily limit exceeded,1,False
+TXN0030468,Invalid VPA,0,False
+TXN0030475,Insufficient balance,0,False
+TXN0030477,Daily limit exceeded,2,True
+TXN0030504,Bank server timeout,0,True
+TXN0030505,Daily limit exceeded,2,True
+TXN0030517,Network error,2,False
+TXN0030528,Account blocked,3,False
+TXN0030569,Account blocked,0,False
+TXN0030600,Invalid VPA,2,True
+TXN0030618,Network error,1,True
+TXN0030713,Bank server timeout,0,True
+TXN0030718,Invalid VPA,3,False
+TXN0030727,Bank server timeout,0,False
+TXN0030731,Daily limit exceeded,3,False
+TXN0030769,Daily limit exceeded,3,False
+TXN0030795,Account blocked,3,True
+TXN0030796,Daily limit exceeded,3,False
+TXN0030817,Bank server timeout,0,False
+TXN0030840,Insufficient balance,3,False
+TXN0030854,Insufficient balance,3,True
+TXN0030876,Daily limit exceeded,0,True
+TXN0030895,Network error,0,True
+TXN0030897,Invalid VPA,3,True
+TXN0030907,Invalid VPA,3,False
+TXN0030914,Bank server timeout,3,False
+TXN0030926,Daily limit exceeded,3,True
+TXN0030953,Bank server timeout,2,True
+TXN0030962,Invalid VPA,3,False
+TXN0030972,Daily limit exceeded,3,True
+TXN0030976,Bank server timeout,2,True
+TXN0030987,Invalid VPA,3,False
+TXN0031004,Invalid VPA,1,True
+TXN0031058,Insufficient balance,2,True
+TXN0031080,Invalid VPA,1,True
+TXN0031103,Insufficient balance,2,False
+TXN0031158,Insufficient balance,2,True
+TXN0031165,Bank server timeout,1,False
+TXN0031168,Bank server timeout,0,False
+TXN0031183,Account blocked,2,False
+TXN0031189,Bank server timeout,1,True
+TXN0031206,Invalid VPA,2,False
+TXN0031212,Bank server timeout,2,False
+TXN0031225,Network error,0,False
+TXN0031258,Bank server timeout,0,True
+TXN0031267,Bank server timeout,2,False
+TXN0031278,Invalid VPA,0,False
+TXN0031280,Invalid VPA,0,False
+TXN0031290,Network error,3,False
+TXN0031303,Network error,0,False
+TXN0031319,Insufficient balance,1,True
+TXN0031324,Account blocked,2,False
+TXN0031342,Daily limit exceeded,3,True
+TXN0031344,Daily limit exceeded,3,True
+TXN0031345,Account blocked,1,False
+TXN0031358,Daily limit exceeded,0,False
+TXN0031376,Bank server timeout,3,False
+TXN0031389,Network error,3,True
+TXN0031413,Invalid VPA,3,False
+TXN0031430,Network error,3,False
+TXN0031442,Insufficient balance,0,False
+TXN0031444,Bank server timeout,2,False
+TXN0031468,Invalid VPA,0,False
+TXN0031477,Account blocked,2,False
+TXN0031481,Insufficient balance,0,False
+TXN0031486,Invalid VPA,0,False
+TXN0031509,Invalid VPA,2,False
+TXN0031516,Bank server timeout,0,True
+TXN0031532,Invalid VPA,3,True
+TXN0031533,Invalid VPA,0,False
+TXN0031613,Network error,0,False
+TXN0031616,Invalid VPA,1,True
+TXN0031642,Account blocked,0,False
+TXN0031646,Daily limit exceeded,2,False
+TXN0031651,Daily limit exceeded,0,False
+TXN0031674,Insufficient balance,1,False
+TXN0031690,Insufficient balance,1,True
+TXN0031695,Invalid VPA,3,True
+TXN0031704,Invalid VPA,0,False
+TXN0031726,Account blocked,0,True
+TXN0031728,Daily limit exceeded,3,True
+TXN0031734,Account blocked,0,False
+TXN0031819,Account blocked,3,False
+TXN0031830,Invalid VPA,3,False
+TXN0031837,Account blocked,1,True
+TXN0031877,Network error,0,False
+TXN0031910,Bank server timeout,0,True
+TXN0031929,Bank server timeout,1,True
+TXN0031933,Invalid VPA,2,True
+TXN0031936,Network error,0,False
+TXN0031949,Invalid VPA,0,False
+TXN0031950,Invalid VPA,0,True
+TXN0031963,Bank server timeout,0,False
+TXN0031991,Bank server timeout,1,False
+TXN0032061,Account blocked,2,True
+TXN0032064,Insufficient balance,3,True
+TXN0032082,Account blocked,2,True
+TXN0032084,Network error,1,False
+TXN0032088,Account blocked,2,True
+TXN0032104,Network error,2,True
+TXN0032117,Network error,0,False
+TXN0032144,Daily limit exceeded,1,False
+TXN0032184,Daily limit exceeded,3,True
+TXN0032190,Account blocked,1,False
+TXN0032221,Network error,2,False
+TXN0032244,Insufficient balance,0,False
+TXN0032280,Insufficient balance,1,False
+TXN0032311,Bank server timeout,1,False
+TXN0032347,Invalid VPA,1,True
+TXN0032363,Account blocked,3,False
+TXN0032365,Insufficient balance,2,False
+TXN0032371,Daily limit exceeded,1,False
+TXN0032380,Insufficient balance,1,True
+TXN0032392,Invalid VPA,1,False
+TXN0032396,Invalid VPA,3,False
+TXN0032407,Network error,0,False
+TXN0032435,Invalid VPA,0,False
+TXN0032444,Invalid VPA,0,False
+TXN0032449,Daily limit exceeded,1,False
+TXN0032459,Invalid VPA,3,False
+TXN0032479,Daily limit exceeded,1,True
+TXN0032487,Invalid VPA,0,True
+TXN0032492,Invalid VPA,3,False
+TXN0032502,Network error,1,False
+TXN0032515,Account blocked,0,True
+TXN0032516,Account blocked,0,True
+TXN0032542,Daily limit exceeded,0,False
+TXN0032560,Daily limit exceeded,1,True
+TXN0032574,Account blocked,0,False
+TXN0032588,Daily limit exceeded,1,True
+TXN0032607,Account blocked,0,True
+TXN0032622,Daily limit exceeded,1,False
+TXN0032623,Account blocked,2,False
+TXN0032644,Invalid VPA,2,False
+TXN0032648,Account blocked,2,False
+TXN0032680,Bank server timeout,1,True
+TXN0032684,Invalid VPA,3,False
+TXN0032687,Account blocked,2,False
+TXN0032709,Network error,2,False
+TXN0032712,Bank server timeout,0,True
+TXN0032726,Insufficient balance,0,True
+TXN0032729,Account blocked,3,True
+TXN0032734,Daily limit exceeded,1,True
+TXN0032741,Account blocked,2,True
+TXN0032751,Bank server timeout,0,True
+TXN0032755,Invalid VPA,3,False
+TXN0032759,Account blocked,3,False
+TXN0032788,Network error,3,False
+TXN0032803,Insufficient balance,2,True
+TXN0032804,Invalid VPA,1,True
+TXN0032814,Network error,3,False
+TXN0032817,Bank server timeout,2,False
+TXN0032829,Invalid VPA,1,True
+TXN0032834,Account blocked,0,True
+TXN0032849,Bank server timeout,2,False
+TXN0032878,Invalid VPA,3,False
+TXN0032945,Insufficient balance,0,True
+TXN0032950,Bank server timeout,1,True
+TXN0032953,Bank server timeout,1,False
+TXN0032954,Account blocked,0,False
+TXN0032987,Insufficient balance,1,False
+TXN0033008,Account blocked,2,True
+TXN0033014,Daily limit exceeded,2,True
+TXN0033024,Invalid VPA,2,False
+TXN0033026,Insufficient balance,3,False
+TXN0033036,Account blocked,1,True
+TXN0033044,Daily limit exceeded,3,True
+TXN0033058,Bank server timeout,2,False
+TXN0033071,Daily limit exceeded,1,True
+TXN0033091,Daily limit exceeded,2,False
+TXN0033098,Bank server timeout,0,False
+TXN0033134,Daily limit exceeded,0,False
+TXN0033163,Daily limit exceeded,0,False
+TXN0033166,Account blocked,0,False
+TXN0033184,Bank server timeout,3,False
+TXN0033185,Invalid VPA,0,False
+TXN0033227,Invalid VPA,1,True
+TXN0033229,Account blocked,0,False
+TXN0033234,Account blocked,1,True
+TXN0033253,Bank server timeout,1,True
+TXN0033258,Insufficient balance,2,True
+TXN0033280,Daily limit exceeded,3,True
+TXN0033292,Insufficient balance,3,True
+TXN0033311,Account blocked,3,False
+TXN0033319,Insufficient balance,2,True
+TXN0033320,Network error,0,True
+TXN0033326,Insufficient balance,1,False
+TXN0033329,Invalid VPA,0,False
+TXN0033339,Account blocked,3,False
+TXN0033346,Insufficient balance,0,False
+TXN0033351,Bank server timeout,3,False
+TXN0033363,Invalid VPA,1,False
+TXN0033367,Insufficient balance,3,True
+TXN0033379,Bank server timeout,3,False
+TXN0033406,Network error,1,True
+TXN0033413,Account blocked,0,False
+TXN0033417,Insufficient balance,3,False
+TXN0033419,Invalid VPA,0,False
+TXN0033428,Account blocked,2,False
+TXN0033434,Network error,0,False
+TXN0033441,Network error,0,False
+TXN0033447,Account blocked,2,True
+TXN0033459,Invalid VPA,0,True
+TXN0033464,Daily limit exceeded,3,False
+TXN0033468,Account blocked,1,False
+TXN0033507,Bank server timeout,1,True
+TXN0033531,Insufficient balance,0,True
+TXN0033538,Daily limit exceeded,1,True
+TXN0033540,Account blocked,1,True
+TXN0033554,Daily limit exceeded,3,True
+TXN0033571,Account blocked,0,True
+TXN0033594,Network error,1,False
+TXN0033595,Bank server timeout,3,False
+TXN0033597,Bank server timeout,2,False
+TXN0033600,Bank server timeout,0,False
+TXN0033636,Insufficient balance,2,True
+TXN0033644,Daily limit exceeded,1,True
+TXN0033666,Invalid VPA,0,False
+TXN0033675,Bank server timeout,1,True
+TXN0033689,Daily limit exceeded,1,False
+TXN0033703,Invalid VPA,2,True
+TXN0033716,Account blocked,2,True
+TXN0033730,Bank server timeout,1,True
+TXN0033744,Network error,0,False
+TXN0033752,Bank server timeout,1,False
+TXN0033762,Network error,3,False
+TXN0033779,Account blocked,0,False
+TXN0033792,Insufficient balance,3,False
+TXN0033804,Daily limit exceeded,1,False
+TXN0033823,Network error,0,False
+TXN0033824,Invalid VPA,0,True
+TXN0033826,Network error,3,False
+TXN0033832,Bank server timeout,0,False
+TXN0033836,Insufficient balance,0,False
+TXN0033839,Invalid VPA,3,False
+TXN0033850,Bank server timeout,3,False
+TXN0033910,Bank server timeout,1,False
+TXN0033932,Daily limit exceeded,3,False
+TXN0033943,Bank server timeout,1,False
+TXN0033964,Bank server timeout,3,False
+TXN0033965,Insufficient balance,2,False
+TXN0033992,Invalid VPA,1,True
+TXN0034027,Account blocked,1,False
+TXN0034036,Network error,3,False
+TXN0034056,Invalid VPA,2,True
+TXN0034112,Insufficient balance,1,False
+TXN0034113,Daily limit exceeded,2,False
+TXN0034126,Account blocked,0,False
+TXN0034131,Account blocked,1,False
+TXN0034138,Account blocked,3,False
+TXN0034156,Bank server timeout,2,True
+TXN0034159,Invalid VPA,3,False
+TXN0034166,Bank server timeout,0,True
+TXN0034184,Insufficient balance,2,False
+TXN0034192,Insufficient balance,0,False
+TXN0034198,Network error,1,False
+TXN0034236,Daily limit exceeded,1,True
+TXN0034240,Account blocked,1,True
+TXN0034284,Daily limit exceeded,0,False
+TXN0034303,Account blocked,3,False
+TXN0034309,Daily limit exceeded,0,True
+TXN0034327,Bank server timeout,0,True
+TXN0034331,Insufficient balance,1,False
+TXN0034338,Bank server timeout,1,False
+TXN0034343,Bank server timeout,3,True
+TXN0034357,Insufficient balance,2,True
+TXN0034399,Invalid VPA,3,True
+TXN0034412,Bank server timeout,0,False
+TXN0034414,Network error,0,False
+TXN0034435,Invalid VPA,2,True
+TXN0034456,Network error,3,False
+TXN0034461,Invalid VPA,1,False
+TXN0034462,Invalid VPA,0,True
+TXN0034525,Insufficient balance,1,False
+TXN0034576,Account blocked,3,False
+TXN0034577,Account blocked,0,False
+TXN0034579,Bank server timeout,1,True
+TXN0034594,Bank server timeout,0,False
+TXN0034597,Insufficient balance,1,False
+TXN0034606,Network error,0,False
+TXN0034611,Network error,0,True
+TXN0034613,Daily limit exceeded,3,True
+TXN0034636,Daily limit exceeded,1,True
+TXN0034679,Bank server timeout,0,False
+TXN0034698,Daily limit exceeded,1,True
+TXN0034726,Bank server timeout,0,True
+TXN0034727,Network error,1,False
+TXN0034738,Bank server timeout,3,True
+TXN0034759,Invalid VPA,3,True
+TXN0034762,Insufficient balance,2,False
+TXN0034767,Bank server timeout,0,True
+TXN0034775,Bank server timeout,3,True
+TXN0034790,Invalid VPA,3,True
+TXN0034792,Insufficient balance,1,False
+TXN0034793,Daily limit exceeded,2,False
+TXN0034797,Bank server timeout,0,False
+TXN0034812,Daily limit exceeded,2,True
+TXN0034817,Insufficient balance,1,False
+TXN0034821,Account blocked,1,False
+TXN0034826,Insufficient balance,1,False
+TXN0034829,Account blocked,3,False
+TXN0034836,Account blocked,3,True
+TXN0034859,Invalid VPA,2,False
+TXN0034883,Daily limit exceeded,2,False
+TXN0034892,Network error,1,True
+TXN0034896,Account blocked,3,True
+TXN0034920,Network error,1,True
+TXN0034933,Network error,2,True
+TXN0034958,Account blocked,3,False
+TXN0034983,Daily limit exceeded,2,False
+TXN0034986,Account blocked,1,True
+TXN0035022,Bank server timeout,1,False
+TXN0035037,Account blocked,1,False
+TXN0035054,Account blocked,3,True
+TXN0035060,Bank server timeout,3,False
+TXN0035071,Account blocked,0,True
+TXN0035109,Network error,2,False
+TXN0035148,Insufficient balance,1,True
+TXN0035159,Bank server timeout,0,False
+TXN0035164,Invalid VPA,0,False
+TXN0035185,Daily limit exceeded,0,False
+TXN0035188,Bank server timeout,2,False
+TXN0035209,Daily limit exceeded,1,False
+TXN0035218,Bank server timeout,2,False
+TXN0035227,Bank server timeout,1,False
+TXN0035229,Network error,2,False
+TXN0035231,Daily limit exceeded,2,False
+TXN0035244,Daily limit exceeded,2,False
+TXN0035248,Bank server timeout,0,True
+TXN0035280,Account blocked,2,False
+TXN0035292,Network error,3,True
+TXN0035305,Daily limit exceeded,0,False
+TXN0035306,Invalid VPA,1,False
+TXN0035311,Invalid VPA,3,False
+TXN0035321,Account blocked,1,True
+TXN0035322,Insufficient balance,1,True
+TXN0035347,Daily limit exceeded,2,False
+TXN0035355,Invalid VPA,1,False
+TXN0035360,Network error,1,False
+TXN0035366,Bank server timeout,0,False
+TXN0035372,Invalid VPA,2,False
+TXN0035394,Network error,2,True
+TXN0035401,Invalid VPA,0,False
+TXN0035420,Insufficient balance,3,False
+TXN0035431,Daily limit exceeded,3,True
+TXN0035432,Invalid VPA,0,False
+TXN0035444,Account blocked,0,False
+TXN0035454,Daily limit exceeded,2,True
+TXN0035470,Bank server timeout,0,False
+TXN0035490,Network error,2,True
+TXN0035501,Invalid VPA,0,False
+TXN0035557,Invalid VPA,0,False
+TXN0035563,Network error,0,True
+TXN0035575,Network error,3,False
+TXN0035596,Daily limit exceeded,0,False
+TXN0035598,Network error,2,False
+TXN0035629,Account blocked,2,True
+TXN0035671,Bank server timeout,0,True
+TXN0035690,Bank server timeout,0,True
+TXN0035698,Daily limit exceeded,2,False
+TXN0035703,Network error,1,False
+TXN0035720,Bank server timeout,1,False
+TXN0035746,Invalid VPA,1,False
+TXN0035754,Account blocked,0,False
+TXN0035767,Account blocked,1,False
+TXN0035802,Insufficient balance,3,False
+TXN0035812,Invalid VPA,1,False
+TXN0035815,Invalid VPA,1,True
+TXN0035820,Bank server timeout,1,False
+TXN0035851,Insufficient balance,2,True
+TXN0035858,Insufficient balance,0,False
+TXN0035865,Invalid VPA,0,False
+TXN0035870,Bank server timeout,0,False
+TXN0035890,Account blocked,2,False
+TXN0035899,Daily limit exceeded,2,True
+TXN0035901,Daily limit exceeded,2,True
+TXN0035922,Bank server timeout,3,True
+TXN0035932,Daily limit exceeded,2,False
+TXN0035946,Invalid VPA,2,False
+TXN0035963,Daily limit exceeded,0,True
+TXN0035972,Daily limit exceeded,0,True
+TXN0035981,Invalid VPA,0,True
+TXN0035987,Bank server timeout,1,False
+TXN0035999,Account blocked,0,True
+TXN0036007,Insufficient balance,3,False
+TXN0036010,Invalid VPA,1,False
+TXN0036012,Daily limit exceeded,1,False
+TXN0036014,Invalid VPA,0,True
+TXN0036074,Network error,1,False
+TXN0036097,Network error,0,False
+TXN0036116,Invalid VPA,1,True
+TXN0036159,Invalid VPA,2,True
+TXN0036168,Account blocked,0,False
+TXN0036193,Network error,2,False
+TXN0036200,Network error,3,True
+TXN0036201,Bank server timeout,2,False
+TXN0036215,Bank server timeout,0,False
+TXN0036217,Network error,0,True
+TXN0036222,Bank server timeout,3,False
+TXN0036226,Bank server timeout,0,False
+TXN0036229,Daily limit exceeded,2,False
+TXN0036241,Network error,3,False
+TXN0036266,Invalid VPA,3,False
+TXN0036273,Network error,3,False
+TXN0036280,Network error,2,True
+TXN0036305,Insufficient balance,1,False
+TXN0036310,Account blocked,3,False
+TXN0036314,Insufficient balance,2,False
+TXN0036331,Account blocked,0,True
+TXN0036336,Bank server timeout,3,False
+TXN0036356,Daily limit exceeded,1,False
+TXN0036432,Insufficient balance,2,False
+TXN0036436,Bank server timeout,3,True
+TXN0036455,Insufficient balance,1,False
+TXN0036460,Invalid VPA,2,False
+TXN0036462,Insufficient balance,0,False
+TXN0036489,Insufficient balance,3,False
+TXN0036523,Network error,2,True
+TXN0036525,Insufficient balance,0,True
+TXN0036540,Daily limit exceeded,2,True
+TXN0036556,Insufficient balance,0,False
+TXN0036558,Insufficient balance,1,False
+TXN0036566,Bank server timeout,1,False
+TXN0036585,Account blocked,0,False
+TXN0036588,Account blocked,2,True
+TXN0036622,Invalid VPA,0,False
+TXN0036623,Insufficient balance,2,False
+TXN0036624,Daily limit exceeded,1,True
+TXN0036627,Account blocked,2,True
+TXN0036628,Daily limit exceeded,0,False
+TXN0036630,Account blocked,3,False
+TXN0036641,Network error,0,True
+TXN0036650,Insufficient balance,1,True
+TXN0036653,Daily limit exceeded,3,False
+TXN0036656,Account blocked,1,True
+TXN0036665,Daily limit exceeded,3,False
+TXN0036666,Invalid VPA,1,True
+TXN0036686,Daily limit exceeded,3,True
+TXN0036697,Bank server timeout,3,False
+TXN0036716,Insufficient balance,1,True
+TXN0036729,Account blocked,0,False
+TXN0036730,Insufficient balance,3,True
+TXN0036731,Daily limit exceeded,0,False
+TXN0036735,Bank server timeout,3,False
+TXN0036756,Bank server timeout,3,True
+TXN0036761,Network error,1,False
+TXN0036777,Bank server timeout,2,False
+TXN0036786,Bank server timeout,1,True
+TXN0036787,Insufficient balance,1,False
+TXN0036789,Invalid VPA,1,False
+TXN0036790,Network error,1,False
+TXN0036828,Daily limit exceeded,1,False
+TXN0036830,Account blocked,0,False
+TXN0036837,Daily limit exceeded,1,False
+TXN0036858,Invalid VPA,2,False
+TXN0036865,Bank server timeout,0,False
+TXN0036867,Bank server timeout,1,False
+TXN0036870,Bank server timeout,2,False
+TXN0036873,Account blocked,0,False
+TXN0036875,Insufficient balance,0,True
+TXN0036890,Bank server timeout,0,True
+TXN0036910,Account blocked,2,True
+TXN0036914,Bank server timeout,2,True
+TXN0036922,Insufficient balance,2,False
+TXN0036924,Account blocked,1,False
+TXN0036946,Invalid VPA,1,False
+TXN0036985,Invalid VPA,2,True
+TXN0036998,Invalid VPA,0,False
+TXN0037019,Daily limit exceeded,2,True
+TXN0037020,Account blocked,1,True
+TXN0037023,Invalid VPA,1,False
+TXN0037072,Bank server timeout,0,False
+TXN0037089,Invalid VPA,0,True
+TXN0037092,Account blocked,0,True
+TXN0037108,Bank server timeout,3,False
+TXN0037131,Bank server timeout,3,False
+TXN0037133,Network error,1,True
+TXN0037155,Daily limit exceeded,2,False
+TXN0037166,Invalid VPA,2,False
+TXN0037171,Account blocked,0,False
+TXN0037183,Daily limit exceeded,2,False
+TXN0037190,Network error,2,False
+TXN0037210,Network error,0,True
+TXN0037230,Network error,3,False
+TXN0037240,Insufficient balance,0,False
+TXN0037257,Insufficient balance,0,True
+TXN0037263,Network error,3,False
+TXN0037273,Daily limit exceeded,1,False
+TXN0037283,Insufficient balance,1,False
+TXN0037299,Invalid VPA,2,True
+TXN0037308,Bank server timeout,1,True
+TXN0037311,Insufficient balance,3,True
+TXN0037343,Daily limit exceeded,2,False
+TXN0037347,Network error,1,False
+TXN0037348,Insufficient balance,1,False
+TXN0037377,Account blocked,3,False
+TXN0037406,Network error,3,False
+TXN0037411,Insufficient balance,0,False
+TXN0037416,Invalid VPA,1,True
+TXN0037447,Bank server timeout,0,True
+TXN0037464,Insufficient balance,3,False
+TXN0037485,Network error,1,True
+TXN0037488,Account blocked,1,False
+TXN0037497,Invalid VPA,2,True
+TXN0037508,Insufficient balance,2,False
+TXN0037513,Network error,2,True
+TXN0037554,Account blocked,1,False
+TXN0037557,Insufficient balance,1,False
+TXN0037595,Account blocked,3,False
+TXN0037597,Invalid VPA,0,False
+TXN0037603,Daily limit exceeded,1,False
+TXN0037622,Account blocked,2,False
+TXN0037641,Daily limit exceeded,1,False
+TXN0037656,Bank server timeout,2,True
+TXN0037661,Insufficient balance,3,False
+TXN0037666,Account blocked,3,False
+TXN0037670,Insufficient balance,2,True
+TXN0037686,Bank server timeout,2,False
+TXN0037727,Invalid VPA,0,False
+TXN0037792,Bank server timeout,3,False
+TXN0037823,Insufficient balance,2,True
+TXN0037824,Daily limit exceeded,0,True
+TXN0037849,Account blocked,3,True
+TXN0037851,Bank server timeout,1,False
+TXN0037854,Invalid VPA,1,True
+TXN0037863,Daily limit exceeded,3,True
+TXN0037897,Invalid VPA,2,True
+TXN0037898,Bank server timeout,3,False
+TXN0037899,Bank server timeout,1,True
+TXN0037901,Daily limit exceeded,0,True
+TXN0037920,Invalid VPA,0,False
+TXN0037949,Network error,0,True
+TXN0037950,Account blocked,1,False
+TXN0037951,Account blocked,0,False
+TXN0037963,Account blocked,3,False
+TXN0037984,Network error,2,False
+TXN0038004,Daily limit exceeded,0,True
+TXN0038011,Network error,0,False
+TXN0038014,Daily limit exceeded,0,False
+TXN0038020,Network error,0,False
+TXN0038048,Bank server timeout,2,True
+TXN0038049,Insufficient balance,0,False
+TXN0038050,Account blocked,3,True
+TXN0038076,Insufficient balance,3,False
+TXN0038085,Insufficient balance,1,True
+TXN0038096,Insufficient balance,2,True
+TXN0038097,Invalid VPA,2,True
+TXN0038105,Bank server timeout,3,False
+TXN0038117,Daily limit exceeded,3,True
+TXN0038120,Invalid VPA,3,False
+TXN0038142,Daily limit exceeded,3,True
+TXN0038152,Account blocked,1,False
+TXN0038158,Account blocked,3,False
+TXN0038160,Account blocked,1,True
+TXN0038163,Daily limit exceeded,2,False
+TXN0038198,Bank server timeout,0,True
+TXN0038225,Network error,2,True
+TXN0038245,Daily limit exceeded,2,True
+TXN0038247,Daily limit exceeded,1,True
+TXN0038266,Network error,3,False
+TXN0038279,Insufficient balance,2,True
+TXN0038320,Network error,3,False
+TXN0038322,Network error,0,False
+TXN0038337,Bank server timeout,2,False
+TXN0038387,Invalid VPA,0,False
+TXN0038402,Account blocked,1,True
+TXN0038406,Bank server timeout,1,True
+TXN0038412,Network error,0,False
+TXN0038441,Network error,2,False
+TXN0038442,Bank server timeout,2,True
+TXN0038445,Account blocked,1,True
+TXN0038447,Bank server timeout,3,True
+TXN0038475,Account blocked,2,False
+TXN0038484,Account blocked,3,True
+TXN0038490,Account blocked,1,True
+TXN0038507,Insufficient balance,1,False
+TXN0038508,Account blocked,1,False
+TXN0038520,Invalid VPA,3,False
+TXN0038521,Daily limit exceeded,3,False
+TXN0038528,Invalid VPA,2,False
+TXN0038535,Invalid VPA,1,False
+TXN0038563,Bank server timeout,3,True
+TXN0038571,Insufficient balance,3,True
+TXN0038582,Invalid VPA,2,False
+TXN0038583,Account blocked,1,False
+TXN0038601,Insufficient balance,3,False
+TXN0038604,Invalid VPA,1,False
+TXN0038609,Network error,0,False
+TXN0038610,Daily limit exceeded,0,True
+TXN0038617,Insufficient balance,0,False
+TXN0038622,Account blocked,3,True
+TXN0038664,Daily limit exceeded,0,True
+TXN0038676,Bank server timeout,1,False
+TXN0038677,Invalid VPA,3,True
+TXN0038726,Daily limit exceeded,0,True
+TXN0038742,Invalid VPA,2,False
+TXN0038778,Invalid VPA,0,False
+TXN0038794,Insufficient balance,3,True
+TXN0038848,Invalid VPA,2,True
+TXN0038853,Invalid VPA,1,False
+TXN0038875,Insufficient balance,2,False
+TXN0038901,Network error,3,True
+TXN0038923,Insufficient balance,3,True
+TXN0038955,Invalid VPA,0,True
+TXN0038957,Invalid VPA,2,True
+TXN0038960,Bank server timeout,3,False
+TXN0038961,Invalid VPA,1,False
+TXN0038974,Bank server timeout,1,False
+TXN0038982,Daily limit exceeded,2,True
+TXN0038993,Account blocked,0,True
+TXN0039002,Invalid VPA,2,False
+TXN0039006,Account blocked,2,False
+TXN0039016,Insufficient balance,3,False
+TXN0039058,Account blocked,3,False
+TXN0039066,Bank server timeout,3,True
+TXN0039067,Account blocked,0,False
+TXN0039082,Network error,3,False
+TXN0039084,Invalid VPA,1,True
+TXN0039177,Network error,1,True
+TXN0039182,Invalid VPA,3,False
+TXN0039225,Invalid VPA,3,True
+TXN0039237,Invalid VPA,3,False
+TXN0039249,Bank server timeout,0,False
+TXN0039260,Network error,2,False
+TXN0039266,Invalid VPA,0,True
+TXN0039339,Network error,3,False
+TXN0039344,Network error,3,True
+TXN0039352,Account blocked,3,True
+TXN0039353,Account blocked,2,True
+TXN0039361,Daily limit exceeded,0,False
+TXN0039362,Bank server timeout,1,False
+TXN0039385,Account blocked,2,False
+TXN0039389,Bank server timeout,0,True
+TXN0039399,Daily limit exceeded,1,True
+TXN0039410,Daily limit exceeded,3,False
+TXN0039422,Account blocked,0,False
+TXN0039425,Account blocked,0,True
+TXN0039431,Invalid VPA,3,False
+TXN0039443,Invalid VPA,2,False
+TXN0039451,Bank server timeout,3,False
+TXN0039464,Insufficient balance,3,False
+TXN0039482,Bank server timeout,1,False
+TXN0039490,Invalid VPA,0,True
+TXN0039547,Account blocked,3,True
+TXN0039553,Invalid VPA,1,False
+TXN0039567,Account blocked,1,False
+TXN0039568,Invalid VPA,2,True
+TXN0039588,Invalid VPA,0,True
+TXN0039596,Daily limit exceeded,3,True
+TXN0039605,Bank server timeout,3,True
+TXN0039612,Bank server timeout,3,False
+TXN0039613,Bank server timeout,1,False
+TXN0039690,Invalid VPA,3,True
+TXN0039694,Invalid VPA,3,True
+TXN0039695,Insufficient balance,0,True
+TXN0039753,Network error,0,True
+TXN0039780,Account blocked,3,False
+TXN0039787,Daily limit exceeded,0,True
+TXN0039788,Invalid VPA,2,False
+TXN0039789,Bank server timeout,3,False
+TXN0039793,Bank server timeout,3,False
+TXN0039799,Invalid VPA,0,False
+TXN0039814,Network error,3,True
+TXN0039818,Bank server timeout,3,False
+TXN0039829,Invalid VPA,2,True
+TXN0039833,Network error,2,False
+TXN0039850,Network error,1,True
+TXN0039854,Account blocked,2,False
+TXN0039855,Invalid VPA,0,False
+TXN0039857,Network error,1,False
+TXN0039871,Bank server timeout,2,False
+TXN0039885,Insufficient balance,2,True
+TXN0039889,Network error,0,False
+TXN0039903,Account blocked,0,True
+TXN0039908,Network error,1,False
+TXN0039910,Daily limit exceeded,0,False
+TXN0039920,Bank server timeout,2,False
+TXN0039935,Invalid VPA,3,True
+TXN0039964,Daily limit exceeded,3,False
+TXN0039966,Daily limit exceeded,0,False
+TXN0039980,Network error,3,True
+TXN0039988,Network error,3,True
+TXN0040003,Bank server timeout,3,False
+TXN0040013,Invalid VPA,1,False
+TXN0040053,Bank server timeout,3,False
+TXN0040054,Invalid VPA,2,False
+TXN0040059,Insufficient balance,0,True
+TXN0040084,Bank server timeout,2,False
+TXN0040104,Network error,3,True
+TXN0040118,Network error,1,True
+TXN0040125,Insufficient balance,2,False
+TXN0040134,Network error,0,True
+TXN0040151,Invalid VPA,3,True
+TXN0040153,Account blocked,1,False
+TXN0040158,Account blocked,1,False
+TXN0040165,Daily limit exceeded,0,False
+TXN0040173,Daily limit exceeded,3,False
+TXN0040177,Daily limit exceeded,3,False
+TXN0040201,Daily limit exceeded,3,True
+TXN0040206,Invalid VPA,0,True
+TXN0040213,Daily limit exceeded,0,False
+TXN0040216,Account blocked,0,True
+TXN0040238,Insufficient balance,2,True
+TXN0040248,Account blocked,2,False
+TXN0040252,Daily limit exceeded,3,False
+TXN0040253,Daily limit exceeded,1,True
+TXN0040259,Bank server timeout,1,False
+TXN0040279,Network error,2,False
+TXN0040285,Daily limit exceeded,0,False
+TXN0040311,Bank server timeout,2,True
+TXN0040321,Bank server timeout,1,False
+TXN0040342,Account blocked,2,False
+TXN0040353,Account blocked,0,False
+TXN0040360,Account blocked,0,True
+TXN0040362,Network error,0,False
+TXN0040363,Daily limit exceeded,3,True
+TXN0040371,Bank server timeout,0,False
+TXN0040375,Invalid VPA,0,False
+TXN0040385,Account blocked,0,True
+TXN0040390,Invalid VPA,1,False
+TXN0040444,Bank server timeout,1,False
+TXN0040452,Network error,3,True
+TXN0040459,Insufficient balance,3,False
+TXN0040460,Bank server timeout,1,False
+TXN0040495,Bank server timeout,1,True
+TXN0040497,Invalid VPA,0,True
+TXN0040521,Bank server timeout,1,False
+TXN0040534,Invalid VPA,2,True
+TXN0040539,Invalid VPA,3,True
+TXN0040562,Bank server timeout,0,False
+TXN0040574,Bank server timeout,2,True
+TXN0040578,Network error,0,True
+TXN0040588,Account blocked,3,False
+TXN0040591,Account blocked,3,False
+TXN0040603,Insufficient balance,0,True
+TXN0040645,Daily limit exceeded,2,True
+TXN0040646,Bank server timeout,3,False
+TXN0040654,Invalid VPA,2,False
+TXN0040655,Invalid VPA,1,False
+TXN0040662,Insufficient balance,3,True
+TXN0040663,Insufficient balance,3,False
+TXN0040670,Invalid VPA,3,False
+TXN0040688,Network error,0,True
+TXN0040689,Daily limit exceeded,1,False
+TXN0040724,Bank server timeout,1,False
+TXN0040731,Network error,3,True
+TXN0040746,Bank server timeout,2,True
+TXN0040750,Bank server timeout,1,True
+TXN0040757,Bank server timeout,0,False
+TXN0040775,Network error,0,False
+TXN0040781,Invalid VPA,3,False
+TXN0040796,Account blocked,3,True
+TXN0040856,Bank server timeout,1,True
+TXN0040866,Network error,2,True
+TXN0040868,Insufficient balance,0,True
+TXN0040879,Invalid VPA,0,False
+TXN0040880,Invalid VPA,3,False
+TXN0040912,Account blocked,0,False
+TXN0040927,Network error,2,True
+TXN0040943,Account blocked,3,False
+TXN0040968,Insufficient balance,3,True
+TXN0040981,Account blocked,3,False
+TXN0041005,Insufficient balance,1,False
+TXN0041051,Invalid VPA,3,False
+TXN0041096,Insufficient balance,2,False
+TXN0041098,Network error,1,True
+TXN0041099,Invalid VPA,0,True
+TXN0041110,Network error,3,True
+TXN0041111,Account blocked,2,True
+TXN0041124,Daily limit exceeded,2,False
+TXN0041172,Network error,3,False
+TXN0041182,Account blocked,2,True
+TXN0041183,Insufficient balance,2,True
+TXN0041193,Bank server timeout,3,False
+TXN0041225,Invalid VPA,3,False
+TXN0041268,Daily limit exceeded,2,False
+TXN0041291,Network error,1,False
+TXN0041297,Insufficient balance,1,True
+TXN0041303,Account blocked,2,False
+TXN0041320,Invalid VPA,0,False
+TXN0041323,Daily limit exceeded,0,False
+TXN0041325,Bank server timeout,0,False
+TXN0041329,Invalid VPA,1,False
+TXN0041334,Account blocked,0,False
+TXN0041395,Daily limit exceeded,3,False
+TXN0041425,Bank server timeout,1,False
+TXN0041427,Bank server timeout,3,True
+TXN0041429,Account blocked,2,False
+TXN0041441,Account blocked,0,True
+TXN0041443,Invalid VPA,3,False
+TXN0041447,Daily limit exceeded,2,True
+TXN0041452,Network error,1,False
+TXN0041458,Network error,3,True
+TXN0041465,Account blocked,0,True
+TXN0041483,Invalid VPA,2,False
+TXN0041499,Bank server timeout,1,False
+TXN0041522,Insufficient balance,2,True
+TXN0041526,Insufficient balance,3,True
+TXN0041555,Daily limit exceeded,1,False
+TXN0041565,Bank server timeout,2,False
+TXN0041571,Insufficient balance,0,False
+TXN0041575,Invalid VPA,0,False
+TXN0041577,Account blocked,0,False
+TXN0041587,Account blocked,0,True
+TXN0041611,Insufficient balance,0,False
+TXN0041651,Network error,0,False
+TXN0041664,Insufficient balance,1,False
+TXN0041667,Insufficient balance,0,True
+TXN0041672,Daily limit exceeded,1,True
+TXN0041674,Invalid VPA,2,True
+TXN0041684,Bank server timeout,3,True
+TXN0041686,Network error,2,False
+TXN0041695,Account blocked,0,False
+TXN0041737,Insufficient balance,3,True
+TXN0041755,Daily limit exceeded,2,True
+TXN0041766,Daily limit exceeded,2,False
+TXN0041800,Network error,1,False
+TXN0041805,Invalid VPA,0,False
+TXN0041821,Bank server timeout,3,False
+TXN0041828,Account blocked,3,True
+TXN0041864,Account blocked,0,False
+TXN0041873,Daily limit exceeded,0,False
+TXN0041904,Daily limit exceeded,3,False
+TXN0041933,Daily limit exceeded,2,False
+TXN0041945,Account blocked,0,True
+TXN0041957,Account blocked,1,True
+TXN0041966,Network error,3,True
+TXN0041979,Invalid VPA,3,False
+TXN0042004,Invalid VPA,3,True
+TXN0042013,Insufficient balance,2,True
+TXN0042016,Insufficient balance,3,False
+TXN0042050,Insufficient balance,1,False
+TXN0042051,Daily limit exceeded,0,True
+TXN0042053,Invalid VPA,1,False
+TXN0042071,Daily limit exceeded,2,False
+TXN0042081,Insufficient balance,0,True
+TXN0042094,Daily limit exceeded,0,False
+TXN0042106,Invalid VPA,3,True
+TXN0042116,Daily limit exceeded,1,True
+TXN0042135,Network error,1,False
+TXN0042138,Insufficient balance,0,True
+TXN0042158,Bank server timeout,1,True
+TXN0042179,Invalid VPA,0,False
+TXN0042206,Insufficient balance,3,False
+TXN0042209,Invalid VPA,3,True
+TXN0042236,Bank server timeout,3,True
+TXN0042243,Network error,1,True
+TXN0042248,Invalid VPA,2,False
+TXN0042274,Daily limit exceeded,2,False
+TXN0042325,Account blocked,2,True
+TXN0042350,Account blocked,1,True
+TXN0042373,Network error,1,False
+TXN0042375,Network error,0,False
+TXN0042382,Bank server timeout,2,False
+TXN0042407,Network error,0,True
+TXN0042412,Account blocked,0,True
+TXN0042422,Invalid VPA,0,False
+TXN0042441,Daily limit exceeded,3,False
+TXN0042442,Insufficient balance,0,True
+TXN0042452,Account blocked,2,False
+TXN0042456,Daily limit exceeded,1,True
+TXN0042463,Daily limit exceeded,0,False
+TXN0042465,Daily limit exceeded,3,False
+TXN0042468,Invalid VPA,1,False
+TXN0042481,Invalid VPA,2,False
+TXN0042495,Account blocked,1,True
+TXN0042529,Network error,3,True
+TXN0042552,Invalid VPA,3,True
+TXN0042557,Account blocked,0,False
+TXN0042558,Invalid VPA,1,False
+TXN0042580,Account blocked,0,True
+TXN0042607,Bank server timeout,1,True
+TXN0042621,Bank server timeout,1,True
+TXN0042654,Network error,0,False
+TXN0042661,Account blocked,2,False
+TXN0042663,Insufficient balance,2,True
+TXN0042673,Account blocked,2,False
+TXN0042686,Insufficient balance,0,False
+TXN0042687,Invalid VPA,3,False
+TXN0042695,Bank server timeout,3,True
+TXN0042755,Bank server timeout,1,False
+TXN0042759,Insufficient balance,2,True
+TXN0042761,Account blocked,3,False
+TXN0042775,Daily limit exceeded,2,True
+TXN0042785,Invalid VPA,3,True
+TXN0042789,Bank server timeout,1,False
+TXN0042793,Invalid VPA,2,True
+TXN0042805,Daily limit exceeded,2,False
+TXN0042816,Insufficient balance,2,True
+TXN0042833,Bank server timeout,0,False
+TXN0042882,Bank server timeout,2,False
+TXN0042889,Daily limit exceeded,1,False
+TXN0042890,Daily limit exceeded,1,True
+TXN0042897,Account blocked,3,False
+TXN0042903,Bank server timeout,2,True
+TXN0042914,Invalid VPA,1,False
+TXN0042927,Network error,3,True
+TXN0042928,Invalid VPA,3,True
+TXN0042929,Bank server timeout,3,False
+TXN0042933,Invalid VPA,3,True
+TXN0042935,Daily limit exceeded,2,True
+TXN0042943,Insufficient balance,2,False
+TXN0042952,Network error,0,True
+TXN0042963,Daily limit exceeded,2,True
+TXN0042986,Daily limit exceeded,0,False
+TXN0042999,Invalid VPA,1,True
+TXN0043028,Daily limit exceeded,3,True
+TXN0043067,Insufficient balance,1,False
+TXN0043072,Daily limit exceeded,3,False
+TXN0043080,Account blocked,3,True
+TXN0043088,Invalid VPA,1,False
+TXN0043102,Daily limit exceeded,0,True
+TXN0043149,Network error,2,True
+TXN0043162,Account blocked,3,False
+TXN0043164,Daily limit exceeded,2,False
+TXN0043170,Insufficient balance,1,False
+TXN0043184,Insufficient balance,3,False
+TXN0043186,Daily limit exceeded,1,True
+TXN0043199,Daily limit exceeded,3,False
+TXN0043226,Account blocked,3,False
+TXN0043238,Invalid VPA,3,False
+TXN0043248,Insufficient balance,2,True
+TXN0043257,Daily limit exceeded,2,True
+TXN0043263,Daily limit exceeded,1,False
+TXN0043265,Invalid VPA,2,False
+TXN0043268,Bank server timeout,2,False
+TXN0043303,Insufficient balance,2,True
+TXN0043323,Invalid VPA,1,False
+TXN0043345,Daily limit exceeded,1,True
+TXN0043357,Daily limit exceeded,0,False
+TXN0043374,Bank server timeout,0,True
+TXN0043393,Account blocked,1,False
+TXN0043396,Account blocked,3,False
+TXN0043399,Invalid VPA,3,False
+TXN0043405,Bank server timeout,0,True
+TXN0043420,Daily limit exceeded,0,True
+TXN0043445,Insufficient balance,2,False
+TXN0043446,Account blocked,0,False
+TXN0043451,Bank server timeout,1,True
+TXN0043458,Bank server timeout,3,False
+TXN0043472,Insufficient balance,3,True
+TXN0043496,Network error,2,True
+TXN0043499,Insufficient balance,2,False
+TXN0043531,Daily limit exceeded,2,True
+TXN0043542,Invalid VPA,1,True
+TXN0043543,Network error,0,True
+TXN0043549,Daily limit exceeded,1,False
+TXN0043552,Network error,3,False
+TXN0043557,Bank server timeout,3,False
+TXN0043564,Account blocked,3,False
+TXN0043621,Bank server timeout,3,False
+TXN0043624,Daily limit exceeded,0,False
+TXN0043651,Invalid VPA,0,True
+TXN0043668,Insufficient balance,2,False
+TXN0043670,Network error,0,False
+TXN0043682,Daily limit exceeded,1,True
+TXN0043686,Insufficient balance,1,False
+TXN0043692,Invalid VPA,2,False
+TXN0043702,Bank server timeout,3,True
+TXN0043721,Invalid VPA,1,False
+TXN0043750,Bank server timeout,0,False
+TXN0043758,Insufficient balance,3,True
+TXN0043787,Invalid VPA,0,False
+TXN0043809,Daily limit exceeded,0,False
+TXN0043824,Daily limit exceeded,3,True
+TXN0043853,Invalid VPA,2,True
+TXN0043877,Insufficient balance,2,False
+TXN0043901,Account blocked,2,False
+TXN0043910,Account blocked,0,False
+TXN0043939,Bank server timeout,3,False
+TXN0043960,Network error,2,True
+TXN0043971,Bank server timeout,3,True
+TXN0043972,Network error,1,False
+TXN0043989,Bank server timeout,2,False
+TXN0044013,Bank server timeout,3,False
+TXN0044014,Daily limit exceeded,3,True
+TXN0044020,Insufficient balance,0,True
+TXN0044033,Invalid VPA,3,False
+TXN0044036,Network error,0,False
+TXN0044061,Network error,3,True
+TXN0044107,Daily limit exceeded,0,False
+TXN0044110,Daily limit exceeded,1,True
+TXN0044143,Account blocked,1,True
+TXN0044171,Daily limit exceeded,3,False
+TXN0044176,Insufficient balance,3,True
+TXN0044216,Invalid VPA,3,False
+TXN0044227,Network error,2,False
+TXN0044236,Account blocked,1,False
+TXN0044240,Network error,3,True
+TXN0044241,Invalid VPA,0,False
+TXN0044269,Bank server timeout,1,False
+TXN0044286,Bank server timeout,1,True
+TXN0044301,Invalid VPA,0,True
+TXN0044328,Invalid VPA,3,True
+TXN0044339,Insufficient balance,2,False
+TXN0044372,Daily limit exceeded,2,True
+TXN0044380,Network error,0,False
+TXN0044405,Insufficient balance,1,True
+TXN0044461,Account blocked,1,True
+TXN0044475,Network error,2,True
+TXN0044482,Invalid VPA,3,False
+TXN0044497,Insufficient balance,3,True
+TXN0044500,Account blocked,0,False
+TXN0044507,Invalid VPA,1,False
+TXN0044532,Bank server timeout,1,False
+TXN0044534,Network error,0,False
+TXN0044550,Bank server timeout,1,False
+TXN0044557,Bank server timeout,0,False
+TXN0044559,Network error,3,True
+TXN0044571,Daily limit exceeded,0,False
+TXN0044577,Invalid VPA,2,True
+TXN0044587,Bank server timeout,1,False
+TXN0044600,Network error,2,False
+TXN0044608,Network error,2,True
+TXN0044626,Network error,2,False
+TXN0044630,Bank server timeout,1,False
+TXN0044651,Insufficient balance,3,True
+TXN0044659,Account blocked,1,False
+TXN0044661,Invalid VPA,0,True
+TXN0044674,Bank server timeout,3,False
+TXN0044692,Insufficient balance,3,True
+TXN0044693,Account blocked,1,True
+TXN0044712,Network error,0,True
+TXN0044746,Bank server timeout,0,False
+TXN0044785,Insufficient balance,3,True
+TXN0044793,Network error,2,False
+TXN0044811,Insufficient balance,0,False
+TXN0044842,Daily limit exceeded,3,True
+TXN0044848,Account blocked,1,True
+TXN0044850,Invalid VPA,0,False
+TXN0044864,Bank server timeout,1,True
+TXN0044935,Network error,2,False
+TXN0044947,Daily limit exceeded,1,True
+TXN0044952,Invalid VPA,1,True
+TXN0044981,Account blocked,1,True
+TXN0044994,Insufficient balance,2,True
+TXN0045010,Network error,2,False
+TXN0045014,Daily limit exceeded,3,False
+TXN0045031,Insufficient balance,0,True
+TXN0045036,Network error,2,False
+TXN0045141,Account blocked,1,False
+TXN0045156,Daily limit exceeded,1,False
+TXN0045157,Daily limit exceeded,3,False
+TXN0045174,Account blocked,1,False
+TXN0045210,Account blocked,0,True
+TXN0045212,Insufficient balance,1,False
+TXN0045228,Invalid VPA,3,False
+TXN0045232,Network error,0,True
+TXN0045266,Bank server timeout,2,False
+TXN0045272,Insufficient balance,2,False
+TXN0045319,Invalid VPA,0,True
+TXN0045328,Bank server timeout,1,False
+TXN0045348,Insufficient balance,1,True
+TXN0045351,Insufficient balance,1,False
+TXN0045431,Invalid VPA,0,False
+TXN0045438,Insufficient balance,1,True
+TXN0045473,Insufficient balance,3,False
+TXN0045483,Account blocked,3,True
+TXN0045489,Network error,3,False
+TXN0045503,Invalid VPA,3,False
+TXN0045507,Daily limit exceeded,1,False
+TXN0045520,Account blocked,1,False
+TXN0045521,Invalid VPA,0,False
+TXN0045523,Account blocked,1,True
+TXN0045569,Insufficient balance,0,True
+TXN0045585,Daily limit exceeded,1,True
+TXN0045588,Invalid VPA,2,False
+TXN0045592,Bank server timeout,3,False
+TXN0045599,Daily limit exceeded,2,True
+TXN0045634,Daily limit exceeded,3,True
+TXN0045637,Invalid VPA,2,False
+TXN0045658,Account blocked,3,False
+TXN0045672,Daily limit exceeded,0,False
+TXN0045697,Daily limit exceeded,2,True
+TXN0045699,Insufficient balance,1,True
+TXN0045708,Bank server timeout,3,False
+TXN0045740,Network error,2,False
+TXN0045754,Invalid VPA,0,False
+TXN0045769,Insufficient balance,0,False
+TXN0045776,Network error,3,False
+TXN0045778,Daily limit exceeded,3,True
+TXN0045783,Daily limit exceeded,0,False
+TXN0045829,Network error,1,False
+TXN0045832,Daily limit exceeded,3,True
+TXN0045850,Bank server timeout,0,True
+TXN0045853,Insufficient balance,0,True
+TXN0045872,Insufficient balance,2,False
+TXN0045896,Daily limit exceeded,1,False
+TXN0045911,Insufficient balance,0,False
+TXN0045926,Daily limit exceeded,2,False
+TXN0045930,Daily limit exceeded,3,False
+TXN0045944,Network error,2,False
+TXN0045945,Insufficient balance,3,False
+TXN0045957,Network error,1,True
+TXN0045962,Insufficient balance,0,True
+TXN0045972,Network error,0,False
+TXN0045982,Daily limit exceeded,1,False
+TXN0045990,Bank server timeout,2,False
+TXN0045998,Invalid VPA,3,False
+TXN0046017,Insufficient balance,3,True
+TXN0046019,Insufficient balance,1,False
+TXN0046021,Bank server timeout,3,True
+TXN0046043,Network error,2,False
+TXN0046048,Account blocked,0,True
+TXN0046092,Invalid VPA,2,False
+TXN0046120,Daily limit exceeded,3,True
+TXN0046122,Bank server timeout,2,False
+TXN0046132,Insufficient balance,1,False
+TXN0046136,Daily limit exceeded,1,False
+TXN0046140,Insufficient balance,3,False
+TXN0046144,Bank server timeout,0,False
+TXN0046151,Invalid VPA,0,False
+TXN0046155,Daily limit exceeded,1,False
+TXN0046179,Account blocked,1,True
+TXN0046180,Bank server timeout,1,False
+TXN0046184,Invalid VPA,2,True
+TXN0046218,Account blocked,1,False
+TXN0046225,Insufficient balance,3,True
+TXN0046226,Network error,2,False
+TXN0046268,Insufficient balance,3,True
+TXN0046271,Account blocked,0,False
+TXN0046272,Network error,1,True
+TXN0046275,Invalid VPA,2,False
+TXN0046277,Insufficient balance,3,True
+TXN0046299,Daily limit exceeded,1,False
+TXN0046315,Network error,3,False
+TXN0046345,Network error,0,False
+TXN0046346,Network error,2,False
+TXN0046347,Daily limit exceeded,0,True
+TXN0046359,Daily limit exceeded,0,False
+TXN0046366,Daily limit exceeded,2,False
+TXN0046376,Bank server timeout,0,True
+TXN0046390,Insufficient balance,3,False
+TXN0046393,Invalid VPA,0,True
+TXN0046395,Network error,0,False
+TXN0046424,Account blocked,0,False
+TXN0046429,Bank server timeout,1,False
+TXN0046440,Account blocked,0,True
+TXN0046459,Insufficient balance,1,True
+TXN0046466,Bank server timeout,0,False
+TXN0046485,Insufficient balance,0,False
+TXN0046496,Daily limit exceeded,0,True
+TXN0046513,Daily limit exceeded,1,False
+TXN0046534,Insufficient balance,3,True
+TXN0046537,Invalid VPA,0,True
+TXN0046568,Daily limit exceeded,2,False
+TXN0046573,Insufficient balance,3,False
+TXN0046597,Insufficient balance,1,False
+TXN0046613,Daily limit exceeded,0,False
+TXN0046624,Daily limit exceeded,0,False
+TXN0046639,Invalid VPA,2,False
+TXN0046643,Invalid VPA,2,False
+TXN0046671,Daily limit exceeded,0,True
+TXN0046710,Bank server timeout,3,False
+TXN0046713,Insufficient balance,3,True
+TXN0046724,Invalid VPA,3,False
+TXN0046726,Invalid VPA,1,False
+TXN0046736,Account blocked,1,True
+TXN0046738,Network error,0,False
+TXN0046764,Bank server timeout,2,True
+TXN0046780,Account blocked,3,False
+TXN0046788,Invalid VPA,3,True
+TXN0046798,Daily limit exceeded,2,True
+TXN0046808,Insufficient balance,2,True
+TXN0046861,Insufficient balance,0,False
+TXN0046912,Insufficient balance,0,False
+TXN0046916,Network error,0,False
+TXN0046934,Network error,0,False
+TXN0046938,Invalid VPA,1,False
+TXN0046949,Invalid VPA,2,False
+TXN0046955,Account blocked,2,True
+TXN0046963,Account blocked,2,False
+TXN0046966,Insufficient balance,1,False
+TXN0046975,Network error,3,False
+TXN0046984,Network error,0,True
+TXN0046994,Account blocked,0,False
+TXN0047001,Network error,1,True
+TXN0047017,Account blocked,1,True
+TXN0047026,Insufficient balance,2,False
+TXN0047048,Invalid VPA,1,False
+TXN0047084,Invalid VPA,2,True
+TXN0047092,Daily limit exceeded,0,False
+TXN0047134,Account blocked,1,True
+TXN0047139,Insufficient balance,2,False
+TXN0047170,Insufficient balance,0,True
+TXN0047177,Bank server timeout,3,False
+TXN0047193,Bank server timeout,2,True
+TXN0047197,Invalid VPA,2,False
+TXN0047211,Bank server timeout,2,False
+TXN0047242,Account blocked,0,False
+TXN0047249,Insufficient balance,1,True
+TXN0047254,Invalid VPA,3,False
+TXN0047261,Daily limit exceeded,0,False
+TXN0047265,Invalid VPA,1,False
+TXN0047271,Network error,3,False
+TXN0047289,Account blocked,3,True
+TXN0047292,Daily limit exceeded,0,False
+TXN0047299,Invalid VPA,1,True
+TXN0047308,Network error,1,False
+TXN0047320,Insufficient balance,1,False
+TXN0047323,Account blocked,3,False
+TXN0047324,Invalid VPA,0,True
+TXN0047384,Insufficient balance,1,True
+TXN0047399,Invalid VPA,0,True
+TXN0047402,Bank server timeout,2,True
+TXN0047406,Bank server timeout,2,False
+TXN0047417,Network error,1,True
+TXN0047428,Bank server timeout,0,True
+TXN0047441,Invalid VPA,0,True
+TXN0047465,Daily limit exceeded,1,True
+TXN0047474,Network error,0,True
+TXN0047486,Bank server timeout,2,True
+TXN0047506,Account blocked,3,False
+TXN0047525,Account blocked,1,True
+TXN0047539,Daily limit exceeded,0,False
+TXN0047569,Network error,0,True
+TXN0047597,Bank server timeout,2,False
+TXN0047603,Invalid VPA,1,False
+TXN0047632,Bank server timeout,3,False
+TXN0047642,Daily limit exceeded,0,False
+TXN0047644,Daily limit exceeded,0,True
+TXN0047659,Invalid VPA,2,True
+TXN0047695,Bank server timeout,3,False
+TXN0047705,Invalid VPA,1,False
+TXN0047710,Network error,1,True
+TXN0047718,Network error,0,False
+TXN0047721,Account blocked,2,False
+TXN0047728,Insufficient balance,1,False
+TXN0047750,Network error,3,False
+TXN0047760,Account blocked,0,False
+TXN0047768,Daily limit exceeded,1,False
+TXN0047774,Insufficient balance,3,False
+TXN0047778,Insufficient balance,1,True
+TXN0047802,Bank server timeout,0,True
+TXN0047805,Daily limit exceeded,2,False
+TXN0047816,Invalid VPA,2,True
+TXN0047826,Bank server timeout,2,False
+TXN0047832,Account blocked,2,False
+TXN0047833,Daily limit exceeded,2,True
+TXN0047867,Insufficient balance,1,False
+TXN0047893,Insufficient balance,0,True
+TXN0047909,Insufficient balance,3,False
+TXN0047921,Account blocked,0,True
+TXN0047929,Account blocked,1,False
+TXN0047965,Account blocked,2,False
+TXN0047969,Daily limit exceeded,1,False
+TXN0047999,Insufficient balance,0,False
+TXN0048023,Account blocked,2,True
+TXN0048034,Insufficient balance,0,False
+TXN0048039,Daily limit exceeded,2,True
+TXN0048077,Insufficient balance,2,True
+TXN0048093,Account blocked,3,True
+TXN0048096,Daily limit exceeded,1,False
+TXN0048117,Account blocked,2,False
+TXN0048135,Network error,3,True
+TXN0048159,Insufficient balance,0,True
+TXN0048171,Invalid VPA,0,True
+TXN0048192,Insufficient balance,0,False
+TXN0048207,Account blocked,3,True
+TXN0048215,Invalid VPA,2,False
+TXN0048222,Bank server timeout,2,False
+TXN0048246,Daily limit exceeded,2,True
+TXN0048253,Invalid VPA,1,True
+TXN0048276,Invalid VPA,1,False
+TXN0048286,Invalid VPA,1,True
+TXN0048294,Insufficient balance,3,True
+TXN0048297,Daily limit exceeded,1,True
+TXN0048298,Network error,1,False
+TXN0048314,Bank server timeout,3,False
+TXN0048330,Network error,3,False
+TXN0048331,Bank server timeout,2,False
+TXN0048352,Account blocked,0,False
+TXN0048382,Network error,1,False
+TXN0048389,Account blocked,1,True
+TXN0048410,Insufficient balance,1,False
+TXN0048417,Account blocked,3,True
+TXN0048433,Daily limit exceeded,0,False
+TXN0048438,Invalid VPA,1,True
+TXN0048449,Insufficient balance,0,True
+TXN0048470,Daily limit exceeded,2,True
+TXN0048483,Bank server timeout,0,True
+TXN0048505,Insufficient balance,0,False
+TXN0048521,Bank server timeout,3,True
+TXN0048522,Daily limit exceeded,0,True
+TXN0048565,Invalid VPA,1,True
+TXN0048571,Bank server timeout,2,False
+TXN0048579,Account blocked,3,True
+TXN0048581,Network error,3,False
+TXN0048589,Account blocked,3,False
+TXN0048615,Insufficient balance,3,False
+TXN0048628,Insufficient balance,0,True
+TXN0048639,Network error,2,True
+TXN0048660,Insufficient balance,1,False
+TXN0048662,Network error,0,True
+TXN0048683,Invalid VPA,1,True
+TXN0048716,Insufficient balance,1,False
+TXN0048724,Invalid VPA,2,False
+TXN0048748,Insufficient balance,0,False
+TXN0048761,Account blocked,2,True
+TXN0048762,Daily limit exceeded,2,True
+TXN0048767,Bank server timeout,0,False
+TXN0048788,Insufficient balance,2,True
+TXN0048818,Insufficient balance,0,False
+TXN0048844,Insufficient balance,2,False
+TXN0048846,Insufficient balance,2,False
+TXN0048870,Invalid VPA,2,False
+TXN0048873,Account blocked,1,False
+TXN0048915,Account blocked,1,False
+TXN0048917,Invalid VPA,1,True
+TXN0048953,Bank server timeout,2,True
+TXN0048955,Invalid VPA,0,True
+TXN0048976,Daily limit exceeded,1,True
+TXN0048980,Account blocked,1,False
+TXN0048981,Insufficient balance,0,False
+TXN0048982,Insufficient balance,2,True
+TXN0048988,Bank server timeout,1,False
+TXN0048995,Insufficient balance,2,False
+TXN0049007,Bank server timeout,1,True
+TXN0049022,Account blocked,3,False
+TXN0049033,Bank server timeout,2,False
+TXN0049036,Bank server timeout,2,False
+TXN0049042,Invalid VPA,1,False
+TXN0049050,Network error,3,False
+TXN0049052,Network error,0,False
+TXN0049059,Bank server timeout,2,False
+TXN0049062,Invalid VPA,0,False
+TXN0049069,Insufficient balance,1,False
+TXN0049078,Bank server timeout,1,False
+TXN0049093,Insufficient balance,3,False
+TXN0049117,Network error,2,True
+TXN0049121,Network error,3,False
+TXN0049140,Daily limit exceeded,3,False
+TXN0049143,Invalid VPA,2,False
+TXN0049146,Insufficient balance,1,False
+TXN0049181,Insufficient balance,0,False
+TXN0049184,Bank server timeout,0,False
+TXN0049210,Network error,3,False
+TXN0049230,Bank server timeout,1,False
+TXN0049233,Account blocked,0,False
+TXN0049241,Invalid VPA,3,False
+TXN0049252,Bank server timeout,1,False
+TXN0049261,Network error,2,True
+TXN0049263,Network error,0,True
+TXN0049270,Account blocked,3,True
+TXN0049295,Network error,3,True
+TXN0049301,Daily limit exceeded,0,False
+TXN0049304,Invalid VPA,0,True
+TXN0049320,Bank server timeout,2,False
+TXN0049324,Insufficient balance,2,True
+TXN0049332,Insufficient balance,2,False
+TXN0049342,Account blocked,0,True
+TXN0049343,Invalid VPA,2,False
+TXN0049350,Bank server timeout,0,False
+TXN0049353,Account blocked,1,True
+TXN0049364,Daily limit exceeded,1,False
+TXN0049391,Account blocked,3,False
+TXN0049395,Bank server timeout,2,True
+TXN0049401,Insufficient balance,3,False
+TXN0049432,Daily limit exceeded,0,True
+TXN0049482,Account blocked,2,False
+TXN0049499,Bank server timeout,1,False
+TXN0049522,Daily limit exceeded,0,True
+TXN0049529,Invalid VPA,3,True
+TXN0049532,Bank server timeout,1,True
+TXN0049536,Invalid VPA,2,False
+TXN0049539,Account blocked,0,True
+TXN0049551,Insufficient balance,3,False
+TXN0049562,Bank server timeout,3,True
+TXN0049585,Network error,0,True
+TXN0049587,Invalid VPA,3,True
+TXN0049593,Network error,0,False
+TXN0049612,Insufficient balance,0,False
+TXN0049616,Invalid VPA,1,True
+TXN0049715,Account blocked,3,True
+TXN0049716,Invalid VPA,3,False
+TXN0049720,Invalid VPA,2,True
+TXN0049739,Network error,0,False
+TXN0049745,Invalid VPA,1,True
+TXN0049753,Invalid VPA,2,False
+TXN0049765,Network error,2,False
+TXN0049786,Insufficient balance,1,False
+TXN0049816,Network error,1,False
+TXN0049888,Bank server timeout,0,True
+TXN0049904,Invalid VPA,1,True
+TXN0049941,Network error,1,True
+TXN0049961,Network error,3,True
+TXN0049986,Daily limit exceeded,2,False
