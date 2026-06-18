@@ -23,7 +23,7 @@ Analyzed 50,000 UPI transactions to uncover fraud patterns &amp; flag risky merc
 
 ### 📸 Excel Dashboard Preview
 
-![Excel Dashboard](PASTE_SCREENSHOT_LINK_HERE)
+![Excel Dashboard](https://github.com/mahesh735-ai/UPI-Transaction-Fraud-Risk-Analytics/blob/main/Excel_Dashboard_screenshot.png)
 
 ### 📊 Current Progress
 
