@@ -16,8 +16,6 @@ Analyzed 50,000 UPI transactions to uncover fraud patterns &amp; flag risky merc
 
 ### 🔄 In Progress
 
-- Power BI Dashboard (3 Pages)
-- Business Insights & Recommendations
 - Final Documentation
 - Project Report & Presentation
 
