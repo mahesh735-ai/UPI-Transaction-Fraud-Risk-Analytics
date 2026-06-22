@@ -74,13 +74,13 @@ All five raw tables were merged into a single master DataFrame, cleaned, and enr
 
 **Fraud peaks in the early morning hours (12AM–4AM)**
 
-![Peak fraud hours](images/eda_peak_hours.png)
+![Peak fraud hours](https://github.com/mahesh735-ai/UPI-Transaction-Fraud-Risk-Analytics/blob/main/Peak%20fraud%20hours.png)
 
 > Fraud activity peaks when user monitoring is lowest — these transactions should trigger automatic step-up authentication or temporary holds.
 
 **Debit Card carries the highest fraud rate among all channels**
 
-![Fraud rate by channel](images/eda_channel_fraud.png)
+![Fraud rate by channel](https://github.com/mahesh735-ai/UPI-Transaction-Fraud-Risk-Analytics/blob/main/Fraud%20rate%20by%20channel.png)
 
 > Debit Card shows the highest fraud rate (3.73%) while Wallet is the safest channel — stronger authentication should be prioritized for Debit Card, particularly for high-value payments.
 
@@ -110,7 +110,7 @@ Full query set: [`sql/business_queries.sql`](sql/business_queries.sql) · Schema
 
 Built for the **operations team** — a row-level investigation tool rather than an executive summary, connected to the cleaned transaction-level data via Power Query.
 
-![Excel Dashboard](images/excel_dashboard.png)
+![Excel Dashboard](https://github.com/mahesh735-ai/UPI-Transaction-Fraud-Risk-Analytics/blob/main/Excel_Dashboard.png)
 
 - 4 KPI cards: Total Transactions, Fraud Rate %, Total Fraud Loss, High Risk Transactions
 - Fraud Rate by City and by Merchant (sorted bar charts)
@@ -127,17 +127,17 @@ A 3-page interactive dashboard built on the same PostgreSQL schema for **senior 
 ### Page 1 — Executive Overview
 *Top-level KPIs and trends: overall fraud rate, failure rate, total fraud loss, fraud by city and channel.*
 
-![Power BI Page 1](images/powerbi_page1.png)
+![Power BI Page 1](https://github.com/mahesh735-ai/UPI-Transaction-Fraud-Risk-Analytics/blob/main/Executive%20Overview.png)
 
 ### Page 2 — Merchant Risk Analysis
 *For the fraud and merchant-relations team: highest-risk merchants, category risk, city-level fraud heatmap.*
 
-![Power BI Page 2](images/powerbi_page2.png)
+![Power BI Page 2](https://github.com/mahesh735-ai/UPI-Transaction-Fraud-Risk-Analytics/blob/main/Merchant%20Risk%20Analysis.png)
 
 ### Page 3 — User Risk Profiles
 *For the risk and compliance team: fraud by KYC status and account cohort, age-group risk, ranked high-risk user table.*
 
-![Power BI Page 3](images/powerbi_page3.png)
+![Power BI Page 3](https://github.com/mahesh735-ai/UPI-Transaction-Fraud-Risk-Analytics/blob/main/User%20Risk%20Profiles.png)
 
 A single **Dark Navy / Teal / Gold / Red** theme was applied consistently across Python charts, Excel, and all Power BI pages — red always signals fraud/risk, teal signals safety, gold flags warnings.
 
@@ -219,5 +219,5 @@ A detailed write-up with all charts, SQL query screenshots, and dashboard pages 
 **Mahesh Thakare**
 Aspiring Data Analyst | Data Science & AI (IIT Roorkee Certification via Masai School)
 
-[LinkedIn](#) · [GitHub](#)
+[LinkedIn](www.linkedin.com/in/mahesh-thakare-75817b2a7) · [GitHub](https://github.com/mahesh735-ai)
 
