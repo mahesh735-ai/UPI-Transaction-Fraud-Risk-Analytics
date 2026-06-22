@@ -210,7 +210,7 @@ upi-fraud-risk-analytics/
 
 ## 📄 Full Report
 
-A detailed write-up with all charts, SQL query screenshots, and dashboard pages is available here: [`reports/UPI_Fraud_Risk_Analytics_Report.docx`](reports/UPI_Fraud_Risk_Analytics_Report.docx)
+A detailed write-up with all charts, SQL query screenshots, and dashboard pages is available here: [`reports/UPI_Fraud_Risk_Analytics_Report.docx`](https://github.com/mahesh735-ai/UPI-Transaction-Fraud-Risk-Analytics/blob/main/UPI_Fraud_Risk_Analytics_Report.docx)
 
 ---
 
